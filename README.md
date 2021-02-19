@@ -13,6 +13,7 @@ PYTHON  ||  VISUAL STUDIO CODE  || MICROSOFT OFFICE EXCEL 2019.
     Información de contacto... 
     WhatsApp: +569 929 90 240
     Email: axel.astete.o@gmail.com
+  
 👋
 
 <!--
