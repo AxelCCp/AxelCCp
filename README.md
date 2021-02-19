@@ -3,7 +3,7 @@
 
 🌱 Actualmente estoy aprendiendo HTML5 y profundizando acerca del uso de Frameworks con Java. 👯 Me interesa colaborar en proyectos Open Source. ⚡ Me gustan los proyectos que presenten un desafío profesional, siempre estoy investigando nuevas soluciones y soy autodidacta. 😄 Mi personalidad es adaptable a diversos ambientes laborales, siempre quiero incorporarme lo más rápido posible a un equipo de trabajo y sé trabajar bajo presión. Finalmente, dentro de mis objetivos, quiero obtener próximamente las certificaciones de Oracle en el lenguaje Java y estudio por mi cuenta para el Exam 1Z0-808 y Exam 1Z0-809. 💬
 
-⚡Competencias a destacar:
+⚡Competencias a destacar: <br>
 JAVA 8 SE y EE <br>
 ECLIPSE <br>
 SPRING <br>
@@ -14,7 +14,7 @@ GIT & GITHUB <br>
 SQL <br>
 HTML5 <br>
 
-⚡Otras Competencias:
+⚡Otras Competencias: <br>
 PYTHON <br>
 VISUAL STUDIO CODE <br>
 MICROSOFT OFFICE EXCEL 2019 <br>
