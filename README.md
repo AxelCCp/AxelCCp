@@ -4,15 +4,29 @@
 🌱 Actualmente estoy aprendiendo HTML5 y profundizando acerca del uso de Frameworks con Java. 👯 Me interesa colaborar en proyectos Open Source. ⚡ Me gustan los proyectos que presenten un desafío profesional, siempre estoy investigando nuevas soluciones y soy autodidacta. 😄 Mi personalidad es adaptable a diversos ambientes laborales, siempre quiero incorporarme lo más rápido posible a un equipo de trabajo y sé trabajar bajo presión. Finalmente, dentro de mis objetivos, quiero obtener próximamente las certificaciones de Oracle en el lenguaje Java y estudio por mi cuenta para el Exam 1Z0-808 y Exam 1Z0-809. 💬
 
 ⚡Competencias a destacar:
-JAVA 8 SE y EE. || ECLIPSE || SPRING  ||  HIBERNATE ||  APACHE TOMCAT ||  WampServer y Xampp  ||  GIT & GITHUB  ||  SQL ||  HTML5.
+JAVA 8 SE y EE <br>
+ECLIPSE <br>
+SPRING <br>
+HIBERNATE <br>
+APACHE TOMCAT <br>
+WampServer y Xampp <br>
+GIT & GITHUB <br>
+SQL <br>
+HTML5 <br>
 
 ⚡Otras Competencias:
-PYTHON  ||  VISUAL STUDIO CODE  || MICROSOFT OFFICE EXCEL 2019.
+PYTHON <br>
+VISUAL STUDIO CODE <br>
+MICROSOFT OFFICE EXCEL 2019 <br>
 
 📫 Más acerca de mí, soy de Santiago de Chile y temporalmente estoy viviendo en Ciudad de México. 
-    Información de contacto... 
-    WhatsApp: +569 929 90 240
+    Información de contacto...<br>
+    WhatsApp: +569 929 90 240<br>
     Email: axel.astete.o@gmail.com
+ 
+ ⚡RESUMEN DE MIS REPOSITORIOS PUBLICOS:<br>
+  DESARROLLO DEL CURSO COMPLETO "SPRING" DE LA ACADEMIA VIRTUAL PÍLDORAS INFORMÁTICAS.<br>
+  DESARROLLO DEL CURSO COMPLETO "JAVA DESDE 0" DE LA ACADEMIA VIRTUAL PÍLDORAS INFORMÁTICAS.<br>
   
 👋
 
