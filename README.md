@@ -1,7 +1,11 @@
 ### Hola soy Axel 👋
 ✨ Inicialmente, estudié Ingeniería en comercio internacional y hace un tiempo, reinventé mi carrera profesional. Sé programar en Java8 SE. y EE., 🔭 y he tenido la oportunidad de trabajar remoto para proyectos de México.✨ 
 
-🌱 Actualmente estoy aprendiendo HTML5 y Spring Boot. 👯 Me interesa colaborar en proyectos Open Source. ⚡ Me gustan los proyectos que presenten un desafío profesional, siempre estoy investigando nuevas soluciones y soy autodidacta. 😄 Mi personalidad es adaptable a diversos ambientes laborales, siempre quiero incorporarme lo más rápido posible a un equipo de trabajo y sé trabajar bajo presión. Finalmente, dentro de mis objetivos, quiero obtener próximamente las certificaciones de Oracle en el lenguaje Java y estudio por mi cuenta para el Exam 1Z0-808 y Exam 1Z0-809. 💬
+🌱 Actualmente estoy aprendiendo: 
+HTML5 con Pildoras Informáticas. <br>
+Spring Boot con Byte Code. <br>
+
+👯 Me interesa colaborar en proyectos Open Source. ⚡ Me gustan los proyectos que presenten un desafío profesional, siempre estoy investigando nuevas soluciones y soy autodidacta. 😄 Mi personalidad es adaptable a diversos ambientes laborales, siempre quiero incorporarme lo más rápido posible a un equipo de trabajo y sé trabajar bajo presión. Finalmente, dentro de mis objetivos, quiero obtener próximamente las certificaciones de Oracle en el lenguaje Java y estudio por mi cuenta para el Exam 1Z0-808 y Exam 1Z0-809. 💬
 
 ⚡Competencias a destacar: <br>
 JAVA 8 SE y EE <br>
