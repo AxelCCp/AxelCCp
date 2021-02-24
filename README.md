@@ -1,7 +1,7 @@
 ### Hola soy Axel 👋
 ✨ Inicialmente, estudié Ingeniería en comercio internacional y hace un tiempo, reinventé mi carrera profesional. Sé programar en Java8 SE. y EE., 🔭 y he tenido la oportunidad de trabajar remoto para proyectos de México.✨ 
 
-🌱 Actualmente estoy aprendiendo: 
+🌱 Actualmente estoy aprendiendo: <br> 
 HTML5 con Pildoras Informáticas. <br>
 Spring Boot con Byte Code. <br>
 
