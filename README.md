@@ -8,16 +8,46 @@
 
 👯 Me interesa colaborar en proyectos Open Source. ⚡ Me gustan los proyectos que presenten un desafío profesional, siempre estoy investigando nuevas soluciones y soy autodidacta. 😄 Mi personalidad es adaptable a diversos ambientes laborales, siempre quiero incorporarme lo más rápido posible a un equipo de trabajo y sé trabajar bajo presión. 
 
-⚡Competencias a destacar: <br>
-JAVA 8 SE. y EE. <br>
-ECLIPSE <br>
-VISUAL STUDIO CODE <br>
-SPRING <br>
-SPRING BOOT<br>
-HIBERNATE <br>
-APACHE TOMCAT <br>
-GIT & GITHUB <br>
-SQL <br>
+⚡
+   
+    <table align="center" border="0" width="56%">
+        <tr>
+          <th colspan="3">SKILLS:</th>
+        </tr>
+        <tr>
+          <td ><font color="orange">Java 8 & 11 SE. & EE.</font></td>
+          <td ><font color="aqua">Eclipse</font></td>
+          <td ><font color="aqua">Intellij</font></td>
+          <td ><font color="aqua">Visual Studio Code</font></td>
+        </tr>
+        <tr>
+          <td ><font color="yellow">Spring Framework</font></td>
+          <td ><font color="yellow">Spring boot</font></td>
+          <td ><font color="yellow">Hibernate</font></td>
+          <td><font color="orange">HTML(Studying)</font></td>
+        </tr>
+        <tr>
+          <td >Apache Tomcat</td>
+          <td >Maven</td>
+          <td><font color="orange">JavaScript(Studying)</font></td>
+          <td></td></td>
+        </tr>
+        <tr>
+            <td >WampServer/Xamp</td>
+            <td >MySql</td>
+            <td >Git & GitHub</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td >Postman</td>
+            <td ><font color="orange">Python</font></td>
+            <td >Excel 2019</td>
+            <td></td>
+          </tr>
+      </table>
+      <br/>
+
+
 
 ⚡Otras Competencias: <br>
 PYTHON <br>
