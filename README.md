@@ -1,15 +1,4 @@
-### Hola soy Axel 👋
-✨ Inicialmente, estudié Ingeniería en comercio internacional y hace un tiempo, reinventé mi carrera profesional. Sé programar en Java8 SE. y EE.
-<br>
-🌱 Actualmente sigo aprendiendo acerca de: Java, Spring e Hibernate.
-<br>
-🌱Y estoy realizando cursos de: HTML5 y JavaScript. 
-<br>
-
-👯 Me interesa colaborar en proyectos Open Source. ⚡ Me gustan los proyectos que presenten un desafío profesional, siempre estoy investigando nuevas soluciones y soy autodidacta. 😄 Mi personalidad es adaptable a diversos ambientes laborales, siempre quiero incorporarme lo más rápido posible a un equipo de trabajo y sé trabajar bajo presión. 
-
-⚡
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +7,6 @@
     <title>Document</title>
 
     <style>
-
         table{
             background-color: rgb(65, 65, 65);
             /*height: 30px;*/
@@ -28,8 +16,6 @@
             text-align: left;
             font-family: Arial, Helvetica, sans-serif;
         }
-
-
     </style>
 
 </head>
@@ -56,7 +42,7 @@
           <td >Apache Tomcat</td>
           <td >Maven</td>
           <td><font color="orange">JavaScript(Studying)</font></td>
-          <td></td></td>
+          <td></td>
         </tr>
         <tr>
             <td >WampServer/Xamp</td>
