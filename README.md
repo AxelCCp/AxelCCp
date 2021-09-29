@@ -80,13 +80,13 @@ Email: axel.astete.o@gmail.com
                     5.-IT Security: Defense against the digital dark arts.
                 </td>
                 <td width="2%"></td>
-                <td><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL</b><br/>
+                <td><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
                     LEARN TO DEVELOP WITH PYTHON<br/>
                     1.-Introduction to programming with Python.<br/>
                     2.-Python data structures.<br/>
                     3.-Object oriented programming with Python. <br/>
                     4.-Management of databases with Python<br/>
-                    &nbsp;&nbsp;<i>#with Visual Studio Code / ARGENTINA.</i>
+                    &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
                 </td>
             </tr>
          </table>
