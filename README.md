@@ -1,10 +1,27 @@
+👋 Hello I'm Axel<br/>
+I'm a Java Developer (Junior)<br/>
 
+⚡ABOUT ME ...<br/>
+Initially, I studied Engineering in International Trade in Chile and now I am reinventing my professional career. I have excellent computational domain and I mainly use
+Windows, but i can also use Linux. I know how to develop in the Java language and I can speak and write in English. In the last time I have been living outside of Chile. 
+I have been living in Ciudad de México and Huntington Beach on the southern coast of the California State.
 
-    
+⚡INTERESTS ...<br/>
+I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I also know about investments in the stock market. I&#39;m more interested in the backend, but I also want to know about the frontend.
 
-    <table align="center" border="0" width="56%">
+⚡LANGUAGES ...<br/>
+Written english 80%. / Spoken english 60%.
+
+📫
+CONTACT INFORMATION ...<br/>
+Mobile: +569-929 90 240 (Chile)<br>
+Mobile: +52 55 5192 9370 (México)   😄 Now I'm here.<br>  
+Email: axel.astete.o@gmail.com
+ 
+⚡
+ <table>
         <tr>
-          <th colspan="3">SKILLS:</th>
+          <th colspan="4">SKILLS:</th>
         </tr>
         <tr>
           <td ><font color="orange">Java 8 & 11 SE. & EE.</font></td>
@@ -22,7 +39,7 @@
           <td >Apache Tomcat</td>
           <td >Maven</td>
           <td><font color="orange">JavaScript(Studying)</font></td>
-          <td></td>
+          <td></td></td>
         </tr>
         <tr>
             <td >WampServer/Xamp</td>
@@ -37,10 +54,10 @@
             <td></td>
           </tr>
       </table>
-      <br/>
-    
-     
-    <table align="center" border="0" width="56%">
+      
+  
+⚡STUDIES ...<br/>
+    <table>
         <tr>
           <th colspan="3">PROFESSIONAL STUDIES:</th>
         </tr>
@@ -49,35 +66,33 @@
               INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years.
           </td>
         </tr>
-        
       </table>
-      <br/><br/>
-
-    <table id="table1" align="center" border="0" width="56%">
-        <tr>
-            <td><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
-                GOOGLE IT SUPPORT CERTIFICATE<br/>
-                1.-Technical Support Fundamentals.<br/>
-                2.-The Bits and Bytes of Computer Networking.<br/>
-                3.-Operating Systems and You: Becoming a Power User.<br/>
-                4.-System Administration and IT Infrastructure Services.<br/>
-                5.-IT Security: Defense against the digital dark arts.
-            </td>
-            <td width="2%"></td>
-            <td><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL</b><br/>
-                LEARN TO DEVELOP WITH PYTHON<br/>
-                1.-Introduction to programming with Python.<br/>
-                2.-Python data structures.<br/>
-                3.-Object oriented programming with Python. <br/>
-                4.-Management of databases with Python<br/>
-                &nbsp;&nbsp;<i>#with Visual Studio Code / ARGENTINA.</i>
-            </td>
-        </tr>
-    </table>
-
-    <br/><br/>
-
-    <table align="center" border="0" width="56%">
+      
+ ⚡MORE STUDIES ...<br/>
+        <table>
+            <tr>
+                <td><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
+                    GOOGLE IT SUPPORT CERTIFICATE<br/>
+                    1.-Technical Support Fundamentals.<br/>
+                    2.-The Bits and Bytes of Computer Networking.<br/>
+                    3.-Operating Systems and You: Becoming a Power User.<br/>
+                    4.-System Administration and IT Infrastructure Services.<br/>
+                    5.-IT Security: Defense against the digital dark arts.
+                </td>
+                <td width="2%"></td>
+                <td><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL</b><br/>
+                    LEARN TO DEVELOP WITH PYTHON<br/>
+                    1.-Introduction to programming with Python.<br/>
+                    2.-Python data structures.<br/>
+                    3.-Object oriented programming with Python. <br/>
+                    4.-Management of databases with Python<br/>
+                    &nbsp;&nbsp;<i>#with Visual Studio Code / ARGENTINA.</i>
+                </td>
+            </tr>
+         </table>
+ 
+ ⚡MORE STUDIES ...<br/>
+      <table >
         <tr>
           <th colspan="3">TELEFÓNICA FOUNDATION COURSES:</th>
         </tr>
@@ -97,9 +112,9 @@
           <td >Web Analytics</td>
         </tr>
       </table>
-      <br/><br/>
-      
-      <table align="center" border="0" width="56%">
+ 
+⚡MORE STUDIES ...<br/>
+   <table>
         <tr>
           <th colspan="3">UNIVERSITY COURSES: </th>
         </tr>
@@ -108,14 +123,12 @@
           <td ><b>Keys to managing people:</b><br/>
                <i>Practical tools in human resources, people management and leading talent.</i>
           </td>
-         
         </tr>
         <tr>
           <td >UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO UNAM </td>
           <td ><b>New business models in the 21st century:</b><br/>
               <i>Understand the social, economic and environmental implications of social responsibility.</i>
-          </td>
-          
+          </td> 
         </tr>
         <tr>
           <td >PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE</td>
@@ -126,10 +139,12 @@
           </td>
         </tr>
       </table>
-
-      <br/><br/>
-
-      <table align="center" border="0" width="56%">
+   
+   
+   
+⚡MORE STUDIES ...<br/>
+ 
+  <table>
         <tr>
           <th colspan="3">CARLOS SLIM FOUNDATION COURSES:</th>
         </tr>
@@ -159,29 +174,31 @@
             <td >Mining Technician</td>
           </tr>
       </table>
+      
 
-    <br/><br/>
-
-    <table align="center" border="0" width="56%">
+⚡MORE STUDIES ...<br/>
+   <table>
         <tr>
-          <th colspan="2"><font color="orange">MY REPOSITORIES SUMMARY(more studies):</font></th>
+          <th colspan="2">MY REPOSITORIES SUMMARY:</th>
         </tr>
         <tr>
-          <td >YouTube channel:<br/>"Píldoras Informáticas"</td>
-          <td >Course: "Java desde 0".<br/>
+          <td >
+            YouTube channel:<br/> "Píldoras Informáticas": <br/>
+          </td>
+          <td >
+            Course: "Java desde 0".<br/>
                Repetition Course: "Java desde 0".<br/>
                Course: "Spring".<br/>
+               Repetition Course: "Spring".<br/>
                Course: "SQL".<br/>
                Course: JavaScript(Studying).<br/> 
                Course: HTML5(Studying).<br/>
                Course: Git&GitHub.
-               <br/>
           </td>
         </tr>
-
-        <tr>
+         <tr>
           <td >YouTube channel:<br/>"Disco duro de roer"</td>
-          <td >Some basic exercises.<br/></td>
+          <td >Some basic exercises.</td>
         </tr>
         <tr>
             <td >YouTube channel:<br/>"JandroCode"</td>
@@ -206,30 +223,10 @@
             <td>Course: "Edit excel with Apache POI"</td>
         </tr>
       </table>
-
-
-
-
-
-⚡
-
-📫 Más acerca de mí, soy de Santiago de Chile y temporalmente he estado viviendo en Ciudad de México y Huntington Beach, California, EEUU. <br>
-    Información de contacto:<br>
-    Teléfono/Whatsapp número de México: +52 55 5192 9370.<br>
-    Whatsapp número de Chile: +569 929 90 240.<br>
-    
-    Email: axel.astete.o@gmail.com
- 
- ⚡RESUMEN DE MIS REPOSITORIOS PUBLICOS:<br>
-  ARCHIVO .TXT CON LAS INSTRUCCIONES DEL DESARROLLO DEL "CURSO SQL", DE LA ACADEMIA VIRTUAL PÍLDORAS INFORMÁTICAS. <br>
-  DESARROLLO DEL CURSO COMPLETO "SPRING" DE LA ACADEMIA VIRTUAL PÍLDORAS INFORMÁTICAS.<br>
-  DESARROLLO DEL CURSO COMPLETO "JAVA DESDE 0" DE LA ACADEMIA VIRTUAL PÍLDORAS INFORMÁTICAS.<br>
-  ALGUNOS EJERCICIOS JAVA DE DISCO DURO DE ROER.<br>
-  CURSO DE SPRING BOOT DE JANDROCODE.<br>
-  DESARROLLANDO...CURSO DE JAVASCRIPT DE LA ACADEMIA VIRTUAL PÍLDORAS INFORMÁTICAS.<br>
-  DESARROLLANDO...CURSO DE HTML5 DE LA ACADEMIA VIRTUAL PÍLDORAS INFORMÁTICAS.<br>
-  DESARROLLANDO...<br>
-👋
+      
+      
+      
+😄BYE!!!👋
 
 <!--
 - 🤔 I’m looking for help with ...
