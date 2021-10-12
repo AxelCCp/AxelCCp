@@ -7,10 +7,10 @@ Windows, but i can also use Linux. I know how to develop in the Java language an
 I have been living in Ciudad de México and Huntington Beach on the southern coast of the California State.
 
 ⚡INTERESTS ...<br/>
-I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I also know about investments in the stock market. I&#39;m more interested in the backend, but I also want to know about the frontend.
+I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I also know about investments in the stock market. I&#39;m more interested in the backend, but I also want to know about the frontend. I lern with YouTube, Coursera, Udemy, books, etc.
 
 ⚡LANGUAGES ...<br/>
-Written english 80%. / Spoken english 60%.
+Written english 80%. / Spoken english 50%.
 
 📫
 CONTACT INFORMATION ...<br/>
@@ -225,6 +225,10 @@ Email: axel.astete.o@gmail.com
          <tr>
             <td >Udemy.com:<br/> Profesor: Andrés Guzmán</td>
             <td>Course: "Microservicios con Spring Boot y Spring Cloud Netflix Eureka."</td>
+        </tr>
+         <tr>
+            <td >YouTube channel:<br/>MitoCode</td>
+            <td>Course: "Project Reactor(Java & Spring boot)"</td>
         </tr>
       </table>
       
