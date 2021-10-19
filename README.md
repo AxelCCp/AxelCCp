@@ -4,7 +4,7 @@ I'm a Java Developer (Junior)<br/>
 ⚡ABOUT ME ...<br/>
 Initially, I studied Engineering in International Trade in Chile and now I am reinventing my professional career. I have excellent computational domain and I mainly use
 Windows, but i can also use Linux. I know how to develop in the Java language and I can speak and write in English. In the last time I have been living outside of Chile. 
-I have been living in Ciudad de México and Huntington Beach on the southern coast of the California State.
+I have been living in Ciudad de México and California.
 
 ⚡INTERESTS ...<br/>
 I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I also know about investments in the stock market. I&#39;m more interested in the backend, but I also want to know about the frontend. I lern with YouTube, Coursera, Udemy, books, etc.
