@@ -6,7 +6,7 @@ Initially, I studied Engineering in International Trade in Chile and now I am re
 Windows, but i can also use Linux. I know how to develop in the Java language and I can speak and write in English. In the last time I have been living outside of Chile and now i'm living in Ciudad de México.
 
 ⚡INTERESTS ...<br/>
-I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I also know about investments in the stock market. I&#39;m more interested in the backend, but I also want to know about the frontend. I lern with YouTube, Coursera, Udemy, books, etc.
+I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I&#39;m more interested in the backend, but I also want to know about the frontend. I lern with YouTube, Coursera, Udemy, books, etc.
 
 ⚡LANGUAGES ...<br/>
 Written english 80%. / Spoken english 50%.
