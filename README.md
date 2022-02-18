@@ -230,6 +230,14 @@ https://www.facebook.com/axel.astete.1/
             <td >YouTube channel:<br/>MitoCode</td>
             <td>Course: "Project Reactor(Java & Spring boot)"</td>
         </tr>
+        <tr>
+            <td >Udemy.com:<br/> Profesor: Andrés Guzmán</td>
+            <td>Course: "Guía Completa JUnit y Mockito incluye Spring Boot Test 2022."</td>
+        </tr>
+        <tr>
+            <td >Udemy.com:<br/> Profesor: Andrés Guzmán</td>
+            <td>Course: "Programación Reactiva con Spring Boot 2 y Spring WebFlux."</td>
+        </tr>
       </table>
       
       
