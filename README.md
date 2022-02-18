@@ -183,7 +183,7 @@ https://www.facebook.com/axel.astete.1/
         </tr>
         <tr>
           <td >
-            YouTube channel:<br/> "Píldoras Informáticas": <br/>
+            YouTube :<br/> "Píldoras Informáticas": <br/>
           </td>
           <td >
             Course: "Java desde 0".<br/>
@@ -197,7 +197,7 @@ https://www.facebook.com/axel.astete.1/
           </td>
         </tr>
          <tr>
-          <td >YouTube channel:<br/>"Disco duro de roer"</td>
+          <td >YouTube :<br/>"Disco duro de roer"</td>
           <td >Some basic exercises.</td>
         </tr>
         <tr>
@@ -205,21 +205,21 @@ https://www.facebook.com/axel.astete.1/
             <td>Course: "Spring boot"</td>
         </tr>
         <tr>
-            <td >YouTube channel:<br/>"Fernando Fuentes"</td>
+            <td >YouTube :<br/>"Fernando Fuentes"</td>
             <td>Course: Spring boot(Api Rest + JPA + MySQL con Java11)</td>
           </tr>
         <tr>
-          <td >YouTube channel:<br/>"Lucas Moy"</td>
+          <td >YouTube :<br/>"Lucas Moy"</td>
           <td>Course: "Java fullstack completo(Springboot, hibernate, JWT, API Rest)"</td>
         </tr>
         <tr>
-            <td >YouTube channel:<br/>"Java Revolutions"</td>
+            <td >YouTube :<br/>"Java Revolutions"</td>
             <td>Exercise: "Java web services, Rest, proyecto Maven"
                 <br/>Exercise: "Java web services SOAP con API JAX-WS(xml WSDL)"
             </td>
         </tr>
         <tr>
-            <td >YouTube channel:<br/>" SDET-Automation Techie(India)"</td>
+            <td >YouTube :<br/>" SDET-Automation Techie(India)"</td>
             <td>Course: "Edit excel with Apache POI"</td>
         </tr>
          <tr>
@@ -227,7 +227,7 @@ https://www.facebook.com/axel.astete.1/
             <td>Course: "Microservicios con Spring Boot y Spring Cloud Netflix Eureka."</td>
         </tr>
          <tr>
-            <td >YouTube channel:<br/>MitoCode</td>
+            <td >YouTube :<br/>MitoCode</td>
             <td>Course: "Project Reactor(Java & Spring boot)"</td>
         </tr>
         <tr>
