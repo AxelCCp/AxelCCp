@@ -139,6 +139,25 @@ https://www.facebook.com/axel.astete.1/
           </td>
         </tr>
       </table>
+      
+⚡MORE STUDIES ...<br/>
+      
+<table>
+  <tr>
+    <th>UDEMY COURSES</th>
+  </tr>
+  <tr>
+    <td>Microservices with Spring Boot y Spring Cloud Netflix Eureka</td>
+  </tr>
+   <tr>
+    <td>Reactive programming with Spring boot 2 and Spring webFlux</td>
+  </tr>
+   <tr>
+    <td>Spring Framework 5 and Spring boot 2 zero to expert 2022</td>
+  </tr>
+ 
+ 
+</table>
    
    
    
