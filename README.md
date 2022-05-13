@@ -6,7 +6,7 @@ Initially, I studied Engineering in International Trade in Chile and now I am re
 Windows, but i can also use Linux. I know how to develop in the Java language and I can speak and write in English. In the last time I have been living outside of Chile and now i'm living in Ciudad de México.
 
 ⚡INTERESTS ...<br/>
-I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I&#39;m more interested in the backend, but I also want to know about the frontend. I lern with YouTube, Coursera, Udemy, books, etc.
+I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I&#39;m more interested in the backend, but I also want to know about the frontend. I lern with YouTube, Coursera, Udemy, books, etc. And now I am preparing for oracle java certifications.
 
 ⚡LANGUAGES ...<br/>
 Written english 80%. / Spoken english 50%.
@@ -16,7 +16,7 @@ CONTACT INFORMATION ...<br/>
 Mobile / whatsapp: +52 55 5192 9370 (México) <br>  
 Mobile: +569-929 90 240 (Chile)I am currently unavailable at this number  <br>
 Email: axel.astete.o@gmail.com <br>  
-https://www.facebook.com/axel.astete.1/
+
  
 ⚡
  <table>
