@@ -13,8 +13,7 @@ Written english 80%. / Spoken english 50%.
 
 📫
 CONTACT INFORMATION ...<br/>
-Mobile / whatsapp: +52 55 5192 9370 (México) <br>  
-Mobile: +569-929 90 240 (Chile)I am currently unavailable at this number  <br>
+whatsapp: +52 55 5192 9370 <br>  
 Email: axel.astete.o@gmail.com <br>  
 
  
