@@ -13,8 +13,8 @@ Written english 80%. / Spoken english 50%.
 
 📫
 CONTACT INFORMATION ...<br/>
-whatsapp: +52 55 5192 9370 <br>  
-Email: axel.astete.o@gmail.com <br>  
+whatsapp: ..... <br>  
+Email: ..... <br>  
 
  
 ⚡
