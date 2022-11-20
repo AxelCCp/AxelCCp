@@ -1,21 +1,40 @@
 👋 Hello I'm Axel<br/>
 I'm a Java Developer (Junior)<br/>
 
-⚡ABOUT ME ...<br/>
-Initially, I studied Engineering in International Trade in Chile and now I am reinventing my professional career. I have an excellent computational domain and I mainly use
-Windows, but i can also use Linux. I know how to develop in the Java language and I can speak and write in English. In the last time I have been living outside of Chile and now i'm living in Ciudad de México.
+⚡ABOUT ME : <br/>
+Initially, I studied Engineering in International Trade in Chile and after I reinvented my professional career. I have an excellent computational domain and I mainly use Windows, but I can also use Linux. <br/>
 
-⚡INTERESTS ...<br/>
-I&#39;m interested in projects that have a professional challenge. I like to investigate and I’m self taught. About my hobbies, I like trekking, cycling and sometimes I play soccer. I&#39;m more interested in the backend, but I also want to know about the frontend. I lern with YouTube, Coursera, Udemy, books, etc. And now I am preparing for oracle java certifications.
+⚡I KNOW : <br/>
+Java, Spring framework, Spring boot and Spring web Flux. <br/>
+Microservices (API REST). <br/>
+Deployment of microservices in Docker containers. AWS. <br/>
+Relational and non-relational databases. <br/>
+MySQL, PostgreSQL & Mongo. <br/>
+PhpMyAdmin, Workbench, Robo3T, PgAdmin4. <br/>
+Git & GitHub. <br/>
+Maven. <br/>
+Also I am learning about javascript and angular. <br/>
 
-⚡LANGUAGES ...<br/>
-Written english 80%. / Spoken english 50%.
+⚡MORE ABOUT ME : <br/>
+In the last years I have been living outside of Chile, I was working in California/EEUU, also I was living in Ciudad de México and recently I was working in Santiago of Chile in "Evertec Inc" like "web app developer". Here I was working with Java 7, Java 8 and Spring Tool Suite. I was integrating with Angular. Debugging the service and controller layer. I was executing testing with JUnit. Now I got my mexican work visa and I will go to work in Mexico City. My favorite IDE is Eclipse with Spring Tool Suite, but also I know to use Intellij IDEA. Finally, now I'm learning about Kubernetes with the Deploy in AWS and preparing me for Oracle Java Certifications. <br/>
+
+⚡PERSONALITY : <br/>
+I’m adaptable to different work environments.<br/>
+I always want to join as quickly as possible to a work team.<br/>
+Ability to work alone or on a team.<br/>
+I am committed to the work team and I can learn in a short time.<br/>
+
+⚡LANGUAGES : <br/>
+Written english 80%. / Spoken english 50%.<br/>
+(I want study for to get a better english).
 
 📫
-CONTACT INFORMATION ...<br/>
-whatsapp: ..... <br>  
-Email: ..... <br>  
+CONTACT INFORMATION :<br/>
+whatsapp: +569 371 65 626 (Chile) // +52 55 5192 9370 (México)  <br>  
+Email: axel.astete.o@gmail.com <br>  
 
+<br> <br> 
+I don't write anymore, P.
  
 ⚡
  <table>
