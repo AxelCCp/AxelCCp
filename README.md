@@ -1,4 +1,6 @@
+----------------------------------------
 👋 Hello I'm Axel<br/>
+----------------------------------------
 I'm a Java Developer (Junior)<br/>
 
 ⚡ABOUT ME : <br/>
@@ -34,8 +36,10 @@ whatsapp: +569 371 65 626 (Chile) // +52 55 5192 9370 (México)  <br>
 Email: axel.astete.o@gmail.com <br>  
 
 <br> <br> 
-I don't write anymore, P.
- 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br> 
+Note: I don't write anymore, P.  <br>
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+<br> <br> 
 ⚡
  <table>
         <tr>
