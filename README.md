@@ -35,10 +35,6 @@ CONTACT INFORMATION :<br/>
 whatsapp: +569 371 65 626 (Chile) // +52 55 5192 9370 (México)  <br>  
 Email: axel.astete.o@gmail.com <br>  
 
-<br> <br> 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br> 
-Note: I don't write anymore, P.  <br>
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 <br> <br> 
 ⚡
