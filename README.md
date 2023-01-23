@@ -37,7 +37,9 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
 
 
 <br> <br> 
-⚡
+
+-------------------------------------------------------------------------------------------------------------------------------------
+⚡SKILLS:
  <table>
         <tr>
           <th colspan="4">SKILLS:</th>
@@ -74,8 +76,10 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
           </tr>
       </table>
       
+   
+  --------------------------------------------------------------------------------------------------------------------------------
   
-⚡STUDIES ...<br/>
+⚡STUDIES :<br/>
     <table>
         <tr>
           <th colspan="3">PROFESSIONAL STUDIES:</th>
@@ -87,7 +91,7 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
         </tr>
       </table>
       
- ⚡MORE STUDIES ...<br/>
+ ⚡<br/>
         <table>
             <tr>
                 <td><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
@@ -114,7 +118,7 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
             </tr>
          </table>
          
- ⚡MORE STUDIES ...<br/>
+ ⚡<br/>
       
 <table>
   <tr>
@@ -148,10 +152,37 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
 </table>
    
 
- 
 
+
+.......................................................................................................................................................................................................................................................................................</br>
+⚡</br>
+......</br>
+<b>TELEFÓNICA FOUNDATION COURSES:</b>
+
+* <b>Project management with agile methodologies</b> </br>
+
+* <b>Introduction to programming</b>  </br>
+
+* <b>Programming fundamentals:</b>  </br>
+Use logical programming structures appropriately, applying the principles of both structured and modular programming, as well as object-oriented programming techniques used in modern languages.
+
+* <b>Programming with Java Standard:</b>  </br>
+Program with java and learn about the main classes used in most developments, in addition to teaching you object-oriented techniques.
+
+* <b>Web design with HTML5 + CSS: </b></br>
+The HTML5 version includes powerful tags and new form controls that make creating pages easier and simpler. This coupled with the power of CSS. Create professional web pages quickly. Principles of SEO positioning and accessibility guidelines that all websites must follow.
+
+* <b>Machine learning introduction</b> </br>
+
+* <b>Web Analytics</b> </br>
+
+* <b>Digital Marketing </b></br>
+
+* <b>Growth Hacking </b></br>
  
-⚡MORE STUDIES ...<br/>
+.......................................................................................................................................................................................................................................................................................
+ 
+⚡<br/>
    <table>
         <tr>
           <th colspan="3">UNIVERSITY COURSES: </th>
@@ -183,7 +214,7 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
       </table>
       
    
-⚡MORE STUDIES ...<br/>
+⚡<br/>
  
   <table>
         <tr>
@@ -216,8 +247,10 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
           </tr>
       </table>
       
+------------------------------------------------------------------------------------------------------------------------------------- 
+      
 <!--
-⚡MORE STUDIES ...<br/>
+⚡<br/>
    <table>
         <tr>
           <th colspan="2">MY REPOSITORIES SUMMARY:</th>
