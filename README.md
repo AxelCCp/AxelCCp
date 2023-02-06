@@ -3,6 +3,8 @@
 ----------------------------------------
 I'm a Java Developer (Intermediate Level)<br/>
 
+https://github.com/AxelCCp/PDF_INFO_MY_REPOSITORIES_AND_PORTFOLIO/blob/main/MY_PORTFOLIO_AND_REPOSITORIES.pdf
+
 ⚡ABOUT ME : <br/>
 Initially, I studied Engineering in International Trade in Chile and after I reinvented my professional career. I have an excellent computational domain and I mainly use Windows, but I can also use Linux. <br/>
 
