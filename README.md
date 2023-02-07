@@ -32,10 +32,11 @@ I am committed to the work team and I can learn in a short time.<br/>
 Written english 80%. / Spoken english 50%.<br/>
 (I am studying for to get a better english).
 
+<!--
 📫
 CONTACT INFORMATION :<br/>
 whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>  
-<!--Email: axel.astete.o@gmail.com <br>  -->
+Email: axel.astete.o@gmail.com <br>  -->
 
 
 <br> <br> 
