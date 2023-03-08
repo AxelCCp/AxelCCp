@@ -100,7 +100,7 @@ Course url : https://www.udemy.com/course/programacion-reactiva-con-spring-webfl
 My development repository, Backend : https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux   <br> <br> 
 
 <b>Spring Framework 5 and Spring boot 2 zero to expert 2022 :</b> <br> 
-Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring.
+Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
 Course url : https://www.udemy.com/course/spring-framework-5/    <br>
 My development repository, Backend : https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022   <br> 
 My development repository, frontend : https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022   <br> <br> 
@@ -113,7 +113,7 @@ My development repository, frontend : https://github.com/AxelCCp/Angular-Spring-
 (In the repository you can get the versions V1 and V2, about the frontend and backend)<br> <br> 
 
 <b>Microservicios Spring Cloud Eureka & Angular Full stack :</b> <br> 
-Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.
+Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.<br>
 Course url :  https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/         <br>
 My development repository, backend V1 : https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1   <br> 
 My development repository, backend V2 : https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2            <br> <br> 
@@ -147,7 +147,7 @@ My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de
  
 * I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: 
 
-  - IESE Business School University of Navarra : Keys to managing people. <br> https://es.coursera.org/learn/gestionar-personas?
+  - IESE Business School University of Navarra : Keys to managing people. <br> https://es.coursera.org/learn/gestionar-personas
   - Universidad Nacional Autónoma de México UNAM : New business models in the 21st century   <br>  https://es.coursera.org/learn/modelos-negocios
   - Pontificia Universidad Católica de Chile: Path to excellence in project management   <br>   https://es.coursera.org/learn/camino-excelencia-gestion-proyectos
   - Pontificia Universidad Católica de Chile: Management of effective organizations   <br>  https://es.coursera.org/learn/gestion-organizaciones-efectivas
