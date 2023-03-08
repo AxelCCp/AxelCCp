@@ -3,34 +3,12 @@
 ----------------------------------------
 I'm a Java Developer (Intermediate Level)<br/>
 
-https://github.com/AxelCCp/PDF_INFO_MY_REPOSITORIES_AND_PORTFOLIO/blob/main/MY_PORTFOLIO_AND_REPOSITORIES.pdf
+* <b>ABOUT ME: </b> <br/>
+Im am Chilean, I studied Engineering in International Trade in Chile and after I reinvented my professional career. I have an excellent computational domain and I mainly use Windows, but I can also use Linux. Now I am living in Mexico City, I have my Work visa and I am working on freelance projects. 
 
-⚡ABOUT ME : <br/>
-Initially, I studied Engineering in International Trade in Chile and after I reinvented my professional career. I have an excellent computational domain and I mainly use Windows, but I can also use Linux. <br/>
-
-⚡I KNOW : <br/>
-Java, Spring framework, Spring boot and Spring web Flux. <br/>
-Microservices (API REST). <br/>
-Deployment of microservices in Docker containers. AWS. <br/>
-Relational and non-relational databases. <br/>
-MySQL, PostgreSQL & Mongo. <br/>
-PhpMyAdmin, Workbench, Robo3T, PgAdmin4. <br/>
-Git & GitHub. <br/>
-Maven. <br/>
-Angular. <br/>
-
-⚡MORE ABOUT ME : <br/>
-In the last years I have been living outside of Chile, I was working in California/EEUU, also I was living in Ciudad de México and recently I was working in Santiago of Chile in "Evertec Inc" like "web app developer". Here I was working with Java 7, Java 8 and Spring Tool Suite. I was integrating with Angular. Debugging the service and controller layer. I was executing testing with JUnit. Now I got my mexican work visa and I am living in Mexico City. My favorite IDE is Eclipse with Spring Tool Suite, but also I know to use Intellij IDEA. Finally, now I'm learning about Kubernetes with the Deploy in AWS and preparing me for Oracle Java Certifications. <br/>
-
-⚡PERSONALITY : <br/>
-I’m adaptable to different work environments.<br/>
-I always want to join as quickly as possible to a work team.<br/>
-Ability to work alone or on a team.<br/>
-I am committed to the work team and I can learn in a short time.<br/>
-
-⚡LANGUAGES : <br/>
-Written english 80%. / Spoken english 50%.<br/>
-(I am studying for to get a better english).
+* <b>LANGUAGES: </b> <br>
+Written english 80%. <br>
+Spoken english 50%.<br>
 
 <!--
 📫
@@ -39,62 +17,48 @@ whatsapp: +569 371 65 626 (Chile) // whatsapp: +52 55 5192 9370 (México)  <br>
 Email: axel.astete.o@gmail.com <br>  -->
 
 
-<br> <br> 
+
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
 ⚡SKILLS:
- <table>
-        <tr>
-          <th colspan="4">SKILLS:</th>
-        </tr>
-        <tr>
-          <td ><font color="orange">Java 8 & 11 SE. & EE.</font></td>
-          <td ><font color="aqua">Eclipse</font></td>
-          <td ><font color="aqua">Intellij</font></td>
-          <td ><font color="aqua">Visual Studio Code</font></td>
-        </tr>
-        <tr>
-          <td ><font color="yellow">Spring Framework</font></td>
-          <td ><font color="yellow">Spring boot</font></td>
-          <td ><font color="yellow">Hibernate</font></td>
-          <td><font color="orange">HTML5</font></td>
-        </tr>
-        <tr>
-          <td >Apache Tomcat</td>
-          <td >Maven</td>
-          <td><font color="orange">JavaScript</font></td>
-          <td>Microservices</td>
-        </tr>
-        <tr>
-            <td >WampServer/Xamp</td>
-            <td >MySql</td>
-            <td >Git & GitHub</td>
-            <td>Angular</td>
-          </tr>
-          <tr>
-            <td >Postman</td>
-            <td ><font color="orange">Python</font></td>
-            <td >Excel 2019</td>
-            <td>Spring Cloud</td>
-          </tr>
-      </table>
+ 
+  BACKEND:
+   * JAVA 7 -JAVA 8 - JAVA 11 <br> 
+   * Spring framework - Spring boot - Spring cloud - Spring security - OAUTH2 - JWT <br> 
+   * Spring Webflux. <br> 
+   * Microservices with Spring. <br> 
+   * API REST.
+   * Docker. <br> 
+   * Relational Databases: MySQL and PostgreSQL. <br> 
+   * Non-relational databases: MongoDB and Reactive MongoDB. <br> 
+   * Postman.
+   * Soap UI.
+   * Deployment of microservices in Docker containers and AWS. <br> 
+   * Maven. <br> <br> 
+ 
+ FRONTEND: <br> 
+   * Angular. <br> 
+   * JavaScript. <br> 
+   * Typescript. <br> 
+   * Thymeleaf. <br> <br>    
+    
+ OTHERS: <br> 
+   * IDES : Eclipse - Eclipse with Spring tools suite 4 - Visual studio code - IntelliJ. <br> 
+   * Git - GitHub. <br> 
+   * PYTHON. <br> 
+   * XAMP, WAMP, Workbench, PgAdmin4, MongoDbCompass. <br> 
+   
       
    
   --------------------------------------------------------------------------------------------------------------------------------
   
 ⚡STUDIES :<br/>
-    <table>
-        <tr>
-          <th colspan="3">PROFESSIONAL STUDIES:</th>
-        </tr>
-        <tr>
-          <td >
-              INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years.
-          </td>
-        </tr>
-      </table>
+   
+ * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> 
       
- ⚡<br/>
+      
+ * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UVIVERSITY :<br/>
         <table>
             <tr>
                 <td><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
@@ -120,135 +84,119 @@ Email: axel.astete.o@gmail.com <br>  -->
                 </td>
             </tr>
          </table>
+         <br> 
          
- ⚡<br/>
-      
-<table>
-  <tr>
-    <th>UDEMY COURSES</th>
-  </tr>
-  <tr>
-    <td>Microservices with Spring Boot y Spring Cloud Netflix Eureka</td>
-    <td>Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix, gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker.
-<br> https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/
-    </td>
-  </tr>
-   <tr>
-    <td>Reactive programming with Spring boot 2 and Spring webFlux</td>
-     <td>Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server.
-<br> https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/
-   </td>
-  </tr>
-   <tr>
-    <td>Spring Framework 5 and Spring boot 2 zero to expert 2022</td>
-     <td>Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring.
-<br> https://www.udemy.com/course/spring-framework-5/
-     </td>
-  </tr>
-  <tr>
-   <td>Angular & Spring Boot: Creating  web app full stack</td>
-    <td>Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Security OAuth2, JWT, Socket.
-<br> https://www.udemy.com/course/angular-spring/
-    </td>
-  </tr>
+ * I HAVE COURSES OF UDEMY (I USUALLY LEARN WITH THIS PLATFORM): <br/>
  
-</table>
+ 
+<b>Microservices with Spring Boot y Spring Cloud Netflix Eureka : </b> <br> 
+Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
+Course url : https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/     <br>
+My development repository, Backend : https://github.com/AxelCCp/MicroserviciosUdemy3     <br> <br> 
+
+<b>Reactive programming with Spring boot 2 and Spring webFlux : </b> <br> 
+Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
+Course url : https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/    <br>
+My development repository, Backend : https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux   <br> <br> 
+
+<b>Spring Framework 5 and Spring boot 2 zero to expert 2022 :</b> <br> 
+Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring.
+Course url : https://www.udemy.com/course/spring-framework-5/    <br>
+My development repository, Backend : https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022   <br> 
+My development repository, frontend : https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022   <br> <br> 
+
+<b>Angular & Spring Boot: Creating a web app full stack :</b> <br> 
+Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket.
+Course url :  https://www.udemy.com/course/angular-spring/  <br>
+My development repository, backend : https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3   <br> 
+My development repository, frontend : https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3          <br>
+(In the repository you can get the versions V1 and V2, about the frontend and backend)<br> <br> 
+
+<b>Microservicios Spring Cloud Eureka & Angular Full stack :</b> <br> 
+Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.
+Course url :  https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/         <br>
+My development repository, backend V1 : https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1   <br> 
+My development repository, backend V2 : https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2            <br> <br> 
+
+<b>Master Completo en Java de cero a experto 2022 127hrs : </b> <br>
+JAVA SE and Jakarta EE9. <br>
+Course url : https://www.udemy.com/course/master-completo-java-de-cero-a-experto/   <br>
+My development repository, backend : https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-  <br> <br>
+
+<b>Guía Completa de Docker & Kubernetes con Spring Boot 2023 </b> <br>
+Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
+Course url : https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/ <br>
+My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022    <br> <br>
+
+
+
+     
+* ALSO I HAVE SOME OLD COURSES OF TELEFÓNICA FOUNDATION: 
+
+  - Project management with agile methodologies.<br>
+  - Introduction to programming. <br>
+  - Programming fundamentals. <br>
+  - Programming with Java Standard. <br>
+  - Web design with HTML5 + CSS. <br>
+  - Machine learning introduction. <br>
+  - Web Analytics. <br>
+  - Digital Marketing. <br>
+  - Growth Hacking. <br><br>
+
+
+ 
+* I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: 
+
+  - IESE Business School University of Navarra : Keys to managing people. <br> https://es.coursera.org/learn/gestionar-personas?
+  - Universidad Nacional Autónoma de México UNAM : New business models in the 21st century   <br>  https://es.coursera.org/learn/modelos-negocios
+  - Pontificia Universidad Católica de Chile: Path to excellence in project management   <br>   https://es.coursera.org/learn/camino-excelencia-gestion-proyectos
+  - Pontificia Universidad Católica de Chile: Management of effective organizations   <br>  https://es.coursera.org/learn/gestion-organizaciones-efectivas
    
-
-
-
-.......................................................................................................................................................................................................................................................................................</br>
-⚡</br>
-......</br>
-<b>TELEFÓNICA FOUNDATION COURSES:</b>
-
-* <b>Project management with agile methodologies</b> </br>
-
-* <b>Introduction to programming</b>  </br>
-
-* <b>Programming fundamentals:</b>  </br>
-Use logical programming structures appropriately, applying the principles of both structured and modular programming, as well as object-oriented programming techniques used in modern languages.
-
-* <b>Programming with Java Standard:</b>  </br>
-Program with java and learn about the main classes used in most developments, in addition to teaching you object-oriented techniques.
-
-* <b>Web design with HTML5 + CSS: </b></br>
-The HTML5 version includes powerful tags and new form controls that make creating pages easier and simpler. This coupled with the power of CSS. Create professional web pages quickly. Principles of SEO positioning and accessibility guidelines that all websites must follow.
-
-* <b>Machine learning introduction</b> </br>
-
-* <b>Web Analytics</b> </br>
-
-* <b>Digital Marketing </b></br>
-
-* <b>Growth Hacking </b></br>
+ <br>
  
-.......................................................................................................................................................................................................................................................................................
- 
-⚡<br/>
-   <table>
-        <tr>
-          <th colspan="3">UNIVERSITY COURSES: </th>
-        </tr>
-        <tr>
-          <td >IESE BUSINESS SCHOOL UNIVERSITY OF NAVARRA</td>
-          <td ><b>Keys to managing people:</b><br/>
-               <i>Practical tools in human resources, people management and leading talent.</i>
-               <br> https://es.coursera.org/learn/gestionar-personas
-          </td>
-        </tr>
-        <tr>
-          <td >UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO UNAM </td>
-          <td ><b>New business models in the 21st century:</b><br/>
-              <i>Understand the social, economic and environmental implications of social responsibility.</i>
-              <br> https://es.coursera.org/learn/modelos-negocios
-          </td> 
-        </tr>
-        <tr>
-          <td >PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE</td>
-          <td ><b>Path to excellence in project management:</b><br/>
-                <i>Lean Project Management. Philosophy of lean production, cultural change and technology.</i>
-                <br>https://es.coursera.org/learn/camino-excelencia-gestion-proyectos <br><br>
-                <b>Management of effective organizations:</b><br/>
-                <i>Factors that determine the success of an organization.</i>
-                <br>https://es.coursera.org/learn/gestion-organizaciones-efectivas
-          </td>
-        </tr>
-      </table>
-      
-   
-⚡<br/>
- 
-  <table>
-        <tr>
-          <th colspan="3">CARLOS SLIM FOUNDATION COURSES:</th>
-        </tr>
-        <tr>
-            <td><b>EMPLOYMENT SKILLS:</b></td>
-            <td><b>PROCESS MANAGEMENT: </b></td>
-            <td><b>OTHERS:</b></td>
-        </tr>
-        <tr>
-          <td >Management of work meetings</td>
-          <td >Process improvement </td>
-          <td >Introduction to programming</td>
-        </tr>
-        <tr>
-          <td >Leadership  </td>
-          <td >Process evaluator</td>
-          <td >Finder</td>
-        </tr>
-        <tr>
-          <td >Feedback</td>
-          <td >Key Performance Indicator</td>
-          <td >Data conservator</td>
-        </tr>
-        <tr>
-            <td >How to give instructions</td>
-            <td >...</td>
-            <td >Mining Technician</td>
-          </tr>
-      </table>
+* FOUNDATION CARLOS SLIM , COURSES: 
+  - Management of work meetings   <br>
+  - Leadership  <br>
+  - Feedback  <br>
+  - How to give instructions  <br>
+  - Process improvement   <br>
+  - Process evaluator  <br>
+  - Key Performance Indicator   <br>
+  - Introduction to programming
+  - Finder
+  - Data conservator
+  - Mining Technician
+  <br>
+  
+* NOW MY YOUTUBE COURSES:
+  
+  - Complete Java fullstack course (Lucas Moy): 
+    > https://youtu.be/7vHzVN0EiQc <br> My development repository: <br> https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest
+  - Spring framework and Spring boot (Píldoras Informáticas):
+    > https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm  <br>  My development repositories:  <br>
+    > https://github.com/AxelCCp/1-SPRING             <br>
+      https://github.com/AxelCCp/2-SPRING-ANNOTATIONS       <br>
+      https://github.com/AxelCCp/3-SPRING-CON-MVC           <br>
+      https://github.com/AxelCCp/3-SPRING-MVC-REPETICI-N          <br>
+      https://github.com/AxelCCp/4-SPRING-CON-HIBERNATE          <br>
+      https://github.com/AxelCCp/5-HIBERNATE-RELACIONES          <br>
+      https://github.com/AxelCCp/6-HIBERNATE-RELACIONES-2            <br>
+      https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-        <br>
+      https://github.com/AxelCCp/RepasoSpringFramework-           <br>
+  - Java 8  (Píldoras Informáticas):
+    > https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk     <br>  My development repositories:  <br>
+      https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS       <br>
+      https://github.com/AxelCCp/JAVA4-PILDORAS-INFORMATICAS       <br>
+      https://github.com/AxelCCp/JAVA5-PILDORAS-INFORMATICAS-STREAMS        <br>
+      https://github.com/AxelCCp/JAVA6-PILDORAS-INFORMATICAS          <br>
+      https://github.com/AxelCCp/JAVA7-PILDORAS-INFORMATICAS       <br>
+      https://github.com/AxelCCp/JAVA8-PILDORAS-INFORMATICAS       <br>
+      https://github.com/AxelCCp/JAVA9-PILDORAS-INFORMATICAS        <br>
+      https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS            <br>
+      https://github.com/AxelCCp/JAVA11-PILDORAS-INFORMATICAS-JSP            <br>
+      https://github.com/AxelCCp/JAVA-12-PILDORAS-INFORMATICAS-SERVLETS          <br>
+      https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO          <br>
+      https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS          <br>
       
 ------------------------------------------------------------------------------------------------------------------------------------- 
       
