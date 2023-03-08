@@ -201,7 +201,7 @@ My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
     
- * SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS (MORE FOR MY PORTFOLIO ¿?):
+ ⚡SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS (MORE FOR MY PORTFOLIO ¿?):
  
   ><b>Facturation system + user registration: </b>   <br>
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
@@ -230,6 +230,19 @@ My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de
   >Back: https://github.com/AxelCCp/Za5.-WEBFLUX          <br>
   >Readme: https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png
     
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+⚡<b>PYTHON</b> <br>
+  >RE-LEARNING PYTHON  <br>
+  >https://github.com/AxelCCp/PYTHON
+
+<br>
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 <!--
 ⚡<br/>
    <table>
