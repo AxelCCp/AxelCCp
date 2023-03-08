@@ -171,7 +171,7 @@ My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de
 * NOW MY YOUTUBE COURSES:
   
   - Complete Java fullstack course (Lucas Moy): 
-    > https://youtu.be/7vHzVN0EiQc <br> My development repository: <br> https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest
+    > https://youtu.be/7vHzVN0EiQc <br> My development repository: <br> https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest    
   - Spring framework and Spring boot (Píldoras Informáticas):
     > https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm  <br>  My development repositories:  <br>
     > https://github.com/AxelCCp/1-SPRING             <br>
@@ -182,7 +182,7 @@ My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de
       https://github.com/AxelCCp/5-HIBERNATE-RELACIONES          <br>
       https://github.com/AxelCCp/6-HIBERNATE-RELACIONES-2            <br>
       https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-        <br>
-      https://github.com/AxelCCp/RepasoSpringFramework-           <br>
+      https://github.com/AxelCCp/RepasoSpringFramework-           <br><br>
   - Java 8  (Píldoras Informáticas):
     > https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk     <br>  My development repositories:  <br>
       https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS       <br>
@@ -199,7 +199,37 @@ My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de
       https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS          <br>
       
 ------------------------------------------------------------------------------------------------------------------------------------- 
-      
+    
+    
+ * SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS (MORE FOR MY PORTFOLIO ¿?):
+ 
+  ><b>Facturation system + user registration: </b>   <br>
+  >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
+  >Front: https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR              <br>
+  >Back: https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND             <br>
+  >Readme: https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png
+ 
+  <br>
+  
+  ><b>Microservices with Spring boot, Spring Cloud and Oauth2: </b>   <br>
+  >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
+  >Back: https://github.com/AxelCCp/Za2_MICROSERVICIOS            <br>
+  >Readme: https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png          <br>
+
+  <br>
+
+  ><b>Microservices with Spring boot and Spring Cloud:  </b>   <br>
+  >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
+  >Back: https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK        <br>
+  >Readme: https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg       <br>
+   
+   <br>
+   
+  ><b>Webflux:  </b>   <br>
+  >I'm working on this.   <br>
+  >Back: https://github.com/AxelCCp/Za5.-WEBFLUX          <br>
+  >Readme: https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png
+    
 <!--
 ⚡<br/>
    <table>
