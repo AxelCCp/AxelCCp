@@ -59,32 +59,30 @@ Email: axel.astete.o@gmail.com <br>  -->
       
       
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UVIVERSITY :<br/>
-        <table>
-            <tr>
-                <td><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
-                    GOOGLE IT SUPPORT CERTIFICATE<br/>
-                    https://www.coursera.org/professional-certificates/google-it-support <br/>
-                    PROGRAM COURSES : <br/>
-                    1.-Technical Support Fundamentals.<br/>
-                    2.-The Bits and Bytes of Computer Networking.<br/>
-                    3.-Operating Systems and You: Becoming a Power User.<br/>
-                    4.-System Administration and IT Infrastructure Services.<br/>
-                    5.-IT Security: Defense against the digital dark arts.
-                </td>
-                <td width="2%"></td>
-                <td><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
-                    LEARN TO DEVELOP WITH PYTHON<br/>
-                    https://es.coursera.org/specializations/python-espanol <br/>
-                    PROGRAM COURSES : <br/>
-                    1.-Introduction to programming with Python.<br/>
-                    2.-Python data structures.<br/>
-                    3.-Object oriented programming with Python. <br/>
-                    4.-Management of databases with Python<br/>
-                    &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
-                </td>
-            </tr>
-         </table>
-         <br> 
+        
+    ><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
+    > GOOGLE IT SUPPORT CERTIFICATE<br/>
+      https://www.coursera.org/professional-certificates/google-it-support <br/>
+       PROGRAM COURSES : <br/>
+       1.-Technical Support Fundamentals.<br/>
+       2.-The Bits and Bytes of Computer Networking.<br/>
+       3.-Operating Systems and You: Becoming a Power User.<br/>
+       4.-System Administration and IT Infrastructure Services.<br/>
+       5.-IT Security: Defense against the digital dark arts.
+               
+      <br>         
+               
+    > <b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
+         LEARN TO DEVELOP WITH PYTHON<br/>
+         https://es.coursera.org/specializations/python-espanol <br/>
+         PROGRAM COURSES : <br/>
+         1.-Introduction to programming with Python.<br/>
+         2.-Python data structures.<br/>
+         3.-Object oriented programming with Python. <br/>
+         4.-Management of databases with Python<br/>
+         &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
+              
+     <br> 
          
  * I HAVE COURSES OF UDEMY (I USUALLY LEARN WITH THIS PLATFORM): <br/>
  
