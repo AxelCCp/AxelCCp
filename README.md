@@ -1,5 +1,5 @@
 ----------------------------------------
-👋 Hello I'm Axel<br/>
+👋 Hi, I'm Axel<br/>
 ----------------------------------------
 I'm a Java Developer (Intermediate Level)<br/>
 
