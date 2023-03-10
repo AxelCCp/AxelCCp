@@ -213,7 +213,7 @@ Version 1, until section 6 : https://github.com/AxelCCp/-Guia-Completa-de-Docker
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
     
- ⚡SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS (MORE FOR MY PORTFOLIO ¿?):
+ ⚡SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS:
  
   ><b>Facturation system + user registration: </b>   <br>
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
