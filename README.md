@@ -61,8 +61,7 @@ Email: axel.astete.o@gmail.com <br>  -->
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UVIVERSITY :<br/>
         
     ><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
-    > GOOGLE IT SUPPORT CERTIFICATE<br/>
-      https://www.coursera.org/professional-certificates/google-it-support <br/>
+    > [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
        PROGRAM COURSES : <br/>
        1.-Technical Support Fundamentals.<br/>
        2.-The Bits and Bytes of Computer Networking.<br/>
@@ -73,8 +72,7 @@ Email: axel.astete.o@gmail.com <br>  -->
       <br>         
                
     > <b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
-         LEARN TO DEVELOP WITH PYTHON<br/>
-         https://es.coursera.org/specializations/python-espanol <br/>
+         [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
          PROGRAM COURSES : <br/>
          1.-Introduction to programming with Python.<br/>
          2.-Python data structures.<br/>
@@ -89,55 +87,55 @@ Email: axel.astete.o@gmail.com <br>  -->
  
 > <b>Microservices with Spring Boot y Spring Cloud Netflix Eureka : </b> <br> 
 Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
-Course url : https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/     <br>
-My development repository, Backend : https://github.com/AxelCCp/MicroserviciosUdemy3     <br>
+[Go to the course](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
+[My development repository, backend](https://github.com/AxelCCp/MicroserviciosUdemy3)     <br>
 
 <br>
 
 > <b>Reactive programming with Spring boot 2 and Spring webFlux : </b> <br> 
 Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
-Course url : https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/    <br>
-My development repository, Backend : https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux   <br>  
+[Go to the course](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
+[My development repository, backend](https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux)   <br>  
 
 <br>
 
 > <b>Spring Framework 5 and Spring boot 2 zero to expert 2022 :</b> <br> 
 Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
-Course url : https://www.udemy.com/course/spring-framework-5/    <br>
-My development repository, Backend : https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022   <br> 
-My development repository, frontend : https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022   <br> 
+[Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
+[My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
+[My development repository, frontend](https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
 
 <br>
 
 > <b>Angular & Spring Boot: Creating a web app full stack :</b> <br> 
 Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
-Course url :  https://www.udemy.com/course/angular-spring/  <br>
-My development repository, backend : https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3   <br> 
-My development repository, frontend : https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3          <br>
+[Go to the course](https://www.udemy.com/course/angular-spring/)  <br>
+[My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
+[My development repository, frontend](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3)          <br>
 (In the repository you can get the versions V1 and V2, about the frontend and backend)<br> 
 
 <br>
 
 > <b>Microservicios Spring Cloud Eureka & Angular Full stack :</b> <br> 
 Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.<br>
-Course url :  https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/         <br>
-My development repository, backend V1 : https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1   <br> 
-My development repository, backend V2 : https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2            <br> 
+[Go to the course](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
+[My development repository, backend V1](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1)   <br> 
+[My development repository, backend V2](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2)            <br> 
 
 <br>
 
 > <b>Master Completo en Java de cero a experto 2022 127hrs : </b> <br>
 JAVA SE and Jakarta EE9. <br>
-Course url : https://www.udemy.com/course/master-completo-java-de-cero-a-experto/   <br>
-My development repository, backend : https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-  <br> 
+[Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
+[My development repository, backend](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
 
 <br>
 
 > <b>Guía Completa de Docker & Kubernetes con Spring Boot 2023 </b> <br>
 Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
-Course url : https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/ <br>
-My development repository, backend, 75%: https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022    <br>
-Version 1, until section 6 : https://github.com/AxelCCp/-Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022_V1         <br>
+[Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
+[My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
+[Version 1, until section 6](https://github.com/AxelCCp/-Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022_V1)         <br>
 
 
 <br>
@@ -159,10 +157,10 @@ Version 1, until section 6 : https://github.com/AxelCCp/-Guia-Completa-de-Docker
  
 * I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: 
 
-  - IESE Business School University of Navarra : Keys to managing people. <br> https://es.coursera.org/learn/gestionar-personas
-  - Universidad Nacional Autónoma de México UNAM : New business models in the 21st century   <br>  https://es.coursera.org/learn/modelos-negocios
-  - Pontificia Universidad Católica de Chile: Path to excellence in project management   <br>   https://es.coursera.org/learn/camino-excelencia-gestion-proyectos
-  - Pontificia Universidad Católica de Chile: Management of effective organizations   <br>  https://es.coursera.org/learn/gestion-organizaciones-efectivas
+  - IESE Business School University of Navarra : [Keys to managing people](https://es.coursera.org/learn/gestionar-personas)
+  - Universidad Nacional Autónoma de México UNAM : [New business models in the 21st century](https://es.coursera.org/learn/modelos-negocios)
+  - Pontificia Universidad Católica de Chile: [Path to excellence in project management](https://es.coursera.org/learn/camino-excelencia-gestion-proyectos)
+  - Pontificia Universidad Católica de Chile: [Management of effective organizations](https://es.coursera.org/learn/gestion-organizaciones-efectivas)
    
  <br>
  
@@ -183,32 +181,32 @@ Version 1, until section 6 : https://github.com/AxelCCp/-Guia-Completa-de-Docker
 * NOW MY YOUTUBE COURSES:
   
   - Complete Java fullstack course (Lucas Moy): 
-    > https://youtu.be/7vHzVN0EiQc <br> My development repository: <br> https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest    
+    > [Course](https://youtu.be/7vHzVN0EiQc) <br> [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
   - Spring framework and Spring boot (Píldoras Informáticas):
-    > https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm  <br>  My development repositories:  <br>
-    > https://github.com/AxelCCp/1-SPRING             <br>
-      https://github.com/AxelCCp/2-SPRING-ANNOTATIONS       <br>
-      https://github.com/AxelCCp/3-SPRING-CON-MVC           <br>
-      https://github.com/AxelCCp/3-SPRING-MVC-REPETICI-N          <br>
-      https://github.com/AxelCCp/4-SPRING-CON-HIBERNATE          <br>
-      https://github.com/AxelCCp/5-HIBERNATE-RELACIONES          <br>
-      https://github.com/AxelCCp/6-HIBERNATE-RELACIONES-2            <br>
-      https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-        <br>
-      https://github.com/AxelCCp/RepasoSpringFramework-           <br>
+    > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>  My development repositories:  <br>
+    > [Spring-starting with spring framework, first project.](https://github.com/AxelCCp/1-SPRING)             <br>
+      [Spring- Annotations.](https://github.com/AxelCCp/2-SPRING-ANNOTATIONS)       <br>
+      [Spring-MVC.](https://github.com/AxelCCp/3-SPRING-CON-MVC)           <br>
+      [Spring-MVC-2.](https://github.com/AxelCCp/3-SPRING-MVC-REPETICI-N)          <br>
+      [Spring-Hibernate.](https://github.com/AxelCCp/4-SPRING-CON-HIBERNATE)          <br>
+      [Spring-relationships between tables.](https://github.com/AxelCCp/5-HIBERNATE-RELACIONES)          <br>
+      [Spring-relationships between tables-2.](https://github.com/AxelCCp/6-HIBERNATE-RELACIONES-2)            <br>
+      [Spring-project, CRUD on database with mySql.](https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-)        <br>
+      [Spring-review.](https://github.com/AxelCCp/RepasoSpringFramework-)           <br>
   - Java 8  (Píldoras Informáticas):
-    > https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk     <br>  My development repositories:  <br>
-      https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS       <br>
-      https://github.com/AxelCCp/JAVA4-PILDORAS-INFORMATICAS       <br>
-      https://github.com/AxelCCp/JAVA5-PILDORAS-INFORMATICAS-STREAMS        <br>
-      https://github.com/AxelCCp/JAVA6-PILDORAS-INFORMATICAS          <br>
-      https://github.com/AxelCCp/JAVA7-PILDORAS-INFORMATICAS       <br>
-      https://github.com/AxelCCp/JAVA8-PILDORAS-INFORMATICAS       <br>
-      https://github.com/AxelCCp/JAVA9-PILDORAS-INFORMATICAS        <br>
-      https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS            <br>
-      https://github.com/AxelCCp/JAVA11-PILDORAS-INFORMATICAS-JSP            <br>
-      https://github.com/AxelCCp/JAVA-12-PILDORAS-INFORMATICAS-SERVLETS          <br>
-      https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO          <br>
-      https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS          <br>
+    > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>  My development repositories:  <br>
+      [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
+      [Java-Exception Handling.](https://github.com/AxelCCp/JAVA4-PILDORAS-INFORMATICAS)      <br>
+      [Java-Streams and file access.](https://github.com/AxelCCp/JAVA5-PILDORAS-INFORMATICAS-STREAMS)      <br>
+      [Java-Generic Programming.](https://github.com/AxelCCp/JAVA6-PILDORAS-INFORMATICAS)        <br>
+      [Java-concurrent programming.](https://github.com/AxelCCp/JAVA7-PILDORAS-INFORMATICAS)       <br>
+      [Java-Collections.](https://github.com/AxelCCp/JAVA8-PILDORAS-INFORMATICAS)       <br>
+      [Java-Sockets.](https://github.com/AxelCCp/JAVA9-PILDORAS-INFORMATICAS)        <br>
+      [Java-Access to databases.](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS)            <br>
+      [Java-JSP.](https://github.com/AxelCCp/JAVA11-PILDORAS-INFORMATICAS-JSP)            <br>
+      [Java-Servlets.](https://github.com/AxelCCp/JAVA-12-PILDORAS-INFORMATICAS-SERVLETS)          <br>
+      [Java-Annex of the Final part of the course.](https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO)          <br>
+      [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
       
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
@@ -217,38 +215,38 @@ Version 1, until section 6 : https://github.com/AxelCCp/-Guia-Completa-de-Docker
  
   ><b>Facturation system + user registration: </b>   <br>
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
-  >Front: https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR              <br>
-  >Back: https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND             <br>
-  >Readme: https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png
+  >[Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
+  >[Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
+  >[Readme](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)
  
   <br>
   
   ><b>Microservices with Spring boot, Spring Cloud and Oauth2: </b>   <br>
   >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
-  >Back: https://github.com/AxelCCp/Za2_MICROSERVICIOS            <br>
-  >Back: https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER            <br>
-  >Readme: https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png          <br>
+  >[Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
+  >[Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
+  >[Readme](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)          <br>
 
   <br>
 
   ><b>Microservices with Spring boot and Spring Cloud:  </b>   <br>
   >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
-  >Back: https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK        <br>
-  >Readme: https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg       <br>
+  >[Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
+  >[Readme](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)       <br>
    
    <br>
    
   ><b>Webflux:  </b>   <br>
   >I'm working on this.   <br>
-  >Back: https://github.com/AxelCCp/Za5.-WEBFLUX          <br>
-  >Readme: https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png
+  >[Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
+  >[Readme](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)
     
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡<b>PYTHON</b> <br>
   >RE-LEARNING PYTHON  <br>
-  >https://github.com/AxelCCp/PYTHON
+  >[Backend repository](https://github.com/AxelCCp/PYTHON)
 
 <br>
 
