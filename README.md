@@ -135,7 +135,8 @@ JAVA SE and Jakarta EE9. <br>
 Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
 [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
-[Version 1, until section 6](https://github.com/AxelCCp/-Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022_V1)         <br>
+[Version 1, until section 6](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V1)         <br>
+[Version 2, from section 6 - docker](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V2)         <br>
 
 
 <br>
