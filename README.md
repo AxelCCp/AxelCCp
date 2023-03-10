@@ -124,7 +124,8 @@ My development repository, backend : https://github.com/AxelCCp/Master-Completo-
 <b>Guía Completa de Docker & Kubernetes con Spring Boot 2023 </b> <br>
 Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 Course url : https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/ <br>
-My development repository, backend : https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022    <br> <br>
+My development repository, backend, 75%: https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022    <br>
+Version 1, until section 6 : https://github.com/AxelCCp/-Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022_V1         <br> <br>
 
 
 
