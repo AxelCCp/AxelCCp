@@ -135,8 +135,8 @@ JAVA SE and Jakarta EE9. <br>
 Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
 [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
-[My notes 1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br>
-[My notes 2](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS_2.png) <br>
+<b>[* My notes 1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br> </b>
+<b>[* My notes 2](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS_2.png) <br> </b>
 ...................... <br>
 [Version 1, until section 6](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V1)         <br>
 [Version 2, from section 6 - docker](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V2)         <br>
@@ -221,7 +221,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
   >[Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >[Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
-  >[Readme](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)
+  ><b>[README](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)</b>
  
   <br>
   
@@ -229,21 +229,21 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
   >[Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >[Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
-  >[Readme](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)          <br>
+  ><b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)          <br> </b>
 
   <br>
 
   ><b>Microservices with Spring boot and Spring Cloud:  </b>   <br>
   >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
   >[Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
-  >[Readme](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)       <br>
+  ><b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)       <br> </b>
    
    <br>
    
   ><b>Webflux:  </b>   <br>
   >I'm working on this.   <br>
   >[Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
-  >[Readme](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)
+  ><b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>
     
 
 -------------------------------------------------------------------------------------------------------------------------------------
