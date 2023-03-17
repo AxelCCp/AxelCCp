@@ -211,6 +211,9 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
       [Java-Servlets.](https://github.com/AxelCCp/JAVA-12-PILDORAS-INFORMATICAS-SERVLETS)          <br>
       [Java-Annex of the Final part of the course.](https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO)          <br>
       [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
+  - SQL  (Píldoras Informáticas): <br>
+    > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
+      [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br>
       
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
