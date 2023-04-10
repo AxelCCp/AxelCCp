@@ -8,7 +8,11 @@ Im am Chilean, I studied Engineering in International Trade in Chile and after I
 
 * <b>LANGUAGES: </b> <br>
 Written english 80%. <br>
-Spoken english 50%.<br>
+Spoken english 50%.<br> <br>
+
+![](https://github.com/AxelCCp/MyResume/blob/main/java-vs.-python-881x441-1.png)
+
+
 
 <!--
 📫
