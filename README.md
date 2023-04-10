@@ -261,6 +261,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 ⚡<b>PYTHON</b> <br>
   >RE-LEARNING PYTHON  <br>
+  >[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
   >[Backend repository](https://github.com/AxelCCp/PYTHON)
 
 <br>
