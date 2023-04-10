@@ -247,9 +247,16 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   ><b>Webflux:  </b>   <br>
   >I'm working on this.   <br>
   >[Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
-  ><b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>
+  ><b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
     
-
+ <br>
+ 
+   ><b>Java 17 & Jakarta EE9:  </b>   <br>
+   >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
+   >I'm working on this.   <br>
+   >[Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
+   ><b>[README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/MY_OWN_PROJECT_JAKARTA_EE9_JSP_SERVLETS_my-jsp-servlets.png)</b>  <br>
+ 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡<b>PYTHON</b> <br>
