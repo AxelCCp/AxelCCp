@@ -49,8 +49,8 @@ Spoken english 50%.<br> <br>
   
   📫
   CONTACT INFORMATION :<br/>
-  whatsapp: +569 371 65 626 (Chile) <br>
-  whatsapp: +52 55 5192 9370 (México)   
+  <!--whatsapp: +569 371 65 626 (Chile) <br>
+  whatsapp: +52 55 5192 9370 (México) -->  
   Email: axel.astete.o@gmail.com <br>
 
   --------------------------------------------------------------------------------------------------------------------------------
