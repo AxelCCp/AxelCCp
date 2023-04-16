@@ -115,7 +115,7 @@ Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API R
 
 
 > <b>Spring Framework 5 and Spring boot 2 zero to expert 2022 :</b> <br> 
-![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) ![](https://github.com/AxelCCp/MyResume/blob/main/zangular2.PNG)<br>
 Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
 [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
 [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
@@ -126,7 +126,7 @@ Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors 
 
 
 > <b>Angular & Spring Boot: Creating a web app full stack :</b> <br>
-![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br> 
+![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) ![](https://github.com/AxelCCp/MyResume/blob/main/zangular2.PNG) <br> 
 Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
 [Go to the course](https://www.udemy.com/course/angular-spring/)  <br>
 [My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
@@ -153,8 +153,8 @@ Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gate
 
 
 > <b>Master Completo en Java de cero a experto 2023 - 127 hrs. : </b> <br>
-![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) <br>
-![](https://github.com/AxelCCp/MyResume/blob/main/zjakarta2.PNG)   <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) 
+![](https://github.com/AxelCCp/MyResume/blob/main/zjakarta3.PNG)   <br>
 JAVA SE and Jakarta EE9. <br>
 [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
@@ -228,7 +228,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
 * NOW MY YOUTUBE COURSES:
   
-> Complete Java fullstack course (Lucas Moy):  <br>
+> <b>Complete Java fullstack course (Lucas Moy): </b> <br>
 ![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
 > [Course](https://youtu.be/7vHzVN0EiQc) <br> [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
    
