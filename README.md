@@ -62,6 +62,8 @@ Spoken english 50%.<br> <br>
       
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UVIVERSITY :<br/>
         
+    ![](https://github.com/AxelCCp/MyResume/blob/main/imagen_2023-04-15_204909970.png)
+        
     ><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
     > [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
        PROGRAM COURSES : <br/>
@@ -71,8 +73,12 @@ Spoken english 50%.<br> <br>
        4.-System Administration and IT Infrastructure Services.<br/>
        5.-IT Security: Defense against the digital dark arts.
                
-      <br>         
-               
+      <br>   
+  
+  
+   ![](https://github.com/AxelCCp/MyResume/blob/main/zpython.PNG)   <br>     
+  
+   
     > <b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
          [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
          PROGRAM COURSES : <br/>
