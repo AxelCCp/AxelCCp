@@ -2,9 +2,7 @@
 👋 Hi, I'm Axel<br/>
 ----------------------------------------
 I'm a Java Developer (Intermediate Level)<br/>
-
-* <b>ABOUT ME: </b> <br/>
-Im am Chilean, I studied Engineering in International Trade in Chile and after I reinvented my professional career. I have an excellent computational domain and I mainly use Windows, but I can also use Linux. Now I am living in Mexico City, I have my Work visa and I am working on freelance projects. 
+I'm Chilean and I live in Mexico. And I built this profile so you can review my main skills and knowledge.
 
 * <b>LANGUAGES: </b> <br>
 Written english 80%. <br>
@@ -60,35 +58,36 @@ Spoken english 50%.<br> <br>
  * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> 
       
       
- * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UVIVERSITY :<br/>
+ * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UNIVERSITY :<br/>
         
     
         
-    ><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
-    ![](https://github.com/AxelCCp/MyResume/blob/main/imagen_2023-04-15_204909970.png)  <br>
-    > [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
-       PROGRAM COURSES : <br/>
-       1.-Technical Support Fundamentals.<br/>
-       2.-The Bits and Bytes of Computer Networking.<br/>
-       3.-Operating Systems and You: Becoming a Power User.<br/>
-       4.-System Administration and IT Infrastructure Services.<br/>
-       5.-IT Security: Defense against the digital dark arts.
-               
-      <br>   
+ ><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
+ ![](https://github.com/AxelCCp/MyResume/blob/main/imagen_2023-04-15_204909970.png)  <br>
+ > [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
+   PROGRAM COURSES : <br/>
+   1.-Technical Support Fundamentals.<br/>
+   2.-The Bits and Bytes of Computer Networking.<br/>
+   3.-Operating Systems and You: Becoming a Power User.<br/>
+   4.-System Administration and IT Infrastructure Services.<br/>
+   5.-IT Security: Defense against the digital dark arts.
+
+
+<br>   
   
   
    
-    ><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
-    ![](https://github.com/AxelCCp/MyResume/blob/main/zpython.PNG)   <br>     
-    > [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
-       PROGRAM COURSES : <br/>
-       1.-Introduction to programming with Python.<br/>
-       2.-Python data structures.<br/>
-       3.-Object oriented programming with Python. <br/>
-       4.-Management of databases with Python<br/>
-         &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
+><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
+![](https://github.com/AxelCCp/MyResume/blob/main/zpython.PNG)   <br>     
+> [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
+  PROGRAM COURSES : <br/>
+  1.-Introduction to programming with Python.<br/>
+  2.-Python data structures.<br/>
+  3.-Object oriented programming with Python. <br/>
+  4.-Management of databases with Python<br/>
+  &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
               
-     <br> 
+<br> 
          
  * I HAVE COURSES OF UDEMY (I USUALLY LEARN WITH THIS PLATFORM): <br/>
  
