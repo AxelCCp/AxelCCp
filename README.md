@@ -87,7 +87,7 @@ Spoken english 50%.<br> <br>
   4.-Management of databases with Python<br/>
   &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
               
-<br> 
+<br> <br> 
          
  * I HAVE COURSES OF UDEMY (I USUALLY LEARN WITH THIS PLATFORM): <br/>
  
@@ -180,6 +180,14 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 <br>
 
+> <b>Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS</b>  <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/javascript.PNG) <br>
+> *** THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
+[Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
+[My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  
+
+<br> <br> 
+
 ..........................................................................................................................................................
 
 * ALSO I HAVE SOME OLD COURSES OF TELEFÓNICA FOUNDATION: 
@@ -222,7 +230,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
 ..........................................................................................................................................................
   
-<br>
+<br> <br> 
 
   
 * NOW MY YOUTUBE COURSES:
@@ -292,7 +300,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   >[Backend repository](https://github.com/AxelCCp/PYTHON)
 
  
-<br>
+<br> <br> 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------- 
