@@ -62,9 +62,10 @@ Spoken english 50%.<br> <br>
       
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UVIVERSITY :<br/>
         
-    ![](https://github.com/AxelCCp/MyResume/blob/main/imagen_2023-04-15_204909970.png)
+    
         
     ><b>STUDY PROGRAM: CRECE CON GOOGLE</b><br/>
+    ![](https://github.com/AxelCCp/MyResume/blob/main/imagen_2023-04-15_204909970.png)  <br>
     > [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
        PROGRAM COURSES : <br/>
        1.-Technical Support Fundamentals.<br/>
@@ -76,38 +77,45 @@ Spoken english 50%.<br> <br>
       <br>   
   
   
-   ![](https://github.com/AxelCCp/MyResume/blob/main/zpython.PNG)   <br>     
-  
    
-    > <b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
-         [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
-         PROGRAM COURSES : <br/>
-         1.-Introduction to programming with Python.<br/>
-         2.-Python data structures.<br/>
-         3.-Object oriented programming with Python. <br/>
-         4.-Management of databases with Python<br/>
+    ><b>STUDY PROGRAM: UNIVERSIDAD AUSTRAL (ARGENTINA)</b><br/>
+    ![](https://github.com/AxelCCp/MyResume/blob/main/zpython.PNG)   <br>     
+    > [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
+       PROGRAM COURSES : <br/>
+       1.-Introduction to programming with Python.<br/>
+       2.-Python data structures.<br/>
+       3.-Object oriented programming with Python. <br/>
+       4.-Management of databases with Python<br/>
          &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
               
      <br> 
          
  * I HAVE COURSES OF UDEMY (I USUALLY LEARN WITH THIS PLATFORM): <br/>
  
+
  
 > <b>Microservices with Spring Boot y Spring Cloud Netflix Eureka : </b> <br> 
+ ![](https://github.com/AxelCCp/MyResume/blob/main/zspringmicroservices.png) <br>
 Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
 [Go to the course](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
 [My development repository, backend](https://github.com/AxelCCp/MicroserviciosUdemy3)     <br>
 
 <br>
 
+
+
 > <b>Reactive programming with Spring boot 2 and Spring webFlux : </b> <br> 
+![](https://github.com/AxelCCp/MyResume/blob/main/zwebflux.PNG)  <br>
 Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
 [Go to the course](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
 [My development repository, backend](https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux)   <br>  
 
 <br>
 
+
+
 > <b>Spring Framework 5 and Spring boot 2 zero to expert 2022 :</b> <br> 
+![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
 Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
 [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
 [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
@@ -115,24 +123,37 @@ Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors 
 
 <br>
 
-> <b>Angular & Spring Boot: Creating a web app full stack :</b> <br> 
+
+
+> <b>Angular & Spring Boot: Creating a web app full stack :</b> <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br> 
 Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
 [Go to the course](https://www.udemy.com/course/angular-spring/)  <br>
 [My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
 [My development repository, frontend](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3)          <br>
 (In the repository you can get the versions V1 and V2, about the frontend and backend)<br> 
 
+
+
 <br>
 
+
+
 > <b>Microservicios Spring Cloud Eureka & Angular Full stack :</b> <br> 
+![](https://github.com/AxelCCp/MyResume/blob/main/zspringmicroservices.png) <br>
 Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.<br>
 [Go to the course](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
 [My development repository, backend V1](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1)   <br> 
 [My development repository, backend V2](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2)            <br> 
 
+
+
 <br>
 
-> <b>Master Completo en Java de cero a experto 2022 127hrs : </b> <br>
+
+
+> <b>Master Completo en Java de cero a experto 2023 - 127 hrs. : </b> <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) <br>
 JAVA SE and Jakarta EE9. <br>
 [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
@@ -143,7 +164,10 @@ JAVA SE and Jakarta EE9. <br>
 <b>[* My notes 4](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_50_54.png)</b> <br>
 <br>
 
+
+
 > <b>Guía Completa de Docker & Kubernetes con Spring Boot 2023 </b> <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zdocker.PNG) <br>
 Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
 [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
@@ -196,9 +220,16 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
 * NOW MY YOUTUBE COURSES:
   
-  - Complete Java fullstack course (Lucas Moy): 
+  
+  
+  > Complete Java fullstack course (Lucas Moy):  <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
     > [Course](https://youtu.be/7vHzVN0EiQc) <br> [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
-  - Spring framework and Spring boot (Píldoras Informáticas):
+   
+   <br>
+   
+  > Spring framework and Spring boot (Píldoras Informáticas): <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
     > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>  My development repositories:  <br>
     > [Spring-starting with spring framework, first project.](https://github.com/AxelCCp/1-SPRING)             <br>
       [Spring- Annotations.](https://github.com/AxelCCp/2-SPRING-ANNOTATIONS)       <br>
@@ -209,9 +240,15 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
       [Spring-relationships between tables-2.](https://github.com/AxelCCp/6-HIBERNATE-RELACIONES-2)            <br>
       [Spring-project, CRUD on database with mySql.](https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-)        <br>
       [Spring-review.](https://github.com/AxelCCp/RepasoSpringFramework-)           <br>
-  - Java 8  (Píldoras Informáticas):
+  
+  
+   <br>
+  
+  
+  > Java 8  (Píldoras Informáticas): <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) <br>
     > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>  My development repositories:  <br>
-      [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
+    > [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
       [Java-Exception Handling.](https://github.com/AxelCCp/JAVA4-PILDORAS-INFORMATICAS)      <br>
       [Java-Streams and file access.](https://github.com/AxelCCp/JAVA5-PILDORAS-INFORMATICAS-STREAMS)      <br>
       [Java-Generic Programming.](https://github.com/AxelCCp/JAVA6-PILDORAS-INFORMATICAS)        <br>
@@ -223,12 +260,17 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
       [Java-Servlets.](https://github.com/AxelCCp/JAVA-12-PILDORAS-INFORMATICAS-SERVLETS)          <br>
       [Java-Annex of the Final part of the course.](https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO)          <br>
       [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
-  - SQL  (Píldoras Informáticas): <br>
+      
+     <br>
+      
+  > SQL  (Píldoras Informáticas): <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/zsql.PNG)  <br>
     > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
       [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br><br>
       
+   <br>
   
-   - Java 8  (Píldoras Informáticas / repaso Java EE):
+   >Java 8  (Píldoras Informáticas / repaso Java EE): <br>
      >[My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
@@ -275,6 +317,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 ⚡<b>PYTHON</b> <br>
   >RE-LEARNING PYTHON  <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/zpython2.PNG)  <br>
   >[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
   >[Backend repository](https://github.com/AxelCCp/PYTHON)
 
