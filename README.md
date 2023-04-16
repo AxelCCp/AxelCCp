@@ -154,6 +154,7 @@ Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gate
 
 > <b>Master Completo en Java de cero a experto 2023 - 127 hrs. : </b> <br>
 ![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zjakarta2.PNG)   <br>
 JAVA SE and Jakarta EE9. <br>
 [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
@@ -180,7 +181,8 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 <br>
 
-     
+..........................................................................................................................................................
+
 * ALSO I HAVE SOME OLD COURSES OF TELEFÓNICA FOUNDATION: 
 
   - Project management with agile methodologies.<br>
@@ -193,7 +195,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   - Digital Marketing. <br>
   - Growth Hacking. <br><br>
 
-
+ 
  
 * I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: 
 
@@ -216,21 +218,26 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   - Finder
   - Data conservator
   - Mining Technician
-  <br>
+ 
+  
+  
+..........................................................................................................................................................
+  
+<br>
+
   
 * NOW MY YOUTUBE COURSES:
   
-  
-  
-  > Complete Java fullstack course (Lucas Moy):  <br>
-  ![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
-    > [Course](https://youtu.be/7vHzVN0EiQc) <br> [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
+> Complete Java fullstack course (Lucas Moy):  <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
+> [Course](https://youtu.be/7vHzVN0EiQc) <br> [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
    
    <br>
    
-  > Spring framework and Spring boot (Píldoras Informáticas): <br>
-  ![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
-    > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>  My development repositories:  <br>
+   
+> <b>Spring framework and Spring boot (Píldoras Informáticas): </b><br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zspring2.png) <br>
+> [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>  My development repositories:  <br>
     > [Spring-starting with spring framework, first project.](https://github.com/AxelCCp/1-SPRING)             <br>
       [Spring- Annotations.](https://github.com/AxelCCp/2-SPRING-ANNOTATIONS)       <br>
       [Spring-MVC.](https://github.com/AxelCCp/3-SPRING-CON-MVC)           <br>
@@ -245,9 +252,9 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
    <br>
   
   
-  > Java 8  (Píldoras Informáticas): <br>
-  ![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) <br>
-    > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>  My development repositories:  <br>
+> <b>Java 8  (Píldoras Informáticas): </b><br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) <br>
+> [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>  My development repositories:  <br>
     > [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
       [Java-Exception Handling.](https://github.com/AxelCCp/JAVA4-PILDORAS-INFORMATICAS)      <br>
       [Java-Streams and file access.](https://github.com/AxelCCp/JAVA5-PILDORAS-INFORMATICAS-STREAMS)      <br>
@@ -261,17 +268,34 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
       [Java-Annex of the Final part of the course.](https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO)          <br>
       [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
       
-     <br>
       
-  > SQL  (Píldoras Informáticas): <br>
-  ![](https://github.com/AxelCCp/MyResume/blob/main/zsql.PNG)  <br>
-    > [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
-      [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br><br>
+ <br>
       
-   <br>
+      
+><b>SQL  (Píldoras Informáticas): </b><br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zsql.PNG)  <br>
+> [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
+[My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br><br>
+
+
+<br>
   
-   >Java 8  (Píldoras Informáticas / repaso Java EE): <br>
-     >[My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
+><b>Java 8  (Píldoras Informáticas / repaso Java EE): <b><br>
+>[My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
+
+
+<br>
+
+
+  ><b>Python:<b><br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/zpython2.PNG)  <br>
+  >[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
+  >[Backend repository](https://github.com/AxelCCp/PYTHON)
+
+ 
+<br>
+
+
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
     
@@ -313,15 +337,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
    >[Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
    ><b>[README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/MY_OWN_PROJECT_JAKARTA_EE9_JSP_SERVLETS_my-jsp-servlets.png)</b>  <br>
  
--------------------------------------------------------------------------------------------------------------------------------------
 
-⚡<b>PYTHON</b> <br>
-  >RE-LEARNING PYTHON  <br>
-  ![](https://github.com/AxelCCp/MyResume/blob/main/zpython2.PNG)  <br>
-  >[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
-  >[Backend repository](https://github.com/AxelCCp/PYTHON)
-
-<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
