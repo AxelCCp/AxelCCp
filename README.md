@@ -294,7 +294,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 <br>
 
 
-  ><b>Python:<b><br>
+  ><b>Python (Píldoras Informáticas):<b><br>
   ![](https://github.com/AxelCCp/MyResume/blob/main/zpython2.PNG)  <br>
   >[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
   >[Backend repository](https://github.com/AxelCCp/PYTHON)
@@ -309,6 +309,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
  ⚡SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS:
  
   ><b>Facturation system + user registration: </b>   <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/cod.PNG) <br>
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
   >[Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >[Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
@@ -317,6 +318,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   <br>
   
   ><b>Microservices with Spring boot, Spring Cloud and Oauth2: </b>   <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/cod.PNG) <br>
   >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
   >[Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >[Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
@@ -325,6 +327,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   <br>
 
   ><b>Microservices with Spring boot and Spring Cloud:  </b>   <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/cod.PNG) <br>
   >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
   >[Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
   ><b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)       <br> </b>
@@ -332,6 +335,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
    <br>
    
   ><b>Webflux:  </b>   <br>
+  ![](https://github.com/AxelCCp/MyResume/blob/main/cod.PNG) <br>
   >I'm working on this.   <br>
   >[Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
   ><b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
@@ -339,6 +343,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
  <br>
  
    ><b>Java 17 & Jakarta EE9:  </b>   <br>
+   ![](https://github.com/AxelCCp/MyResume/blob/main/cod.PNG) <br>
    >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
    >I'm working on this.   <br>
    >[Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
