@@ -167,7 +167,7 @@ JAVA SE and Jakarta EE9. <br>
 
 
 > <b>Guía Completa de Docker & Kubernetes con Spring Boot 2023 </b> <br>
-![](https://github.com/AxelCCp/MyResume/blob/main/zdocker.PNG) <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zdocker.PNG)  ![](https://github.com/AxelCCp/MyResume/blob/main/zaws.png)<br>
 Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
 [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
