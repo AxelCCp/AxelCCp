@@ -17,7 +17,7 @@ Spoken english 50%.<br> <br>
 ⚡SKILLS:
  
   BACKEND:
-   * JAVA 7 -JAVA 8 - JAVA 11 <br> 
+   * JAVA (versions -->  7, 8, 11 and 17) <br> 
    * Spring framework - Spring boot - Spring cloud - Spring security - OAUTH2 - JWT <br> 
    * Spring Webflux. <br> 
    * Microservices with Spring. <br> 
@@ -46,10 +46,9 @@ Spoken english 50%.<br> <br>
   --------------------------------------------------------------------------------------------------------------------------------
   
   📫
-  CONTACT INFORMATION :<br/>
-  <!--whatsapp: +569 371 65 626 (Chile) <br>
-  whatsapp: +52 55 5192 9370 (México) -->  
-  Email: axel.astete.o@gmail.com <br>
+  <b>CONTACT INFORMATION : </b><br/>
+  whatsapp: +569 371 65 626 (Chile) <br>
+  whatsapp: +52 55 5192 9370 (México) <br>
 
   --------------------------------------------------------------------------------------------------------------------------------
   
