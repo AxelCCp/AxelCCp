@@ -4,13 +4,22 @@
 I'm a Java Developer (Intermediate Level)<br/>
 I'm Chilean and I live in Mexico. And I built this profile so you can review my main skills and knowledge.
 
-* <b>LANGUAGES: </b> <br>
+-------------------------------------------------------------------------------------------------------------------------------------
+the south ...
+![](https://github.com/AxelCCp/MyResume/blob/main/WhatsApp%20Image%202023-04-24%20at%2020.20.49.jpeg)
+
+--------------------------------------------------------------------------------------------------------------------------------
+  
+  📫
+  <b>CONTACT INFORMATION : </b><br/>
+  whatsapp: +569 371 65 626 (Chile) <br>
+  whatsapp: +52 55 5192 9370 (México) <br>
+  
+-------------------------------------------------------------------------------------------------------------------------------------
+
+<b>LANGUAGES: </b> <br>
 Written english 80%. <br>
-Spoken english 50%.<br> <br>
-
-![](https://github.com/AxelCCp/MyResume/blob/main/java-vs.-python-881x441-1.png)
-
-
+Spoken english 50%.<br> 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,13 +51,6 @@ Spoken english 50%.<br> <br>
    * PYTHON. <br> 
    * XAMP, WAMP, Workbench, PgAdmin4, MongoDbCompass. <br> 
    
-      
-  --------------------------------------------------------------------------------------------------------------------------------
-  
-  📫
-  <b>CONTACT INFORMATION : </b><br/>
-  whatsapp: +569 371 65 626 (Chile) <br>
-  whatsapp: +52 55 5192 9370 (México) <br>
 
   --------------------------------------------------------------------------------------------------------------------------------
   
