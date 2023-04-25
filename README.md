@@ -23,7 +23,7 @@ Spoken english 50%.<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-⚡SKILLS:
+⚡ <b>SKILLS:</b>
  
   BACKEND:
    * JAVA (versions -->  7, 8, 11 and 17) <br> 
@@ -54,7 +54,7 @@ Spoken english 50%.<br>
 
   --------------------------------------------------------------------------------------------------------------------------------
   
-⚡STUDIES :<br/>
+⚡ <b> MY TRAINING : </b><br/>
    
  * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> 
       
@@ -307,7 +307,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
     
- ⚡SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS:
+  ⚡ <b> SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS: </b>
  
   ><b>Facturation system + user registration: </b>   <br>
   ![](https://github.com/AxelCCp/MyResume/blob/main/cod.PNG) <br>
