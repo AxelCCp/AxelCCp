@@ -154,7 +154,8 @@ Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gate
 
 > <b>Master Completo en Java de cero a experto 2023 - 127 hrs. : </b> <br>
 ![](https://github.com/AxelCCp/MyResume/blob/main/zjava.PNG) 
-![](https://github.com/AxelCCp/MyResume/blob/main/zjakarta3.PNG)   <br>
+![](https://github.com/AxelCCp/MyResume/blob/main/zjakarta3.PNG)
+![](https://github.com/AxelCCp/MyResume/blob/main/zwildfly.PNG)![](https://github.com/AxelCCp/MyResume/blob/main/ztomcat.PNG) <br>
 JAVA SE and Jakarta EE9. <br>
 [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
