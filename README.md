@@ -5,7 +5,7 @@ I'm a Java Developer (Intermediate Level)<br/>
 I'm Chilean and I live in Mexico. And I built this profile so you can review my main skills and knowledge.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-the south ...
+
 ![](https://github.com/AxelCCp/MyResume/blob/main/WhatsApp%20Image%202023-04-24%20at%2020.20.49.jpeg)
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -18,7 +18,7 @@ the south ...
 -------------------------------------------------------------------------------------------------------------------------------------
 
 <b>LANGUAGES: </b> <br>
-Written english 80%. <br>
+Written english 70%. <br>
 Spoken english 50%.<br> 
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -160,10 +160,14 @@ JAVA SE and Jakarta EE9. <br>
 [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
 [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
-<b>[* My notes 1](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCION_41.png)</b> <br>
-<b>[* My notes 2](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCION_42.png)</b> <br>
-<b>[* My notes 3](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_43_A_47.png)</b> <br>
-<b>[* My notes 4](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_50_54.png)</b> <br>
+<b>[* My notes section 41](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_41.png)</b> <br>
+<b>[* My notes section 42](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_42.png)</b> <br>
+<b>[* My notes sections 43-47](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_43_A_47.png)</b> <br>
+<b>[* My notes sections 50-54](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_50_54.png)</b> <br>
+<b>[* My notes sections 63-64](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_63_64_WILDFLY.png)</b> <br>
+<b>[* My notes section 65](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_65_WILDFLY.pdf)</b> <br>
+<b>[* My notes section 66](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_66_WILDFLY.pdf)</b> <br>
+<b>[* My notes section 72](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf)</b> <br>
 <br>
 
 
@@ -348,9 +352,10 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
    ![](https://github.com/AxelCCp/MyResume/blob/main/cod.PNG) <br>
    >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
    >I'm working on this.   <br>
-   >[Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
-   ><b>[README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/MY_OWN_PROJECT_JAKARTA_EE9_JSP_SERVLETS_my-jsp-servlets.png)</b>  <br>
- 
+   >[Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
+   ><b>[Version 1 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets.png)</b>  <br>
+   >[Version 2 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets-2)          <br>
+   ><b>[Version 2 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png)</b>  <br>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
