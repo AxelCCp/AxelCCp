@@ -170,6 +170,7 @@ JAVA SE and Jakarta EE9. <br>
 <b>[* My notes section 66](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_66_WILDFLY.pdf)</b> <br>
 <b>[* My notes section 72](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf)</b> <br>
 <b>[* My notes section 73](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.png)</b> <br>
+<b>[* My notes sections 74-78](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf)</b><br>
 <br>
 
 
