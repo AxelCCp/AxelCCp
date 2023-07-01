@@ -192,7 +192,9 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 [Version 4, from section 13, class 105 - docker compose, AWS, multi-maquina](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V4) <br>
 [Version 5, from section 14, class 131, Kubernetes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V5) <br>
 [version 6, from section 15, class 148, Kubernetes - Persistent volumes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V6) <br>
-[Version 7, from section 17, class 156, Spring cloud kubernetes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V7/tree/master) <br>
+[Version 7, from section 17, classes 156 to 170, Spring cloud kubernetes + Api Gateway](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V7/tree/master) <br>
+Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elastic Kubernetes Service  <br>
+[Version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br>
 
 
 <br>
