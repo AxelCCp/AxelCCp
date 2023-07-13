@@ -195,64 +195,68 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 [Version 7, from section 17, classes 156 to 170, Spring cloud kubernetes + Api Gateway](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V7/tree/master) <br>
 Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elastic Kubernetes Service  <br>
 [Version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br>
-:genie_man: <br>
+...... <br>
 :star2: :star2: :star2: <b>[I DID MY DEFINITIVE GUIDE TO DOCKER-KUBERNETES-AWS](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b>  :star2: :star2: :star2: <br>
-:genie_woman: 
-
+......
 
 <br>
+
+*** NOW I'M DOING THIS: *** 
 
 > <b>Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS</b>  <br>
 ![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br>
 > *** THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
 [Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
-[My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  
+[My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
 
-<br> <br> 
+> <b>Universidad Python con Frameworks Django, Flask, etc. +71hrs</b>  <br>
+[Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
+[My development repository, NOT COMPLETE](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
+> <b>React: Creando webapp Full Stack con Spring Boot 2023</b>  <br>
+[Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
+[My development repository, NOT COMPLETE](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
+
+
+
+
+<br>
 ..........................................................................................................................................................
+<br> 
 
 * ALSO I HAVE SOME OLD COURSES OF TELEFÓNICA FOUNDATION: 
+  >- Project management with agile methodologies.<br>
+  >- Introduction to programming. <br>
+  >- Programming fundamentals. <br>
+  >- Programming with Java Standard. <br>
+  >- Web design with HTML5 + CSS. <br>
+  >- Machine learning introduction. <br>
+  >- Web Analytics. <br>
+  >- Digital Marketing. <br>
+  >- Growth Hacking. <br>
 
-  - Project management with agile methodologies.<br>
-  - Introduction to programming. <br>
-  - Programming fundamentals. <br>
-  - Programming with Java Standard. <br>
-  - Web design with HTML5 + CSS. <br>
-  - Machine learning introduction. <br>
-  - Web Analytics. <br>
-  - Digital Marketing. <br>
-  - Growth Hacking. <br><br>
-
- 
- 
 * I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: 
-
-  - IESE Business School University of Navarra : [Keys to managing people](https://es.coursera.org/learn/gestionar-personas)
-  - Universidad Nacional Autónoma de México UNAM : [New business models in the 21st century](https://es.coursera.org/learn/modelos-negocios)
-  - Pontificia Universidad Católica de Chile: [Path to excellence in project management](https://es.coursera.org/learn/camino-excelencia-gestion-proyectos)
-  - Pontificia Universidad Católica de Chile: [Management of effective organizations](https://es.coursera.org/learn/gestion-organizaciones-efectivas)
-   
- <br>
+  >- IESE Business School University of Navarra : [Keys to managing people](https://es.coursera.org/learn/gestionar-personas)
+  >- Universidad Nacional Autónoma de México UNAM : [New business models in the 21st century](https://es.coursera.org/learn/modelos-negocios)
+  >- Pontificia Universidad Católica de Chile: [Path to excellence in project management](https://es.coursera.org/learn/camino-excelencia-gestion-proyectos)
+  >- Pontificia Universidad Católica de Chile: [Management of effective organizations](https://es.coursera.org/learn/gestion-organizaciones-efectivas)
  
 * FOUNDATION CARLOS SLIM , COURSES: 
-  - Management of work meetings   <br>
-  - Leadership  <br>
-  - Feedback  <br>
-  - How to give instructions  <br>
-  - Process improvement   <br>
-  - Process evaluator  <br>
-  - Key Performance Indicator   <br>
-  - Introduction to programming
-  - Finder
-  - Data conservator
-  - Mining Technician
+  >- Management of work meetings   <br>
+  >- Leadership  <br>
+  >- Feedback  <br>
+  >- How to give instructions  <br>
+  >- Process improvement   <br>
+  >- Process evaluator  <br>
+  >- Key Performance Indicator   <br>
+  >- Introduction to programming
+  >- Finder
+  >- Data conservator
+  >- Mining Technician
  
-  
-  
-..........................................................................................................................................................
-  
-<br> <br> 
+<br> 
+..........................................................................................................................................................  
+<br> 
 
   
 * NOW MY YOUTUBE COURSES:
