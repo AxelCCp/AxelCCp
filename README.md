@@ -10,27 +10,27 @@ I'm Chilean and I live in Mexico. And I built this profile so you can review my 
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-  📫
+  :black_medium_square:
   <b>CONTACT INFORMATION : </b><br/>
   whatsapp: +569 371 65 626 (Chile) <br>
   whatsapp: +52 55 5192 9370 (México) <br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-  <b>LINKS:</b> <br>
+  :black_medium_square: <b>LINKS:</b> <br>
   [My dockerhub profile](https://hub.docker.com/u/4xe1)
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
-<b>LANGUAGES: </b> <br>
+:black_medium_square:<b>LANGUAGES: </b> <br>
 Written english 70%. <br>
 Spoken english 50%.<br> 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-⚡ <b>SKILLS:</b>
+:pirate_flag: <b>SKILLS:</b>
  
-  BACKEND:
+  :black_medium_square: BACKEND: <br>
    * JAVA (versions -->  7, 8, 11 and 17) <br> 
    * Spring framework - Spring boot - Spring cloud - Spring security - OAUTH2 - JWT <br> 
    * Spring Webflux. <br> 
@@ -38,6 +38,7 @@ Spoken english 50%.<br>
    * API REST.
    * Docker. <br>
    * Kubernetes. <br>
+   * AWS.
    * Relational Databases: MySQL and PostgreSQL. <br> 
    * Non-relational databases: MongoDB and Reactive MongoDB. <br> 
    * Postman.
@@ -46,13 +47,13 @@ Spoken english 50%.<br>
    * WebSphere - Wildfly
    * Maven. <br> <br> 
  
- FRONTEND: <br> 
+ :black_medium_square: FRONTEND: <br> 
    * Angular. <br> 
    * JavaScript. <br> 
    * Typescript. <br> 
    * Thymeleaf. <br> <br>    
     
- OTHERS: <br> 
+ :black_medium_square: OTHERS: <br> 
    * IDES : Eclipse - Eclipse with Spring tools suite 4 - Visual studio code - IntelliJ. <br> 
    * Git - GitHub. <br> 
    * PYTHON. <br> 
@@ -61,7 +62,7 @@ Spoken english 50%.<br>
 
   --------------------------------------------------------------------------------------------------------------------------------
   
-⚡ <b> MY TRAINING : </b><br/>
+:pirate_flag: <b> MY TRAINING : </b><br/>
    
  * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> 
       
@@ -202,7 +203,7 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
 
 <br>
 
-*** NOW I'M DOING THIS: *** 
+:black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:NOW I'M DOING THIS: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
 
 > <b>Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS</b>  <br>
 ![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br>
@@ -222,52 +223,10 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
 [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
 [My development repository, NOT COMPLETE](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
 
+:black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle::black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle::black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
 
 
 
-<br><br>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-<br> <br>
-
-* ALSO I HAVE SOME OLD COURSES OF TELEFÓNICA FOUNDATION: <br>
-![](https://github.com/AxelCCp/images-my-git/blob/master/courses%20telefonica.PNG)<br> <br>
-  <!--
-  >- Project management with agile methodologies.<br>
-  >- Introduction to programming. <br>
-  >- Programming fundamentals. <br>
-  >- Programming with Java Standard. <br>
-  >- Web design with HTML5 + CSS. <br>
-  >- Machine learning introduction. <br>
-  >- Web Analytics. <br>
-  >- Digital Marketing. <br>
-  >- Growth Hacking. <br>
-  -->
-
-* I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: <br>
-  ![](https://github.com/AxelCCp/images-my-git/blob/master/courses%20coursera.PNG) <br> <br>
-  <!--
-  >- IESE Business School University of Navarra : [Keys to managing people](https://es.coursera.org/learn/gestionar-personas)
-  >- Universidad Nacional Autónoma de México UNAM : [New business models in the 21st century](https://es.coursera.org/learn/modelos-negocios)
-  >- Pontificia Universidad Católica de Chile: [Path to excellence in project management](https://es.coursera.org/learn/camino-excelencia-gestion-proyectos)
-  >- Pontificia Universidad Católica de Chile: [Management of effective organizations](https://es.coursera.org/learn/gestion-organizaciones-efectivas)
-  -->
- <!--
-* FOUNDATION CARLOS SLIM , COURSES: 
-  >- Management of work meetings   <br>
-  >- Leadership  <br>
-  >- Feedback  <br>
-  >- How to give instructions  <br>
-  >- Process improvement   <br>
-  >- Process evaluator  <br>
-  >- Key Performance Indicator   <br>
-  >- Introduction to programming
-  >- Finder
-  >- Data conservator
-  >- Mining Technician
-  -->
- 
-<br> <br>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  
 <br> <br>
 
   
@@ -338,13 +297,13 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
   >[Backend repository](https://github.com/AxelCCp/PYTHON)
 
  
-<br> <br> 
+<br>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------- 
     
     
-  ⚡ <b> SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS: </b>
+  :pirate_flag: <b> SOMETIMES I HAVE TIME TO DO MY OWN PROJECTS: </b>
  
   ><b>Facturation system + user registration: </b>   <br>
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
@@ -392,73 +351,32 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+<br>
+
+* ALSO I HAVE SOME COURSES OF TELEFÓNICA FOUNDATION: <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/courses%20telefonica.PNG)<br> <br>
 
 
-<!--
-⚡<br/>
-   <table>
-        <tr>
-          <th colspan="2">MY REPOSITORIES SUMMARY:</th>
-        </tr>
-        <tr>
-          <td >
-            YouTube :<br/> "Píldoras Informáticas": <br/>
-          </td>
-          <td >
-            Course: "Java desde 0".<br/>
-               Repetition Course: "Java desde 0".<br/>
-               Course: "Spring".<br/>
-               Repetition Course: "Spring".<br/>
-               Course: "SQL".<br/>
-               Course: JavaScript(Studying).<br/> 
-               Course: HTML5(Studying).<br/>
-               Course: Git&GitHub.
-          </td>
-        </tr>
-         <tr>
-          <td >YouTube :<br/>"Disco duro de roer"</td>
-          <td >Some basic exercises.</td>
-        </tr>
-        <tr>
-            <td >YouTube channel:<br/>"JandroCode"</td>
-            <td>Course: "Spring boot"</td>
-        </tr>
-        <tr>
-            <td >YouTube :<br/>"Fernando Fuentes"</td>
-            <td>Course: Spring boot(Api Rest + JPA + MySQL con Java11)</td>
-          </tr>
-        <tr>
-          <td >YouTube :<br/>"Lucas Moy"</td>
-          <td>Course: "Java fullstack completo(Springboot, hibernate, JWT, API Rest)"</td>
-        </tr>
-        <tr>
-            <td >YouTube :<br/>"Java Revolutions"</td>
-            <td>Exercise: "Java web services, Rest, proyecto Maven"
-                <br/>Exercise: "Java web services SOAP con API JAX-WS(xml WSDL)"
-            </td>
-        </tr>
-        <tr>
-            <td >YouTube :<br/>" SDET-Automation Techie(India)"</td>
-            <td>Course: "Edit excel with Apache POI"</td>
-        </tr>
-         <tr>
-            <td >Udemy.com:<br/> Profesor: Andrés Guzmán</td>
-            <td>Course: "Microservicios con Spring Boot y Spring Cloud Netflix Eureka."</td>
-        </tr>
-         <tr>
-            <td >YouTube :<br/>MitoCode</td>
-            <td>Course: "Project Reactor(Java & Spring boot)"</td>
-        </tr>
-        <tr>
-            <td >Udemy.com:<br/> Profesor: Andrés Guzmán</td>
-            <td>Course: "Guía Completa JUnit y Mockito incluye Spring Boot Test 2022."</td>
-        </tr>
-        <tr>
-            <td >Udemy.com:<br/> Profesor: Andrés Guzmán</td>
-            <td>Course: "Programación Reactiva con Spring Boot 2 y Spring WebFlux."</td>
-        </tr>
-      </table>
-     --> 
+* I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: <br>
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/courses%20coursera.PNG) <br> <br>
+
+
+  
+* FOUNDATION CARLOS SLIM , COURSES: 
+  >- Management of work meetings   <br>
+  >- Leadership  <br>
+  >- Feedback  <br>
+  >- How to give instructions  <br>
+  >- Process improvement   <br>
+  >- Process evaluator  <br>
+  >- Key Performance Indicator   <br>
+  >- Introduction to programming
+  >- Finder
+  >- Data conservator
+  >- Mining Technician
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
       
       
 😄BYE!!!👋
