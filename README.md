@@ -29,9 +29,14 @@ Spoken english 50%.<br>
 -------------------------------------------------------------------------------------------------------------------------------------
 
 :pirate_flag: <b>SKILLS:</b>
- 
-  :black_medium_square: BACKEND: <br>
-   * JAVA (versions -->  7, 8, 11 and 17) <br> 
+<br>
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/skills.PNG)
+
+
+<!--
+   BACKEND: <br>
+   * JAVA (versions   7, 8, 11 and 17) <br> 
    * Spring framework - Spring boot - Spring cloud - Spring security - OAUTH2 - JWT <br> 
    * Spring Webflux. <br> 
    * Microservices with Spring. <br> 
@@ -45,21 +50,21 @@ Spoken english 50%.<br>
    * Soap UI.
    * Deployment of microservices in Docker containers and AWS. <br> 
    * WebSphere - Wildfly
-   * Maven. <br> <br> 
+   * Maven. <br> <br>
  
- :black_medium_square: FRONTEND: <br> 
+ FRONTEND: <br> 
    * Angular. <br> 
    * JavaScript. <br> 
    * Typescript. <br> 
    * Thymeleaf. <br> <br>    
     
- :black_medium_square: OTHERS: <br> 
+OTHERS: <br> 
    * IDES : Eclipse - Eclipse with Spring tools suite 4 - Visual studio code - IntelliJ. <br> 
    * Git - GitHub. <br> 
    * PYTHON. <br> 
    * XAMP, WAMP, Workbench, PgAdmin4, MongoDbCompass. <br> 
-   
-
+  
+-->
   --------------------------------------------------------------------------------------------------------------------------------
   
 :pirate_flag: <b> MY TRAINING : </b><br/>
