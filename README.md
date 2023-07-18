@@ -36,7 +36,8 @@ Spoken english 50%.<br>
    * Spring Webflux. <br> 
    * Microservices with Spring. <br> 
    * API REST.
-   * Docker. <br> 
+   * Docker. <br>
+   * Kubernetes. <br>
    * Relational Databases: MySQL and PostgreSQL. <br> 
    * Non-relational databases: MongoDB and Reactive MongoDB. <br> 
    * Postman.
@@ -220,11 +221,13 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
 
 
 
-<br>
-..........................................................................................................................................................
-<br> 
+<br><br>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<br> <br>
 
-* ALSO I HAVE SOME OLD COURSES OF TELEFÓNICA FOUNDATION: 
+* ALSO I HAVE SOME OLD COURSES OF TELEFÓNICA FOUNDATION: <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/courses%20telefonica.PNG)<br> <br>
+  <!--
   >- Project management with agile methodologies.<br>
   >- Introduction to programming. <br>
   >- Programming fundamentals. <br>
@@ -234,13 +237,17 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
   >- Web Analytics. <br>
   >- Digital Marketing. <br>
   >- Growth Hacking. <br>
+  -->
 
-* I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: 
+* I DID SOME COURSES GIVEN BY UNIVERSITIES. THESE COURSES ARE NOT ABOUT PROGRAMMING: <br>
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/courses%20coursera.PNG) <br> <br>
+  <!--
   >- IESE Business School University of Navarra : [Keys to managing people](https://es.coursera.org/learn/gestionar-personas)
   >- Universidad Nacional Autónoma de México UNAM : [New business models in the 21st century](https://es.coursera.org/learn/modelos-negocios)
   >- Pontificia Universidad Católica de Chile: [Path to excellence in project management](https://es.coursera.org/learn/camino-excelencia-gestion-proyectos)
   >- Pontificia Universidad Católica de Chile: [Management of effective organizations](https://es.coursera.org/learn/gestion-organizaciones-efectivas)
- 
+  -->
+ <!--
 * FOUNDATION CARLOS SLIM , COURSES: 
   >- Management of work meetings   <br>
   >- Leadership  <br>
@@ -253,10 +260,11 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
   >- Finder
   >- Data conservator
   >- Mining Technician
+  -->
  
-<br> 
-..........................................................................................................................................................  
-<br> 
+<br> <br>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  
+<br> <br>
 
   
 * NOW MY YOUTUBE COURSES:
