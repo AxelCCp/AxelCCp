@@ -206,31 +206,6 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
 :star2: :star2: :star2: <b>[I DID MY DEFINITIVE GUIDE TO DOCKER-KUBERNETES-AWS](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b>  :star2: :star2: :star2: <br>
 ......
 
-<br>
-
-:black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:NOW I'M DOING THIS: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
-
-> <b>Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS</b>  <br>
-![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br>
-> *** THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
-[Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
-[My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
-
-
-> <b>Universidad Python con Frameworks Django, Flask, etc. +71hrs</b>  <br>
-![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br>
-[Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
-[My development repository, NOT COMPLETE](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
-
-
-> <b>React: Creando webapp Full Stack con Spring Boot 2023</b>  <br>
-![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
-[Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
-[My development repository, NOT COMPLETE](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
-
-:black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle::black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle::black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
-
-
 
 <br> <br>
 
@@ -354,8 +329,50 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
    ><b>[Version 2 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png)</b>  <br>
 
 
--------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------- 
 
+What I am doing now ? (In this section I show what I am learning now. These courses are not complete yet)
+
+<br>
+
+:black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:NOW I'M DOING THIS: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
+
+<br>
+
+> <b>Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS</b>  <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br>
+> *** THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
+[Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
+[My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
+
+
+> <b>Universidad Python con Frameworks Django, Flask, etc. +71hrs</b>  <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br>
+[Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
+[My development repository, NOT COMPLETE](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
+
+
+> <b>React: Creando webapp Full Stack con Spring Boot 2023</b>  <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
+[Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
+[My development repository, NOT COMPLETE](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
+
+> <b>Java Avanzado - Aplicaciones Empresariales Para Empleo</b> <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br>
+[Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
+[My development repository, NOT COMPLETE](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
+
+> <b>Programación en C de Cero a Experto con Estructuras de Datos</b> <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br>
+[Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
+[My development repository, NOT COMPLETE](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
+
+<br>
+
+:black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle::black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle::black_circle: :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
+
+-------------------------------------------------------------------------------------------------------------------------------------
+<!--
 <br>
 
 * ALSO I HAVE SOME COURSES OF TELEFÓNICA FOUNDATION: <br>
@@ -382,6 +399,7 @@ Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elas
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
+--!>
       
       
 😄BYE!!!👋
