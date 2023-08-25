@@ -9,7 +9,7 @@ I'm Chilean and I live in Mexico. And I built this profile so you can review my 
 
 :point_right: README :grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation:  <br>
 
-| EMOJI  | CONTENT |
+| symbol  | CONTENT |
 | ------------- | ------------- |
 | :small_orange_diamond:  | LINK THAT REDIRECTS TO THE COURSE OF THE REPOSITORY  |
 | :small_blue_diamond: | LINK OF MY REPOSITORIES  |
@@ -17,11 +17,12 @@ I'm Chilean and I live in Mexico. And I built this profile so you can review my 
 | :eyes: | README  |
 | :rocket: | LINK TO OTHER WEBSITE |
 | :point_right: | COMMENTS |
+| hrs | NUMBER OF HOURS OF VIDEO OF EACH COURSE |
 
 
 <br>
 
-:point_right: Most of my notes are not in separate files. In the code are most of my notes and comments about programming. If you want to know about my understanding in programming, see the code.
+:point_right: Most of my notes :memo: are not in separate files. In the code :small_blue_diamond:repositories are most of my notes and comments about programming. If you want to know about my understanding in programming, see the code.
 
 
 
@@ -69,6 +70,7 @@ Spoken english 50%.<br>
 :pirate_flag: <b> MY TRAINING : </b><br/>
 
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UNIVERSITY :<br/>
+  &nbsp;&nbsp;:point_right:(ALL COMPLETE-100%):point_left:
         
  >![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br>
  > :rocket: [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
@@ -99,7 +101,7 @@ Spoken english 50%.<br>
   
 :pirate_flag: <b> MY TRAINING : </b><br/>
          
- * MY UDEMY REPOSITORIES: <br/>
+ * MY UDEMY REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: : <br/>
  
 
  
@@ -190,9 +192,10 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 :small_blue_diamond: [version 6, from section 15, class 148, Kubernetes - Persistent volumes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V6) <br>
 :small_blue_diamond: [Version 7, from section 17, classes 156 to 170, Spring cloud kubernetes + Api Gateway](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V7/tree/master) <br>
 :small_blue_diamond: Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elastic Kubernetes Service  <br>
-:small_blue_diamond: [Version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br>
+:small_blue_diamond: [Version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br> <br>
 ...... <br>
 :memo: :eyes: :eyes: :eyes: :rocket: <b>[I DID MY DEFINITIVE GUIDE TO DOCKER-KUBERNETES-AWS](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b> <br>
+:point_right: I wrote down all the commands to deploy containers with all possible ways.  :face_with_spiral_eyes:  <br>
 ......
 
 
@@ -203,7 +206,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 :pirate_flag: <b> MY TRAINING : </b><br/>
 
   
-* MY YOUTUBE REPOSITORIES:
+* MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
   
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br>
 > :small_orange_diamond: [Course](https://youtu.be/7vHzVN0EiQc) <br>
@@ -282,10 +285,10 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-:pirate_flag: <b> MY TRAINING : </b><br/>
+:pirate_flag: <b> MY TRAINING </b>: <br/>
     
     
-  * <b> SOME PORTFOLIO PROJECTS: </b> <br>
+  * <b> SOME PORTFOLIO PROJECTS: </b>   :point_right:(Little sample projects... in continuous development. Not all of my projects are public):point_left: <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
@@ -332,7 +335,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
 :pirate_flag: <b> MY TRAINING : </b><br/> 
 
-* WHAT I'M DOING NOW?   :point_right: (In this section I show what I am learning now. These courses are not complete yet)
+* WHAT I'M DOING NOW?   :point_right:(In this section I show what I am learning now. These courses are not complete yet):point_left:
 
 <br>
 
