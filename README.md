@@ -9,7 +9,7 @@ I'm Chilean and I live in Mexico. And I built this profile so you can review my 
 
 :point_right: README :grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation:  <br>
 
-| symbol  | CONTENT |
+| SYMBOL  | CONTENT |
 | ------------- | ------------- |
 | :small_orange_diamond:  | LINK THAT REDIRECTS TO THE COURSE OF THE REPOSITORY  |
 | :small_blue_diamond: | LINK OF MY REPOSITORIES  |
@@ -275,7 +275,10 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 
   >![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br>
-  > Tasklet - Chunk - Flow Execution  --> with CSV files. <br>
+  > Development of 3 applications with Spring batch. <br>
+  > :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
+  > :point_right:Chunk --> Loading of massive data in database with csv file and postman. <br>
+  > :point_right:Flow Execution  --> Banking transaction application with postman and mysql. <br>
   > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQmOZ-vJ9ZlcIOtjz4CYzxG)  <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Batch)
 
