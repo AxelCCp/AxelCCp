@@ -216,6 +216,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
    
    
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br>
+> Complete course about Spring Famework and Spring boot. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>
 > My development repositories:  <br>
      :small_blue_diamond: [Spring-starting with spring framework, first project.](https://github.com/AxelCCp/1-SPRING)             <br>
@@ -233,6 +234,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
   
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br>
+> Java 8 Standard Edition & Enterprice Edition. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>
 > My development repositories:  <br>
      :small_blue_diamond: [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
@@ -252,23 +254,25 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
  <br>
       
       
->![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br>
+> ![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
-:small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br><br>
+> :small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br><br>
 
 
 <br>
   
->![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br>
->:small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
+> ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br>
+> Java 8 Standard Edition <br>
+> :small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 
 
 <br>
 
 
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br>
+  > ![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br>
+  > Complete course of Python. <br>
   > :small_orange_diamond:[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
-  >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
+  > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
 
  
 <br>
@@ -276,14 +280,23 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
   >![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br>
   > Development of 3 applications with Spring batch. <br>
+  > Spring boot version 2.7.14 / Java 17 <br>
   > :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
   > :point_right:Chunk --> Loading of massive data in database with csv file and postman. <br>
   > :point_right:Flow Execution  --> Banking transaction application with postman and mysql. <br>
   > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQmOZ-vJ9ZlcIOtjz4CYzxG)  <br>
-  >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Batch)
+  > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Batch)
 
  
 <br>
+
+> ![Spring Security](https://github.com/AxelCCp/images-my-git/blob/master/spring-security.PNG)<br>
+> Spring boot version 3.0.6 / Java 17 <br>
+> :point_right: Understanding Spring Security. <br>
+> :point_right: Authorization and authentication with JWT. <br>
+> :point_right: Integration of Spring Boot 3, Keycloak and Oauth2.  <br>
+> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPRCK4IbemQGwYdgSwfd2aZu) <br>
+> :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Security) <br>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
