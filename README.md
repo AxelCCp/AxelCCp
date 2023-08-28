@@ -1,23 +1,23 @@
 ----------------------------------------
-👋 Hi, I'm Axel<br/>
+👋 Hi, I'm Axel  :genie: <br/>
 ----------------------------------------
 I'm a Java Developer (Intermediate Level)<br/>
 I'm Chilean and I live in Mexico. And I built this profile so you can review my main skills and knowledge.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-:yellow_circle: SYMBOLOGY OF MY RESPOSITORY  <br>
+:mage_man: SYMBOLOGY OF MY RESPOSITORY  <br>
 
 :point_right: README :grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation:  <br>
 
 | SYMBOL  | CONTENT |
 | ------------- | ------------- |
-| :small_orange_diamond:  | LINK THAT REDIRECTS TO THE COURSE OF THE REPOSITORY  |
-| :small_blue_diamond: | LINK OF MY REPOSITORIES  |
-| :memo: | MY NOTES AND/OR MY DOCUMENTATION |
-| :eyes: | README  |
-| :rocket: | LINK TO OTHER WEBSITE |
-| :point_right: | COMMENTS |
-| hrs | NUMBER OF HOURS OF VIDEO OF EACH COURSE |
+| :small_orange_diamond:  | LINK THAT REDIRECTS TO THE COURSE OF THE REPOSITORY. HERE YOU CAN REVIEW THE CONTENT OF EACH COURSE. |
+| :small_blue_diamond: | LINK OF MY REPOSITORIES.  |
+| :memo: | MY NOTES AND/OR MY DOCUMENTATION. |
+| :eyes: | README.  |
+| :rocket: | LINK TO OTHER WEBSITE. |
+| :point_right: | COMMENTS. |
+| hrs | NUMBER OF HOURS OF VIDEO OF EACH COURSE. |
 
 
 <br>
