@@ -195,7 +195,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 :small_blue_diamond: [Version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br> <br>
 ...... <br>
 :memo: :eyes: :eyes: :eyes: :rocket: <b>[I DID MY DEFINITIVE GUIDE TO DOCKER-KUBERNETES-AWS](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b> <br>
-:point_right: I wrote down all the commands to deploy containers with all possible ways.  :face_with_spiral_eyes:  <br>
+:point_right: I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
 ......
 
 
@@ -216,7 +216,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
    
    
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br>
-> Complete course about Spring Famework and Spring boot. <br>
+> Complete course about Spring Framework and Spring boot. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>
 > My development repositories:  <br>
      :small_blue_diamond: [Spring-starting with spring framework, first project.](https://github.com/AxelCCp/1-SPRING)             <br>
@@ -234,7 +234,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
   
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br>
-> Java 8 Standard Edition & Enterprice Edition. <br>
+> Complete course - Java 8  - Standard Edition & Enterprice Edition. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>
 > My development repositories:  <br>
      :small_blue_diamond: [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
@@ -262,7 +262,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 <br>
   
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br>
-> Java 8 Standard Edition <br>
+> Java 8 Enterprice Edition <br>
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 
 
