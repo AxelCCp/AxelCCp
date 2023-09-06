@@ -1,8 +1,8 @@
 ----------------------------------------
 👋 Hi, I'm Axel  :genie: <br/>
 ----------------------------------------
-I'm a Java Developer (Intermediate Level)<br/>
-I'm Chilean and I live in Mexico. And I built this profile so you can review my main skills and knowledge.
+I'm a Java Developer (Intermediate Level) ☝️<br/>
+I'm Chilean and I live in Mexico ✈️. And I built this profile so you can review my main skills and knowledge ✨.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 :mage_man: SYMBOLOGY OF MY RESPOSITORY  <br>
@@ -35,25 +35,25 @@ I'm Chilean and I live in Mexico. And I built this profile so you can review my 
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-  :black_medium_square:
-  <b>CONTACT INFORMATION: </b><br/>
+  
+  🐇 <b>CONTACT INFORMATION: </b><br/>
   whatsapp: +569 371 65 626 (Chile) <br>
   whatsapp: +52 55 5192 9370 (México) <br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-  :black_medium_square: <b>LINKS:</b> <br><br>
+  🐳 <b>LINKS:</b> <br><br>
   :rocket: [My dockerhub profile](https://hub.docker.com/u/4xe1)
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
-:black_medium_square:<b>LANGUAGES: </b> <br>
+🙊 <b>LANGUAGES: </b> <br>
 Written english 70%. <br>
 Spoken english 50%.<br> 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-:pirate_flag: <b>SKILLS:</b>
+:octocat: <b>SKILLS:</b>
 <br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/skills.PNG)
@@ -61,13 +61,13 @@ Spoken english 50%.<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-:black_circle: <b> EDUCATION : </b><br/>
+💩 <b> EDUCATION : </b><br/>
    
  * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> 
       
 --------------------------------------------------------------------------------------------------------------------------------
   
-:pirate_flag: <b> MY TRAINING : </b><br/>
+🍄 <b> MY TRAINING : </b><br/>
 
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UNIVERSITY :<br/>
   &nbsp;&nbsp;:point_right:(ALL COMPLETE-100%):point_left:
@@ -99,7 +99,7 @@ Spoken english 50%.<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-:pirate_flag: <b> MY TRAINING : </b><br/>
+🐰 <b> MY TRAINING : </b><br/>
          
  * MY UDEMY REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: : <br/>
  
@@ -203,7 +203,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-:pirate_flag: <b> MY TRAINING : </b><br/>
+🐘 <b> MY TRAINING : </b><br/>
 
   
 * MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
@@ -301,7 +301,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-:pirate_flag: <b> MY TRAINING </b>: <br/>
+🐌 <b> MY TRAINING </b>: <br/>
     
     
   * <b> SOME PORTFOLIO PROJECTS: </b>   :point_right:(Little sample projects... in continuous development. Not all of my projects are public):point_left: <br>
@@ -349,7 +349,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-:pirate_flag: <b> MY TRAINING : </b><br/> 
+ 🐷 <b> MY TRAINING : </b><br/> 
 
 * WHAT I'M DOING NOW?   :point_right:(In this section I show what I am learning now. These courses are not complete yet):point_left:
 
