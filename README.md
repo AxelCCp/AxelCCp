@@ -298,6 +298,23 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPRCK4IbemQGwYdgSwfd2aZu) <br>
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Security) <br>
 
+<br>
+
+> ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-framework-practices.PNG)  <br>
+> Spring boot version 3.0.6 / Java 17 <br>
+> [:small_orange_diamond: Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
+> :point_right:  :small_blue_diamond: [Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) --------->  :eyes: :memo: [commands.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
+> :point_right: :small_blue_diamond: How to consume SOAP services with Spring Boot - Maven #soap #spring. <br>
+> :point_right: :small_blue_diamond: [Master creating REST APIs with Spring Boot.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootRest)  <br>
+> :point_right: :small_blue_diamond: Spring Boot 3, Keycloak, Oauth2 integration: Take security to another level. <br>
+> :point_right: :small_blue_diamond: [How to send emails with Spring Boot #spring #springframework.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootMailSender)  -------->  :eyes: [readme.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
+> :point_right: :small_blue_diamond: [Mastering Relationships in JPA with Spring Boot: Simplifying your database connections.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringJpaRelation)  <br>
+> :point_right: :small_blue_diamond: How to create an AWS Lambda function with Spring Boot #aws #spring #lambda. <br>
+> :point_right: :small_blue_diamond: How to consume SOAP services with Spring Boot - Gradle #soap #spring.  <br>
+> :point_right: :small_blue_diamond: [Spring Data JPA: Types of associations.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringDataJpa)  <br>
+> :point_right: :small_blue_diamond: Spring MVC and Google reCAPTCHA: Fight bots and keep your site safe.  <br>
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------
   
