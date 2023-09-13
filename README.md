@@ -315,6 +315,15 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 > :point_right: :small_blue_diamond: Spring MVC and Google reCAPTCHA: Fight bots and keep your site safe.  <br>
 
 
+<br>
+
+> ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-graphql-1.PNG) <br>
+>  :point_right: CRUD with graphQL, Spring and MySQL workbench.  <br>
+> Spring boot version 3.0.6 / Java 17 <br>
+> :small_orange_diamond: [Tutorial](https://www.youtube.com/playlist?list=PLr23_YfwEbPTUm-uIAA1DbDqmjtjQtc-O)  <br>
+> :small_blue_diamond: [Respository](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootGraphQL) <br>
+> :eyes: :memo: [My notes](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z1_APUNTE_GRAPHQL_1.png)  <br>
+
 
 --------------------------------------------------------------------------------------------------------------------------------
   
