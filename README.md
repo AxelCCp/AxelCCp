@@ -304,8 +304,8 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 > Spring boot version 3.0.6 / Java 17 <br>
 > [:small_orange_diamond: Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
 > :point_right:  :small_blue_diamond: [Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) --------->  :eyes: :memo: [commands.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
-> :point_right: :small_blue_diamond: [How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br>
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br>
+> :point_right: :small_blue_diamond: [How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> <br>
+> ![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br> <br>
 > :point_right: :small_blue_diamond: [Master creating REST APIs with Spring Boot.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootRest)  <br>
 > :point_right: :small_blue_diamond: Spring Boot 3, Keycloak, Oauth2 integration: Take security to another level. <br>
 > :point_right: :small_blue_diamond: [How to send emails with Spring Boot #spring #springframework.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootMailSender)  -------->  :eyes: [readme.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
@@ -330,7 +330,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
-> :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br>
+> :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> <br>
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br> 
 
 --------------------------------------------------------------------------------------------------------------------------------
