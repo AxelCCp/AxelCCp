@@ -361,7 +361,9 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   >![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br>
   >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)       <br> </b>
+  >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br> <br>
+  >![](https://github.com/AxelCCp/images-my-git/blob/master/diagram-microservices-1.PNG) <br>
+  
    
    <br>
    
