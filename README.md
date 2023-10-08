@@ -354,7 +354,8 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)          <br> </b>
+  >:eyes: <b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)           </b>  <br> <br>
+  >![](https://github.com/AxelCCp/images-my-git/blob/master/micro-docker-containers.PNG) <br>
 
   <br>
 
@@ -400,20 +401,21 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br>
 :small_orange_diamond: [Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
-:small_blue_diamond: [My development repository, NOT COMPLETE](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
+:small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
 
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
 :small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
-:small_blue_diamond: [My development repository, NOT COMPLETE](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
+:small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
 
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
-:small_blue_diamond: [My development repository, NOT COMPLETE](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
+:small_blue_diamond: [My development repository, section 1 to section 7, JSF - PRIMEFACES](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
+:small_blue_diamond: [My development repository, section 8 to ... (NOT COMPLETE YET), JPA](https://github.com/AxelCCp/Java_avanzado_app_para_empleo_JPA_PROJECT) <br>
 
 > ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
-:small_blue_diamond: [My development repository, NOT COMPLETE](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
+:small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
 
 <br>
 
