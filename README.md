@@ -72,7 +72,7 @@ Spoken english 50%.<br>
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UNIVERSITY :<br/>
   &nbsp;&nbsp;:point_right:(ALL COMPLETE-100%):point_left:
         
- >![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br>
+ ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br>
  > :rocket: [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
    PROGRAM COURSES : <br/>
    1.-Technical Support Fundamentals.<br/>
@@ -86,7 +86,7 @@ Spoken english 50%.<br>
   
   
    
->![](https://github.com/AxelCCp/images-my-git/blob/master/zpython.PNG) <br>     
+![](https://github.com/AxelCCp/images-my-git/blob/master/zpython.PNG) <br>     
 > :rocket: [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
   PROGRAM COURSES : <br/>
   1.-Introduction to programming with Python.<br/>
@@ -105,8 +105,8 @@ Spoken english 50%.<br>
  
 
  
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br>
-Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br>
+>Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
 :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/MicroserviciosUdemy3)     <br>
 
@@ -114,8 +114,8 @@ Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, 
 
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br>
-Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br>
+>Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
 :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux)   <br>  
 
@@ -123,8 +123,8 @@ Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API R
 
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br>
-Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br>
+>Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
 :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
 :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
@@ -133,8 +133,8 @@ Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors 
 
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> 
-Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> 
+>Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/angular-spring/)  <br>
 :small_blue_diamond: [My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
 :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3)          <br>
@@ -146,8 +146,8 @@ Development frontend with Angular and backend with Spring Boot 3, API REST, JPA,
 
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br>
-Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.<br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br>
+>Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.<br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
 :small_blue_diamond: [My development repository, backend V1](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1)   <br> 
 :small_blue_diamond: [My development repository, backend V2](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2)            <br> 
@@ -158,8 +158,8 @@ Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gate
 
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br>
-JAVA SE and Jakarta EE9. <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br>
+>JAVA SE and Jakarta EE9. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 :small_blue_diamond: [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
 :small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
@@ -177,8 +177,8 @@ JAVA SE and Jakarta EE9. <br>
 
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/docker-aws-kube.PNG)<br>
-Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/docker-aws-kube.PNG)<br>
+>Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
 :small_blue_diamond: [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
 :memo: <b>[My notes 1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br> </b>
@@ -208,14 +208,14 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
 * MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
   
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br>
 > :small_orange_diamond: [Course](https://youtu.be/7vHzVN0EiQc) <br>
 > :small_blue_diamond: [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
    
    <br>
    
    
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br>
 > Complete course about Spring Framework and Spring boot. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>
 > My development repositories:  <br>
@@ -233,7 +233,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
    <br>
   
   
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br>
 > Complete course - Java 8  - Standard Edition & Enterprice Edition. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>
 > My development repositories:  <br>
@@ -254,14 +254,14 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
  <br>
       
       
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
-> :small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br><br>
+> :small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br>
 
 
 <br>
   
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br>
 > Java 8 Enterprice Edition <br>
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 
@@ -269,28 +269,28 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 <br>
 
 
-  > ![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br>
-  > Complete course of Python. <br>
-  > :small_orange_diamond:[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
-  > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
+![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br>
+> Complete course of Python. <br>
+> :small_orange_diamond:[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
+> :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
 
  
 <br>
 
 
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br>
-  > Development of 3 applications with Spring batch. <br>
-  > Spring boot version 2.7.14 / Java 17 <br>
-  > :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
-  > :point_right:Chunk --> Loading of massive data in database with csv file and postman. <br>
-  > :point_right:Flow Execution  --> Banking transaction application with postman and mysql. <br>
-  > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQmOZ-vJ9ZlcIOtjz4CYzxG)  <br>
-  > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Batch)
+![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br>
+> Development of 3 applications with Spring batch. <br>
+> Spring boot version 2.7.14 / Java 17 <br>
+> :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
+> :point_right:Chunk --> Loading of massive data in database with csv file and postman. <br>
+> :point_right:Flow Execution  --> Banking transaction application with postman and mysql. <br>
+> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQmOZ-vJ9ZlcIOtjz4CYzxG)  <br>
+> :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Batch)
 
  
 <br>
 
-> ![Spring Security](https://github.com/AxelCCp/images-my-git/blob/master/spring-security.PNG)<br>
+![Spring Security](https://github.com/AxelCCp/images-my-git/blob/master/spring-security.PNG)<br>
 > Spring boot version 3.0.6 / Java 17 <br>
 > :point_right: Understanding Spring Security. <br>
 > :point_right: Authorization and authentication with JWT. <br>
@@ -300,12 +300,14 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 <br>
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-framework-practices.PNG)  <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/spring-framework-practices.PNG)  <br>
 > Spring boot version 3.0.6 / Java 17 <br>
 > [:small_orange_diamond: Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
 > :point_right:  :small_blue_diamond: [Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) --------->  :eyes: :memo: [commands.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
-> :point_right: :small_blue_diamond: [How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> <br>
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br> <br>
+> :point_right: :small_blue_diamond: [How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> 
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br> 
+
 > :point_right: :small_blue_diamond: [Master creating REST APIs with Spring Boot.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootRest)  <br>
 > :point_right: :small_blue_diamond: Spring Boot 3, Keycloak, Oauth2 integration: Take security to another level. <br>
 > :point_right: :small_blue_diamond: [How to send emails with Spring Boot #spring #springframework.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootMailSender)  -------->  :eyes: [readme.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
@@ -318,7 +320,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 <br>
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-graphql-1.PNG) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/spring-graphql-1.PNG) <br>
 >  :point_right: CRUD with graphQL, Spring and MySQL workbench.  <br>
 > Spring boot version 3.0.6 / Java 17 <br>
 > :small_orange_diamond: [Tutorial](https://www.youtube.com/playlist?list=PLr23_YfwEbPTUm-uIAA1DbDqmjtjQtc-O)  <br>
@@ -328,10 +330,11 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 
 <br>
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
-> :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> <br>
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br> 
+> :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br>
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br> 
 
 --------------------------------------------------------------------------------------------------------------------------------
   
@@ -342,7 +345,7 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/fact-sist.PNG) <br>
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/fact-sist.PNG) <br>
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
   >:small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
@@ -350,32 +353,34 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
  
   <br>
   
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/microserv1.PNG) <br>
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv1.PNG) <br>
   >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)           </b>  <br> <br>
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/micro-docker-containers.PNG) <br>
+  >:eyes: <b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)           </b>  <br> 
+  
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/micro-docker-containers.PNG) <br>
 
   <br>
 
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br>
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br>
   >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br> <br>
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/diagram-microservices-1.PNG) <br>
+  >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br>
+
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/diagram-microservices-1.PNG) <br>
   
    
    <br>
    
-  >![](https://github.com/AxelCCp/images-my-git/blob/master/webflux-portf.PNG) <br>
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux-portf.PNG) <br>
   > :point_right: I'm working on this (incomplete yet). <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
     
  <br>
  
-   >![](https://github.com/AxelCCp/images-my-git/blob/master/jakartaportf.PNG) <br>
+   ![](https://github.com/AxelCCp/images-my-git/blob/master/jakartaportf.PNG) <br>
    >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
    >:point_right: I'm working on this (incomplete yet).   <br>
    >:small_blue_diamond: [Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
@@ -393,28 +398,28 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
 <br>
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br>
 > :point_right: THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
 :small_orange_diamond: [Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
 :small_blue_diamond: [My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br>
-:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br>
+>:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
-:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
+>:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br>
+>:small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
 :small_blue_diamond: [My development repository, section 1 to section 7, JSF - PRIMEFACES](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
 :small_blue_diamond: [My development repository, section 8 to ... (NOT COMPLETE YET), JPA](https://github.com/AxelCCp/Java_avanzado_app_para_empleo_JPA_PROJECT) <br>
 
-> ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br>
+>:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
 
 <br>
@@ -424,10 +429,4 @@ Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBala
       
 😄BYE!!!👋
 
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
