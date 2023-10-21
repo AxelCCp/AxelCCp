@@ -417,8 +417,10 @@ Spoken english 50%.<br>
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
 :small_blue_diamond: [My development repository, section 1 to section 7, JSF - PRIMEFACES](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
 :small_blue_diamond: [My development repository, section 8, JPA - HIBERNATE](https://github.com/AxelCCp/Java_avanzado_app_para_empleo_JPA_PROJECT) <br>
-:small_blue_diamond: [My development repository, section 9(classes: 105 - 111), MVN project with Spring configurations](https://github.com/AxelCCp/Spring_Apps-empresariales-para-el-empleo) <br>
-:small_blue_diamond: [My development repository, section 9(classes: 112 - 119), MVN project with Spring web configurations](https://github.com/AxelCCp/spring-web-apps-empresariales-para-empleo) <br>
+:small_blue_diamond: [My development repository, section 9 (classes: 105 - 111), MVN project with Spring configurations](https://github.com/AxelCCp/Spring_Apps-empresariales-para-el-empleo) <br>
+:small_blue_diamond: [My development repository, section 9 (classes: 112 - 119), MVN project with Spring web configurations](https://github.com/AxelCCp/spring-web-apps-empresariales-para-empleo) <br>
+:small_blue_diamond: [My development repository, section 10 (Rest Proyect with MVN and Jersey)](https://github.com/AxelCCp/web-service-Apps-empresariales-para-el-empleo) <br>
+:small_blue_diamond: [My development repository, section 10 (Rest Proyect client with MVN and Jersey)](https://github.com/AxelCCp/-web-service-client-Apps-empresariales-para-el-empleo) <br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br>
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
