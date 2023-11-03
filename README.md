@@ -349,7 +349,8 @@ Spoken english 50%.<br>
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
   >:small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)</b>
+  >:eyes: <b>[README](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)</b> <br>
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-facturacion-ang.PNG)  <br>
  
   <br>
   
@@ -421,6 +422,8 @@ Spoken english 50%.<br>
 :small_blue_diamond: [My development repository, section 9 (classes: 112 - 119), MVN project with Spring web configurations](https://github.com/AxelCCp/spring-web-apps-empresariales-para-empleo) <br>
 :small_blue_diamond: [My development repository, section 10 (Rest Proyect with MVN and Jersey)](https://github.com/AxelCCp/web-service-Apps-empresariales-para-el-empleo) <br>
 :small_blue_diamond: [My development repository, section 10 (Rest Proyect client with MVN and Jersey)](https://github.com/AxelCCp/-web-service-client-Apps-empresariales-para-el-empleo) <br>
+:small_blue_diamond: [My development repository, section 11 ... (Final project - Music Store)](https://github.com/AxelCCp/tiendamusical) <br>
+
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br>
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
