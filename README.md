@@ -333,8 +333,17 @@ Spoken english 50%.<br>
 ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
 > :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br> 
+
+<br>
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/JASPER.PNG) <br>
+> :small_orange_diamond: [Tutorial](https://youtu.be/UExwNGhEcZc?si=JikbjmFjAvxK4uDp) <br>
+> :small_blue_diamond: [Repository](https://github.com/AxelCCp/JASPER) <br>
+> :eyes: :memo: [My notes](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
+
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
   
