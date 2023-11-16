@@ -332,7 +332,8 @@ Spoken english 50%.<br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
-> :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br>
+> :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> 
+
 ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br>
 
 
@@ -344,6 +345,11 @@ Spoken english 50%.<br>
 > :eyes: :memo: [My notes](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
 
 <br>
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/apache-poi.PNG) <br>
+> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQ6LlBhef5D18YT-IPD1n7y) <br>
+> :small_blue_diamond: [Repository](https://github.com/AxelCCp/apache-poi) <br>
+
 
 --------------------------------------------------------------------------------------------------------------------------------
   
@@ -359,6 +365,7 @@ Spoken english 50%.<br>
   >:small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)</b> <br>
+  
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-facturacion-ang.PNG)  <br>
  
   <br>
