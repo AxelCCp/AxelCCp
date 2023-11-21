@@ -350,6 +350,13 @@ Spoken english 50%.<br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQ6LlBhef5D18YT-IPD1n7y) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/apache-poi) <br>
 
+<br>
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/labelPattersDesignLuigi.PNG)
+> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PL4bT56Uw3S4x1_IhP0kQZ1mszuLvoNMJF) <br>
+> :small_blue_diamond: [Repository](https://github.com/AxelCCp/Patrones-de-diseno-Luigi-Code) <br>
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/designPatternsLuigi.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------
   
