@@ -358,6 +358,13 @@ Spoken english 50%.<br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/designPatternsLuigi.PNG)
 
+<br>
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/prog-concurrente.PNG)
+> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLw8RQJQ8K1ySGcb3ZP66peK4Za0LKf728) <br>
+> :small_blue_diamond: [Repository](https://github.com/AxelCCp/Aprender-programacion-concurrente-en-java) <br>
+
+
 --------------------------------------------------------------------------------------------------------------------------------
   
 🐌 <b> MY TRAINING </b>: <br/>
