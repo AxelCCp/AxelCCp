@@ -419,6 +419,15 @@ Spoken english 50%.<br>
    >:small_blue_diamond: [Version 2 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets-2)          <br>
    >:eyes: <b>[Version 2 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png)</b>  <br>
 
+<br>
+
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br>
+  > :point_right: Now I'm working on this... <br>
+  > :small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Rect-practices-only-frontend) <br>
+  > ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
+
+
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
   
