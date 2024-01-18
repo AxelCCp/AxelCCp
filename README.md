@@ -424,7 +424,9 @@ Spoken english 50%.<br>
   ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br>
   > :point_right: Now I'm working on this... <br>
   > :small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Rect-practices-only-frontend) <br>
-  > ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
+  > :eyes: [Readme about react practices](https://github.com/AxelCCp/Rect-practices-only-frontend/blob/master/ReadmePracticesFrontReact.jpg) <br>
+  
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
 
 
 <br>
