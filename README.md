@@ -1,10 +1,10 @@
 ----------------------------------------
 👋 Hi, I'm Axel  <br/>
 ----------------------------------------
-I'm a Java Developer 😊, I'm Chilean 🐧, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming ✨.
+I'm a Java Developer 😊 🐒, I'm Chilean🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming ✨.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-:mage_man: SYMBOLOGY OF MY REPOSITORY  <br>
+:mage_man: SYMBOLOGY OF MY REPOSITORY ✨ <br>
 
 
 
@@ -46,23 +46,17 @@ I'm a Java Developer 😊, I'm Chilean 🐧, I live in Mexico ✈️🌵🌴🌶
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
-🙊 <b>LANGUAGES: </b> <br>
-Written english 70%. <br>
-Spoken english 50%.<br> 
-
--------------------------------------------------------------------------------------------------------------------------------------
-
 :octocat: <b>SKILLS:</b>
 <br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/skills.PNG)
 
-
+<!--
 --------------------------------------------------------------------------------------------------------------------------------
   
 💩 <b> EDUCATION : </b><br/>
    
- * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> 
+ * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> -->
       
 --------------------------------------------------------------------------------------------------------------------------------
   
