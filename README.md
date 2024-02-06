@@ -1,13 +1,12 @@
 ----------------------------------------
-👋 Hi, I'm Axel  :genie: <br/>
+👋 Hi, I'm Axel  <br/>
 ----------------------------------------
-I'm a Java Developer (Intermediate Level) ☝️<br/>
-I'm Chilean and I live in Mexico ✈️. And I built this profile so you can review my main skills and knowledge ✨.
+I'm a Java Developer 😊, I'm Chilean 🐧, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming ✨.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-:mage_man: SYMBOLOGY OF MY RESPOSITORY  <br>
+:mage_man: SYMBOLOGY OF MY REPOSITORY  <br>
 
-:point_right: README :grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation:  <br>
+
 
 | SYMBOL  | CONTENT |
 | ------------- | ------------- |
@@ -70,7 +69,7 @@ Spoken english 50%.<br>
 🍄 <b> MY TRAINING : </b><br/>
 
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UNIVERSITY :<br/>
-  &nbsp;&nbsp;:point_right:(ALL COMPLETE-100%):point_left:
+  :point_right:(ALL COMPLETE-100%):point_left:
         
  ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br>
  > :rocket: [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
