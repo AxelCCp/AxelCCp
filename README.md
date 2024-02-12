@@ -1,7 +1,7 @@
 ----------------------------------------
 👋 Hi, I'm Axel  <br/>
 ----------------------------------------
-I'm a Java Developer 😊 🐒, I'm Chilean🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming ✨.
+I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming ✨.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 :mage_man: SYMBOLOGY OF MY REPOSITORY ✨ <br>
@@ -34,12 +34,12 @@ I'm a Java Developer 😊 🐒, I'm Chilean🐧🏔️❄️, I live in Mexico �
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-  
+  <!--
   🐇 <b>CONTACT INFORMATION: </b><br/>
   whatsapp: +569 371 65 626 (Chile) <br>
   whatsapp: +52 55 5192 9370 (México) <br>
 
--------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------- -->
 
   🐳 <b>LINKS:</b> <br><br>
   :rocket: [My dockerhub profile](https://hub.docker.com/u/4xe1)
