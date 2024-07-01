@@ -125,6 +125,14 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 <br>
 
 
+![](https://github.com/AxelCCp/images-my-git/blob/master/spring6-springboot3-course.PNG) <br>
+>Web aplications with Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, RESTful, AWS EC2, Angular, React. <br>
+:small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
+:small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-6-Spring-Boot-3-desde-cero-a-experto-2024)   <br>
+
+
+<br> 
+
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> 
 >Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
@@ -193,6 +201,14 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 <br> 
+
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
+>:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
+:small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
+:small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_BACK_V1)   <br> 
+
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
   
@@ -443,10 +459,6 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 >:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
-
-![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
->:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
-:small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br>
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
