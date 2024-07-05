@@ -1,3 +1,11 @@
+<!-- 
+cosas para construir el readme:
+
+https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file 
+
+-->
+
+
 ----------------------------------------
 👋 Hi, I'm Axel  <br/>
 ----------------------------------------
@@ -60,10 +68,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
       
 --------------------------------------------------------------------------------------------------------------------------------
   
-🍄 <b> MY TRAINING : </b><br/>
+🍄 <b> MY TRAINING: </b><br/>
+I have two study programs from Coursera :point_right:(ALL COMPLETE-100%):point_left::
 
- * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UNIVERSITY :<br/>
-  :point_right:(ALL COMPLETE-100%):point_left:
         
  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br> -->
  ### ${\textsf{\color{#AAB7B8}Study program: Grow with Google}}$ 
@@ -96,9 +103,8 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-🐰 <b> MY TRAINING : </b><br/>
-         
- * MY UDEMY REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: : <br/>
+🐰 <b> MY TRAINING: </b><br/>
+These are my repositories of courses that I have done on Udemy :point_right:(ALL COMPLETE-100%):point_left: : <br/>
  
 
  
@@ -235,10 +241,8 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-🐘 <b> MY TRAINING : </b><br/>
-
-  
-* MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
+🐘 <b> MY TRAINING: </b><br/>
+These are my repositories of courses that I have done on YouTube:
   
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br> -->
 ### ${\textsf{\color{#EC7063}Complete Java fullstack course with Spring (ATL Academy)}}$
@@ -428,13 +432,13 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 --------------------------------------------------------------------------------------------------------------------------------
   
 🐌 <b> MY TRAINING </b>: <br/>
-    
-    
-  * <b> SOME PORTFOLIO PROJECTS: </b>   :point_right:(Little sample projects... in continuous development. Not all of my projects are public):point_left: <br>
+    Some portfolio projects :point_right:(Little sample projects... in continuous development. Not all of my projects are public):point_left: <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
-  ![](https://github.com/AxelCCp/images-my-git/blob/master/fact-sist.PNG) <br>
+  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/fact-sist.PNG) <br> -->
+  ### ${\textsf{\color{#58D68D}Facturation system + user registration}}$
+  
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
   >:small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
@@ -444,7 +448,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
  
   <br>
   
-  ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv1.PNG) <br>
+  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv1.PNG) <br> -->
+  ### ${\textsf{\color{#58D68D}Microservices with Spring Boot, Spring Cloud and Oauth2}}$
+  
   >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
@@ -454,7 +460,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
   <br>
 
-  ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br>
+  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br> -->
+  ### ${\textsf{\color{#58D68D}Microservices with Spring Boot and Spring Cloud (relationships between tables pro level)}}$
+  
   >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br>
@@ -464,14 +472,18 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
    
    <br>
    
-  ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux-portf.PNG) <br>
+  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux-portf.PNG) <br> -->
+  ### ${\textsf{\color{#58D68D}Webflux}}$
+  
   > :point_right: I'm working on this (incomplete yet). <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
     
  <br>
  
-   ![](https://github.com/AxelCCp/images-my-git/blob/master/jakartaportf.PNG) <br>
+   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/jakartaportf.PNG) <br> -->
+   ### ${\textsf{\color{#58D68D}Jakarta EE 9}}$
+   
    >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
    >:point_right: I'm working on this (incomplete yet).   <br>
    >:small_blue_diamond: [Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
@@ -481,7 +493,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 <br>
 
-  ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br>
+  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br> -->
+  ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$
+  
   > :point_right: Now I'm working on this... <br>
   > :small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Rect-practices-only-frontend) <br>
   > :eyes: [Readme about react practices](https://github.com/AxelCCp/Rect-practices-only-frontend/blob/master/ReadmePracticesFrontReact.jpg) <br>
@@ -493,25 +507,28 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 --------------------------------------------------------------------------------------------------------------------------------
   
- 🐷 <b> MY TRAINING : </b><br/> 
-
-* WHAT I'M DOING NOW?   :point_right:(In this section I show what I am learning now. These courses are not complete yet):point_left:
-
-<br>
+:turtle: <b> MY TRAINING : </b><br/> 
+What I'm doing now?   :point_right:(In this section I show what I am learning now or courses that I have not yet finished :sleepy: :sleepy: :sleepy:):point_left:
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br> -->
+### ${\textsf{\color{#AF7AC5}Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS}}$   ${\textsf{\color{#5DADE2}40hrs}}$
+
 > :point_right: THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
 :small_orange_diamond: [Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
 :small_blue_diamond: [My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br> -->
+### ${\textsf{\color{#AF7AC5}Universidad Python con Frameworks Django, Flask, etc. +71hrs}}$   ${\textsf{\color{#5DADE2}71hrs}}$
+
 >:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br> -->
+### ${\textsf{\color{#AF7AC5}Java Avanzado - Aplicaciones Empresariales Para Empleo}}$   ${\textsf{\color{#5DADE2}53hrs}}$
+
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
 :small_blue_diamond: [My development repository, section 1 to section 7, JSF - PRIMEFACES](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
 :small_blue_diamond: [My development repository, section 8, JPA - HIBERNATE](https://github.com/AxelCCp/Java_avanzado_app_para_empleo_JPA_PROJECT) <br>
@@ -522,7 +539,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 :small_blue_diamond: [My development repository, section 11 ... (Final project - Music Store)](https://github.com/AxelCCp/tiendamusical) <br>
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br> -->
+### ${\textsf{\color{#AF7AC5}Programación en C de Cero a Experto con Estructuras de Datos}}$   ${\textsf{\color{#5DADE2}49hrs}}$
+
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
 
