@@ -99,8 +99,7 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
  
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br> -->
-
-`Microservices with Spring Boot and Spring Cloud Netflix Eureka` `19hrs`
+### ${\textsf{\color{#AF7AC5}Microservices with Spring Boot and Spring Cloud Netflix Eureka}}$   ${\textsf{\color{#5DADE2}19hrs}}$
 
 >Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
@@ -110,7 +109,10 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br> -->
+
+### ${\textsf{\color{#AF7AC5}Reactive programming with Spring boot 2 and Spring webFlux}}$   ${\textsf{\color{#5DADE2}11hrs}}$
+
 >Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
 :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux)   <br>  
@@ -120,6 +122,8 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br>
+### ${\textsf{\color{#AF7AC5}Spring Framework 5 and Spring boot 2 zero to expert 2022}}$   ${\textsf{\color{#5DADE2}40hrs}}$
+
 >Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
 :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
