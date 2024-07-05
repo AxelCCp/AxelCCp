@@ -65,7 +65,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
  * I HAVE TWO STUDY PROGRAMS, ONE IS A GOOGLE CERTIFICATION AND THE OTHER IS A PYTHON PROGRAM OF AUSTRAL UNIVERSITY :<br/>
   :point_right:(ALL COMPLETE-100%):point_left:
         
- ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br>
+ <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br> -->
+ ### ${\textsf{\color{#AAB7B8}Study program: Grow with Google}}$ 
+ 
  > :rocket: [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
    PROGRAM COURSES : <br/>
    1.-Technical Support Fundamentals.<br/>
@@ -79,7 +81,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
   
   
    
-![](https://github.com/AxelCCp/images-my-git/blob/master/zpython.PNG) <br>     
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zpython.PNG) <br> -->
+### ${\textsf{\color{#AAB7B8}Universidad Austral (Argentina)}}$ 
+
 > :rocket: [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
   PROGRAM COURSES : <br/>
   1.-Introduction to programming with Python.<br/>
@@ -110,7 +114,6 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br> -->
-
 ### ${\textsf{\color{#AF7AC5}Reactive programming with Spring boot 2 and Spring webFlux}}$   ${\textsf{\color{#5DADE2}11hrs}}$
 
 >Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
@@ -121,7 +124,7 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br> -->
 ### ${\textsf{\color{#AF7AC5}Spring Framework 5 and Spring boot 2 zero to expert 2022}}$   ${\textsf{\color{#5DADE2}40hrs}}$
 
 >Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
@@ -133,7 +136,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
                                                     
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/spring6-springboot3-course.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring6-springboot3-course.PNG) <br> -->
+### ${\textsf{\color{#F7DC6F}Update:}}$  ${\textsf{\color{#AF7AC5}Spring Framework 6 and Spring Boot 3 from zero to expert 2024}}$   ${\textsf{\color{#5DADE2}+41hrs}}$
+
 >Web aplications with Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, RESTful, AWS EC2, Angular, React. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
 :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-6-Spring-Boot-3-desde-cero-a-experto-2024)   <br>
@@ -142,7 +147,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 <br> 
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> 
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> -->
+### ${\textsf{\color{#AF7AC5}Angular and Spring Boot: Creating a web app full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$
+
 >Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/angular-spring/)  <br>
 :small_blue_diamond: [My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
@@ -155,7 +162,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br> -->
+### ${\textsf{\color{#AF7AC5}Microservices with Spring Cloud Eureka and Angular Full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$
+
 >Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.<br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
 :small_blue_diamond: [My development repository, backend V1](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1)   <br> 
@@ -167,8 +176,10 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br>
->JAVA SE and Jakarta EE9. <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br> -->
+### ${\textsf{\color{#AF7AC5}Complete java master from zero to expert 2023}}$   ${\textsf{\color{#5DADE2}127hrs}}$
+
+>Java SE and Jakarta EE 9. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 :small_blue_diamond: [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
 :small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
@@ -186,7 +197,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/docker-aws-kube.PNG)<br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/docker-aws-kube.PNG)<br> -->
+### ${\textsf{\color{#AF7AC5}Complete Guide to Docker and Kubernetes with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}33hrs}}$
+
 >Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
 :small_blue_diamond: [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
@@ -211,7 +224,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 <br> 
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br> -->
+### ${\textsf{\color{#AF7AC5}React: Creating Full Stack Webapp with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}40hrs}}$
+
 >:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
 :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
 :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_BACK_V1)   <br> 
@@ -225,14 +240,18 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
   
 * MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
   
-![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br> -->
+### ${\textsf{\color{#EC7063}Complete Java fullstack course with Spring (ATL Academy)}}$
+
 > :small_orange_diamond: [Course](https://youtu.be/7vHzVN0EiQc) <br>
 > :small_blue_diamond: [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
    
    <br>
    
    
-![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br> -->
+### ${\textsf{\color{#EC7063}Spring framework and Spring boot (Píldoras Informáticas)}}$
+
 > Complete course about Spring Framework and Spring boot. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>
 > My development repositories:  <br>
@@ -250,7 +269,8 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
    <br>
   
   
-![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br> -->
+### ${\textsf{\color{#EC7063}Java 8 (Píldoras Informáticas)}}$
 > Complete course - Java 8  - Standard Edition & Enterprice Edition. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>
 > My development repositories:  <br>
@@ -271,14 +291,16 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
  <br>
       
       
-![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br> -->
+### ${\textsf{\color{#EC7063}SQL (Píldoras Informáticas)}}$
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br>
 
 
 <br>
   
-![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br> -->
+### ${\textsf{\color{#EC7063}Java 8 - review (Píldoras Informáticas)}}$
 > Java 8 Enterprice Edition <br>
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 
@@ -286,7 +308,8 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 <br>
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br> -->
+### ${\textsf{\color{#EC7063}Python (Píldoras Informáticas)}}$
 > Complete course of Python. <br>
 > :small_orange_diamond:[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
@@ -295,7 +318,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 <br>
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br> -->
+### ${\textsf{\color{#EC7063}Spring Batch (Un programador nace)}}$
+
 > Development of 3 applications with Spring batch. <br>
 > Spring boot version 2.7.14 / Java 17 <br>
 > :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
@@ -307,7 +332,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
  
 <br>
 
-![Spring Security](https://github.com/AxelCCp/images-my-git/blob/master/spring-security.PNG)<br>
+<!-- ![Spring Security](https://github.com/AxelCCp/images-my-git/blob/master/spring-security.PNG)<br> -->
+### ${\textsf{\color{#EC7063}Spring Security (Un programador nace)}}$
+
 > Spring boot version 3.0.6 / Java 17 <br>
 > :point_right: Understanding Spring Security. <br>
 > :point_right: Authorization and authentication with JWT. <br>
@@ -317,7 +344,10 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/spring-framework-practices.PNG)  <br>
+
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-framework-practices.PNG)  <br> -->
+### ${\textsf{\color{#EC7063}Spring Framework practices (Un programador nace)}}$
+
 > Spring boot version 3.0.6 / Java 17 <br>
 > [:small_orange_diamond: Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
 > :point_right:  :small_blue_diamond: [Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) --------->  :eyes: :memo: [commands.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
@@ -337,7 +367,10 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/spring-graphql-1.PNG) <br>
+
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-graphql-1.PNG) <br> -->
+### ${\textsf{\color{#EC7063}Spring for GraphQL (Un programador nace)}}$
+
 >  :point_right: CRUD with graphQL, Spring and MySQL workbench.  <br>
 > Spring boot version 3.0.6 / Java 17 <br>
 > :small_orange_diamond: [Tutorial](https://www.youtube.com/playlist?list=PLr23_YfwEbPTUm-uIAA1DbDqmjtjQtc-O)  <br>
@@ -347,7 +380,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br> -->
+### ${\textsf{\color{#EC7063}Design patterns (Un programador nace)}}$
+
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
 > :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> 
 
@@ -356,20 +391,26 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/JASPER.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/JASPER.PNG) <br> -->
+### ${\textsf{\color{#EC7063}Spring Boot - Jasper Report (Un programador nace)}}$
+
 > :small_orange_diamond: [Tutorial](https://youtu.be/UExwNGhEcZc?si=JikbjmFjAvxK4uDp) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/JASPER) <br>
 > :eyes: :memo: [My notes](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
 
 <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/apache-poi.PNG) <br>
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/apache-poi.PNG) <br> -->
+### ${\textsf{\color{#EC7063}Apache POI (Un programador nace)}}$
+
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQ6LlBhef5D18YT-IPD1n7y) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/apache-poi) <br>
 
 <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/labelPattersDesignLuigi.PNG)
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/labelPattersDesignLuigi.PNG) -->
+### ${\textsf{\color{#EC7063}Design patterns (Luigi Code)}}$
+
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PL4bT56Uw3S4x1_IhP0kQZ1mszuLvoNMJF) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Patrones-de-diseno-Luigi-Code) <br>
 
@@ -377,7 +418,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/prog-concurrente.PNG)
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/prog-concurrente.PNG) -->
+### ${\textsf{\color{#EC7063}Learn concurrent programming (Empieza a programar) }}$
+
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLw8RQJQ8K1ySGcb3ZP66peK4Za0LKf728) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Aprender-programacion-concurrente-en-java) <br>
 
