@@ -482,7 +482,7 @@ These are my repositories of courses that I have done on YouTube:
  <br>
  
    <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/jakartaportf.PNG) <br> -->
-   ### ${\textsf{\color{#58D68D}Jakarta EE 9}}$
+   ### ${\textsf{\color{#58D68D}Jakarta EE 9 - Purchasing and user management system}}$
    
    >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
    >:point_right: I'm working on this (incomplete yet).   <br>
@@ -490,6 +490,7 @@ These are my repositories of courses that I have done on YouTube:
    >:eyes: <b>[Version 1 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets.png)</b>  <br>
    >:small_blue_diamond: [Version 2 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets-2)          <br>
    >:eyes: <b>[Version 2 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png)</b>  <br>
+  
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-compras-jakarta9.PNG) <br>
     
 
