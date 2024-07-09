@@ -451,7 +451,7 @@ These are my repositories of courses that I have done on YouTube:
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv1.PNG) <br> -->
   ### ${\textsf{\color{#58D68D}Microservices with Spring Boot, Spring Cloud and Oauth2}}$
   
-  >For more details open the file Readme-microservices-description.txt, the file is at this url.      <br>
+  > :point_right: Full microservices where I implemented: Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker.      <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)           </b>  <br> 
@@ -461,9 +461,9 @@ These are my repositories of courses that I have done on YouTube:
   <br>
 
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br> -->
-  ### ${\textsf{\color{#58D68D}Microservices with Spring Boot and Spring Cloud (relationships between tables pro level)}}$
+  ### ${\textsf{\color{#58D68D}Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level)}}$
   
-  >Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
+  > :point_right: Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br>
 
