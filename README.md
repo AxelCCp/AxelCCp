@@ -171,7 +171,7 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br> -->
 ### ${\textsf{\color{#AF7AC5}Microservices with Spring Cloud Eureka and Angular Full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$
 
->Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL.<br>
+>Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
 :small_blue_diamond: [My development repository, backend V1](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1)   <br> 
 :small_blue_diamond: [My development repository, backend V2](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2)            <br> 
@@ -185,7 +185,7 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br> -->
 ### ${\textsf{\color{#AF7AC5}Complete java master from zero to expert 2023}}$   ${\textsf{\color{#5DADE2}127hrs}}$
 
->Java SE and Jakarta EE 9. <br>
+>Java SE and Jakarta EE 9:  Java 17, Servlet/JSP, JDBC, Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, JAAS security, JBoss Wildfly. Full Stack complete with Spring 5 and Angular + JPA + API Restful. JUnit 5 and Mockito. Dependency Injection and Contexts with Weld CDI by Jakarta EE 9.<br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
 :small_blue_diamond: [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
 :small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
