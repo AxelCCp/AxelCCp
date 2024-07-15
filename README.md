@@ -54,17 +54,12 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
-:octocat: <b>SKILLS:</b>
-<br>
+:octocat: <b>SKILLS:</b> <br>
+
+:point_right:  Within my profile you will find at least one repository where I develop each of these skills. Check the links in this readme that point to different repositories and PDF notes about them. <br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/skills.PNG)
 
-<!--
---------------------------------------------------------------------------------------------------------------------------------
-  
-💩 <b> EDUCATION : </b><br/>
-   
- * PROFESSIONAL STUDIES:  INTERNATIONAL BUSINESS ENGINEER. International business degree. Professional career of 5 years. <br> <br> -->
       
 --------------------------------------------------------------------------------------------------------------------------------
   
