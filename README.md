@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 ----------------------------------------
 👋 Hi, I'm Axel  <br/>
 ----------------------------------------
-I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming. Also, Here you will find documentation files and images about de code and project deployments ✨.
+I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming. Also, here you will find documentation files and images about the code and project deployments ✨.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 :mage_man: `SYMBOLOGY OF MY REPOSITORY` ✨ <br>
