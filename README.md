@@ -29,13 +29,6 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 <br>
 
-:point_right: Most of my notes :memo: are not in separate files. In the code :small_blue_diamond:repositories are most of my notes and comments about programming. If you want to know about my understanding in programming, see the code.
-
-
-
-
-
-
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/my2image.jpeg)
@@ -556,7 +549,8 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
   > :point_right: Developed with Java 17 and Spring boot 3. In this project I developed all the relationships between tables that can exist in a business project. The project is an Api restful which builds the database from the code. 
   > Include: OneToOne, OneToMany, ManyToOne, ManyToMany, unidirecctional and bidirectional, differents cascade options, MySql workbench, relationships with and without intermediate tables, implementations of equals()
-  > and hashcode() methods for the update of objects with relationships between tables, api restful, postman, building of complex objects with json.
+  > and hashcode() methods for the update of objects with relationships between tables, api restful, postman, building of complex objects with json. @Query with jpql. <br>
+  > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/spring-jpa-portfolio-/tree/master/a1_restful-hibernate) 
 
 ```
 Hibernate: create table addresses_t1 (number integer, id bigint not null auto_increment, country varchar(255), street varchar(255), zip_code varchar(255), primary key (id)) engine=InnoDB
