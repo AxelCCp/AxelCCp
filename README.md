@@ -12,7 +12,7 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming ✨.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-:mage_man: SYMBOLOGY OF MY REPOSITORY ✨ <br>
+:mage_man: `SYMBOLOGY OF MY REPOSITORY` ✨ <br>
 
 
 
@@ -49,12 +49,12 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 ------------------------------------------------------------------------------------------------------------------------------------- -->
 
-  🐳 <b>LINKS:</b> <br><br>
+  🐳 <b>`LINKS` :</b> <br><br>
   :rocket: [My dockerhub profile](https://hub.docker.com/u/4xe1)
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
-:octocat: <b>SKILLS:</b> <br>
+:octocat: <b>`SKILLS` :</b> <br>
 
 :point_right:  Within my profile you will find at least one repository where I develop each of these skills. Check the links in this readme that point to different repositories and PDF notes about them. <br>
 
@@ -63,9 +63,9 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
       
 --------------------------------------------------------------------------------------------------------------------------------
   
-🍄 <b> MY TRAINING: </b><br/>
-I have two study programs from Coursera :point_right:(ALL COMPLETE-100%):point_left::
+🍄 <b> `MY TRAINING` : </b> I have two study programs from `Coursera` :point_right:(ALL COMPLETE-100%):point_left::
 
+<br> 
         
  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br> -->
  <!-- ### ${\textsf{\color{#AAB7B8}Study program: Grow with Google}}$ -->
@@ -102,14 +102,13 @@ I have two study programs from Coursera :point_right:(ALL COMPLETE-100%):point_l
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-🐰 <b> MY TRAINING: </b><br/>
-These are my repositories of courses that I have done on Udemy :point_right:(ALL COMPLETE-100%):point_left: : <br/>
+🐰 <b> `MY TRAINING` : </b> These are my repositories of courses that I have done on `Udemy` :point_right:(ALL COMPLETE-100%):point_left: : <br/> <br/>
  
 
  
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Microservices with Spring Boot and Spring Cloud Netflix Eureka}}$   ${\textsf{\color{#5DADE2}19hrs}}$ -->
-| Microservices with Spring Boot and Spring Cloud Netflix Eureka | 19hrs |
+| Microservices with Spring Boot and Spring Cloud Netflix Eureka | `19hrs` |
 | ------- | ------- |
 
 >Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
@@ -122,7 +121,7 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Reactive programming with Spring boot 2 and Spring webFlux}}$   ${\textsf{\color{#5DADE2}11hrs}}$ -->
-| Reactive programming with Spring boot 2 and Spring webFlux | 11hrs |
+| Reactive programming with Spring boot 2 and Spring webFlux | `11hrs` |
 | ------- | ------- |
 
 >Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
@@ -135,7 +134,7 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Spring Framework 5 and Spring boot 2 zero to expert 2022}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
-| Spring Framework 5 and Spring boot 2 zero to expert 2022 | 40hrs |
+| Spring Framework 5 and Spring boot 2 zero to expert 2022 | `40hrs` |
 | ------- | ------- |
 
 >Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
@@ -149,7 +148,7 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring6-springboot3-course.PNG) <br> -->
 <!-- ### ${\textsf{\color{#F7DC6F}Update:}}$  ${\textsf{\color{#AF7AC5}Spring Framework 6 and Spring Boot 3 from zero to expert 2024}}$   ${\textsf{\color{#5DADE2}+41hrs}}$ -->
-Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs |
+`Update` | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | `+41hrs` |
 | ------- | ------- | ------- |
 
 >Web aplications with Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, RESTful, AWS EC2, Angular, React. <br>
@@ -162,7 +161,7 @@ Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Angular and Spring Boot: Creating a web app full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$ -->
-| Angular and Spring Boot: Creating a web app full stack | 24hrs |
+| Angular and Spring Boot: Creating a web app full stack | `24hrs` |
 | ------- | ------- |
 
 >Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
@@ -179,7 +178,7 @@ Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Microservices with Spring Cloud Eureka and Angular Full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$ -->
-| Microservices with Spring Cloud Eureka and Angular Full stack | 24hrs |
+| Microservices with Spring Cloud Eureka and Angular Full stack | `24hrs` |
 | ------- | ------- |
 
 >Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
@@ -195,7 +194,7 @@ Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Complete java master from zero to expert 2023}}$   ${\textsf{\color{#5DADE2}127hrs}}$ -->
-| Complete java master from zero to expert 2023 | 127hrs |
+| Complete java master from zero to expert 2023 | `127hrs` |
 | ------- | ------- |
 
 >Java SE and Jakarta EE 9:  Java 17, Servlet/JSP, JDBC, Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, JAAS security, JBoss Wildfly. Full Stack complete with Spring 5 and Angular + JPA + API Restful. JUnit 5 and Mockito. Dependency Injection and Contexts with Weld CDI by Jakarta EE 9.<br>
@@ -218,7 +217,7 @@ Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/docker-aws-kube.PNG)<br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Complete Guide to Docker and Kubernetes with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}33hrs}}$ -->
-| Complete Guide to Docker and Kubernetes with Spring Boot 2023 | 33hrs |
+| Complete Guide to Docker and Kubernetes with Spring Boot 2023 | `33hrs` |
 | ------- | ------- |
 
 >Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
@@ -247,7 +246,7 @@ Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}React: Creating Full Stack Webapp with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
-| React: Creating Full Stack Webapp with Spring Boot 2023 | 40hrs |
+| React: Creating Full Stack Webapp with Spring Boot 2023 | `40hrs` |
 | ------- | ------- |
 
 >:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
@@ -258,12 +257,14 @@ Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs 
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-🐘 <b> MY TRAINING: </b><br/>
-These are my repositories of courses that I have done on YouTube:
+🐘 <b> `MY TRAINING` : </b> These are my repositories of courses that I have done on `YouTube` :
+
+<br>
   
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br> -->
-### ${\textsf{\color{#EC7063}Complete Java fullstack course with Spring (ATL Academy)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Complete Java fullstack course with Spring (ATL Academy)}}$ -->
+| Complete Java fullstack course with Spring | ATL Academy |
+| ------- | ------- |
 > :small_orange_diamond: [Course](https://youtu.be/7vHzVN0EiQc) <br>
 > :small_blue_diamond: [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
    
@@ -271,8 +272,9 @@ These are my repositories of courses that I have done on YouTube:
    
    
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br> -->
-### ${\textsf{\color{#EC7063}Spring framework and Spring boot (Píldoras Informáticas)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Spring framework and Spring boot (Píldoras Informáticas)}}$ -->
+| Spring framework and Spring boot | Píldoras Informáticas |
+| ------- | ------- |
 > Complete course about Spring Framework and Spring boot. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>
 > My development repositories:  <br>
@@ -291,7 +293,9 @@ These are my repositories of courses that I have done on YouTube:
   
   
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br> -->
-### ${\textsf{\color{#EC7063}Java 8 (Píldoras Informáticas)}}$
+<!-- ### ${\textsf{\color{#EC7063}Java 8 (Píldoras Informáticas)}}$ -->
+| Java 8 | Píldoras Informáticas |
+| ------- | ------- |
 > Complete course - Java 8  - Standard Edition & Enterprice Edition. <br>
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>
 > My development repositories:  <br>
@@ -313,7 +317,9 @@ These are my repositories of courses that I have done on YouTube:
       
       
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br> -->
-### ${\textsf{\color{#EC7063}SQL (Píldoras Informáticas)}}$
+<!-- ### ${\textsf{\color{#EC7063}SQL (Píldoras Informáticas)}}$ -->
+| SQL | Píldoras Informáticas |
+| ------- | ------- |
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br>
 
@@ -321,7 +327,9 @@ These are my repositories of courses that I have done on YouTube:
 <br>
   
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br> -->
-### ${\textsf{\color{#EC7063}Java 8 - review (Píldoras Informáticas)}}$
+<!-- ### ${\textsf{\color{#EC7063}Java 8 - review (Píldoras Informáticas)}}$ -->
+| Java 8 - review | Píldoras Informáticas |
+| ------- | ------- |
 > Java 8 Enterprice Edition <br>
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 
@@ -330,7 +338,9 @@ These are my repositories of courses that I have done on YouTube:
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br> -->
-### ${\textsf{\color{#EC7063}Python (Píldoras Informáticas)}}$
+<!-- ### ${\textsf{\color{#EC7063}Python (Píldoras Informáticas)}}$ -->
+| Python | Píldoras Informáticas |
+| ------- | ------- |
 > Complete course of Python. <br>
 > :small_orange_diamond:[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
@@ -340,8 +350,9 @@ These are my repositories of courses that I have done on YouTube:
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br> -->
-### ${\textsf{\color{#EC7063}Spring Batch (Un programador nace)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Spring Batch (Un programador nace)}}$ -->
+| Spring Batch | Un programador nace |
+| ------- | ------- |
 > Development of 3 applications with Spring batch. <br>
 > Spring boot version 2.7.14 / Java 17 <br>
 > :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
@@ -354,8 +365,9 @@ These are my repositories of courses that I have done on YouTube:
 <br>
 
 <!-- ![Spring Security](https://github.com/AxelCCp/images-my-git/blob/master/spring-security.PNG)<br> -->
-### ${\textsf{\color{#EC7063}Spring Security (Un programador nace)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Spring Security (Un programador nace)}}$ -->
+| Spring Security | Un programador nace |
+| ------- | ------- |
 > Spring boot version 3.0.6 / Java 17 <br>
 > :point_right: Understanding Spring Security. <br>
 > :point_right: Authorization and authentication with JWT. <br>
@@ -367,8 +379,9 @@ These are my repositories of courses that I have done on YouTube:
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-framework-practices.PNG)  <br> -->
-### ${\textsf{\color{#EC7063}Spring Framework practices (Un programador nace)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Spring Framework practices (Un programador nace)}}$ -->
+| Spring Framework practices | Un programador nace |
+| ------- | ------- |
 > Spring boot version 3.0.6 / Java 17 <br>
 > [:small_orange_diamond: Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
 > :point_right:  :small_blue_diamond: [Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) --------->  :eyes: :memo: [commands.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
@@ -390,8 +403,9 @@ These are my repositories of courses that I have done on YouTube:
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-graphql-1.PNG) <br> -->
-### ${\textsf{\color{#EC7063}Spring for GraphQL (Un programador nace)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Spring for GraphQL (Un programador nace)}}$ -->
+| Spring for GraphQL | Un programador nace |
+| ------- | ------- |
 >  :point_right: CRUD with graphQL, Spring and MySQL workbench.  <br>
 > Spring boot version 3.0.6 / Java 17 <br>
 > :small_orange_diamond: [Tutorial](https://www.youtube.com/playlist?list=PLr23_YfwEbPTUm-uIAA1DbDqmjtjQtc-O)  <br>
@@ -402,8 +416,9 @@ These are my repositories of courses that I have done on YouTube:
 <br>
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br> -->
-### ${\textsf{\color{#EC7063}Design patterns (Un programador nace)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Design patterns (Un programador nace)}}$ -->
+| Design patterns | Un programador nace |
+| ------- | ------- |
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
 > :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> 
 
@@ -413,8 +428,9 @@ These are my repositories of courses that I have done on YouTube:
 <br>
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/JASPER.PNG) <br> -->
-### ${\textsf{\color{#EC7063}Spring Boot - Jasper Report (Un programador nace)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Spring Boot - Jasper Report (Un programador nace)}}$ -->
+| Spring Boot - Jasper Report | Un programador nace |
+| ------- | ------- |
 > :small_orange_diamond: [Tutorial](https://youtu.be/UExwNGhEcZc?si=JikbjmFjAvxK4uDp) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/JASPER) <br>
 > :eyes: :memo: [My notes](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
@@ -422,16 +438,18 @@ These are my repositories of courses that I have done on YouTube:
 <br>
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/apache-poi.PNG) <br> -->
-### ${\textsf{\color{#EC7063}Apache POI (Un programador nace)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Apache POI (Un programador nace)}}$ -->
+| Apache POI | Un programador nace |
+| ------- | ------- |
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQ6LlBhef5D18YT-IPD1n7y) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/apache-poi) <br>
 
 <br>
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/labelPattersDesignLuigi.PNG) -->
-### ${\textsf{\color{#EC7063}Design patterns (Luigi Code)}}$
-
+<!-- ### ${\textsf{\color{#EC7063}Design patterns (Luigi Code)}}$ -->
+| Design patterns | Luigi Code |
+| ------- | ------- |
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PL4bT56Uw3S4x1_IhP0kQZ1mszuLvoNMJF) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Patrones-de-diseno-Luigi-Code) <br>
 
@@ -440,22 +458,24 @@ These are my repositories of courses that I have done on YouTube:
 <br>
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/prog-concurrente.PNG) -->
-### ${\textsf{\color{#EC7063}Learn concurrent programming (Empieza a programar) }}$
-
+<!-- ### ${\textsf{\color{#EC7063}Learn concurrent programming (Empieza a programar) }}$ -->
+| Learn concurrent programming | Empieza a programar |
+| ------- | ------- |
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLw8RQJQ8K1ySGcb3ZP66peK4Za0LKf728) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Aprender-programacion-concurrente-en-java) <br>
 
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-🐌 <b> MY TRAINING </b>: <br/>
-    Some portfolio projects :point_right:(Little sample projects... in continuous development. Not all of my projects are public):point_left: <br>
+🐌 <b> `MY TRAINING` : </b> Some portfolio projects :point_right:(Little sample projects... in continuous development. Not all of my projects are public):point_left: <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/fact-sist.PNG) <br> -->
-  ### ${\textsf{\color{#58D68D}Facturation system + user registration}}$
-  
+  <!-- ### ${\textsf{\color{#58D68D}Facturation system + user registration}}$ -->
+  | Facturation system + user registration |
+  | ------- |
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
   >:small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
@@ -466,8 +486,9 @@ These are my repositories of courses that I have done on YouTube:
   <br>
   
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv1.PNG) <br> -->
-  ### ${\textsf{\color{#58D68D}Microservices with Spring Boot, Spring Cloud and Oauth2}}$
-  
+  <!-- ### ${\textsf{\color{#58D68D}Microservices with Spring Boot, Spring Cloud and Oauth2}}$ -->
+  | Microservices with Spring Boot, Spring Cloud and Oauth2 |
+  | ------- |
   > :point_right: Full microservices where I implemented: Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker.      <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
@@ -478,8 +499,9 @@ These are my repositories of courses that I have done on YouTube:
   <br>
 
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br> -->
-  ### ${\textsf{\color{#58D68D}Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level)}}$
-  
+  <!-- ### ${\textsf{\color{#58D68D}Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level)}}$ -->
+  | Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level) |
+  | ------- |
   > :point_right: Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br>
@@ -490,8 +512,9 @@ These are my repositories of courses that I have done on YouTube:
    <br>
    
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux-portf.PNG) <br> -->
-  ### ${\textsf{\color{#58D68D}Webflux}}$
-  
+  <!-- ### ${\textsf{\color{#58D68D}Webflux}}$ -->
+  | Webflux |
+  | ------- |
   > :point_right: I'm working on this (incomplete yet). <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
   >:eyes: <b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
@@ -499,8 +522,9 @@ These are my repositories of courses that I have done on YouTube:
  <br>
  
    <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/jakartaportf.PNG) <br> -->
-   ### ${\textsf{\color{#58D68D}Jakarta EE 9 - Purchasing and user management system}}$
-   
+   <!-- ### ${\textsf{\color{#58D68D}Jakarta EE 9 - Purchasing and user management system}}$ -->
+   | Jakarta EE 9 - Purchasing and user management system |
+   | ------- |
    >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
    >:point_right: I'm working on this (incomplete yet).   <br>
    >:small_blue_diamond: [Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
@@ -514,8 +538,9 @@ These are my repositories of courses that I have done on YouTube:
 <br>
 
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br> -->
-  ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$
-  
+  <!-- ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$ -->
+  | React practices (Only frontend) |
+  | ------- |
   > :point_right: Now I'm working on this... <br>
   > :small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Rect-practices-only-frontend) <br>
   > :eyes: [Readme about react practices](https://github.com/AxelCCp/Rect-practices-only-frontend/blob/master/ReadmePracticesFrontReact.jpg) <br>
@@ -523,32 +548,103 @@ These are my repositories of courses that I have done on YouTube:
   ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
 
 
-<br>
+<br> 
+
+
+  | Spring data jpa: mastering table relationships |
+  | ------- |
+
+  > :point_right: Developed with Java 17 and Spring boot 3. In this project I developed all the relationships between tables that can exist in a business project. The project is an Api restful which builds the database from the code. 
+  > Include: OneToOne, OneToMany, ManyToOne, ManyToMany, unidirecctional and bidirectional, differents cascade options, MySql workbench, relationships with and without intermediate tables, implementations of equals()
+  > and hashcode() methods for the update of objects with relationships between tables, api restful, postman, building of complex objects with json.
+
+```
+Hibernate: create table addresses_t1 (number integer, id bigint not null auto_increment, country varchar(255), street varchar(255), zip_code varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table animals (id bigint not null auto_increment, localization_id bigint, age varchar(255), name varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table ants (num_of_cave integer, id bigint not null auto_increment, color varchar(255), name varchar(255), queen_ant varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table ants_ant_hill_cave_list (ant_hill_cave_list_id bigint not null, ant_id bigint not null, primary key (ant_hill_cave_list_id, ant_id)) engine=InnoDB
+Hibernate: create table bananas (id_banana bigint not null auto_increment, color varchar(255), place varchar(255), primary key (id_banana)) engine=InnoDB
+Hibernate: create table `bank-accounts` (bank_id_bank bigint, id bigint not null auto_increment, account_owner varchar(255), num varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table banks (id_bank bigint not null auto_increment, name varchar(255), primary key (id_bank)) engine=InnoDB
+Hibernate: create table clients (id bigint not null auto_increment, forma_pago varchar(255), lastname varchar(255), name varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table clients_addresses_t1 (addresses_t1_id bigint not null, client_id bigint not null, primary key (addresses_t1_id, client_id)) engine=InnoDB
+Hibernate: create table `clients_bank_accounts` (`bank_accounts_id` bigint not null, client_id bigint not null, primary key (`bank_accounts_id`, client_id)) engine=InnoDB
+Hibernate: create table courses (id bigint not null auto_increment, instructor varchar(255), name varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table custom_tbl_client_equipos_reg (id_client bigint not null, id_equipos_reg bigint not null, primary key (id_client, id_equipos_reg)) engine=InnoDB
+Hibernate: create table emails (client_id bigint, id bigint not null auto_increment, account varchar(255), domain_owner varchar(255), username varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table equipos_registrados (id bigint not null auto_increment, brand varchar(255), model varchar(255), sku varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table informations (animal_id bigint, id bigint not null auto_increment, description varchar(255), raza varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table invoices_t1 (total float(53), client_id bigint, id bigint not null auto_increment, description varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table localizations (id bigint not null auto_increment, country varchar(255), region varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table medical_history (date date, id bigint not null auto_increment, description varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table medical_order (date date, id_order bigint not null auto_increment, patient_id bigint, description varchar(255), doctor varchar(255), primary key (id_order)) engine=InnoDB
+Hibernate: create table monkeys (id_monkey bigint not null auto_increment, name varchar(255), raza varchar(255), primary key (id_monkey)) engine=InnoDB
+Hibernate: create table patients (id bigint not null auto_increment, lastname varchar(255), name varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table patients_medical_history (medical_history_id bigint not null, patient_id bigint not null, primary key (medical_history_id, patient_id)) engine=InnoDB
+Hibernate: create table production_stages (num_of_stage integer, id bigint not null auto_increment, descripcion varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table students (id bigint not null auto_increment, name varchar(255), primary key (id)) engine=InnoDB
+Hibernate: create table tbl_students_courses (course_id bigint not null, student_id bigint not null, primary key (student_id, course_id)) engine=InnoDB
+Hibernate: create table tbl_workers_productionstage (productionstage_id bigint not null, worker_id bigint not null, primary key (worker_id, productionstage_id)) engine=InnoDB
+Hibernate: create table workers (id bigint not null auto_increment, name varchar(255), primary key (id)) engine=InnoDB
+Hibernate: alter table animals add constraint UKfxgb5ix7eo923sy8gxixhnrs1 unique (localization_id)
+Hibernate: alter table `bank-accounts` add constraint UKt641vuaxjn308hl7of7y7sqnh unique (bank_id_bank)
+Hibernate: alter table clients_addresses_t1 add constraint UKpf9wvup7w1qca6dntu7g2svr9 unique (addresses_t1_id)
+Hibernate: alter table `clients_bank_accounts` add constraint UKqi71f038h6be7oufawib3xve unique (`bank_accounts_id`)
+Hibernate: alter table custom_tbl_client_equipos_reg add constraint UKpgj5f1kfl8vivoayg8y99ylmt unique (id_equipos_reg)
+Hibernate: alter table emails add constraint UKd2g9dttu7h7t6wy2kp389duxn unique (account)
+Hibernate: alter table equipos_registrados add constraint UK2p6tymwfda7y6c916x6jboelo unique (sku)
+Hibernate: alter table informations add constraint UKqht9cei2322pxqmei7s5ngspb unique (animal_id)
+Hibernate: alter table patients_medical_history add constraint UK70g8hgscq5qjv8hqxhhyqq5n7 unique (medical_history_id)
+Hibernate: alter table animals add constraint FKovwkqyypcv5qmlyrge58m0re8 foreign key (localization_id) references localizations (id)
+Hibernate: alter table ants_ant_hill_cave_list add constraint FK33jeumsib92if4o7s01l4b2nj foreign key (ant_hill_cave_list_id) references ants (id)
+Hibernate: alter table ants_ant_hill_cave_list add constraint FK8oyy5r011gypfa2jpb5lygehw foreign key (ant_id) references ants (id)
+Hibernate: alter table `bank-accounts` add constraint FKb54l9qv53ic0vxv1moxwv634q foreign key (bank_id_bank) references banks (id_bank)
+Hibernate: alter table clients_addresses_t1 add constraint FKrljqdsh216k2kue5c2un2s4v9 foreign key (addresses_t1_id) references addresses_t1 (id)
+Hibernate: alter table clients_addresses_t1 add constraint FKpprff6aal2dxan6btnhggyo6c foreign key (client_id) references clients (id)
+Hibernate: alter table `clients_bank_accounts` add constraint FKoyty9ne8msx0pygxfd49bctag foreign key (`bank_accounts_id`) references `bank-accounts` (id)
+Hibernate: alter table `clients_bank_accounts` add constraint FKopdi3rr3jod151jeqwhmka471 foreign key (client_id) references clients (id)
+Hibernate: alter table custom_tbl_client_equipos_reg add constraint FKnmsr54l7dxvfwhvh4sa479qgx foreign key (id_equipos_reg) references equipos_registrados (id)
+Hibernate: alter table custom_tbl_client_equipos_reg add constraint FKnw2naon0n3ptvko76vwsbbxo7 foreign key (id_client) references clients (id)
+Hibernate: alter table emails add constraint FK13ijq7h2t5k6v7jxqvc9qy8fq foreign key (client_id) references clients (id)
+Hibernate: alter table informations add constraint FKpp62ui0gacxt1q93vrg67c6ve foreign key (animal_id) references animals (id)
+Hibernate: alter table invoices_t1 add constraint FKpjv8xcsr7x12n4uygb5ddp8ex foreign key (client_id) references clients (id)
+Hibernate: alter table medical_order add constraint FKqfjfnwog8ye0c0ly8j5ta2oe2 foreign key (patient_id) references patients (id)
+Hibernate: alter table patients_medical_history add constraint FK5d7x6tvd7ninga20hurwq9slp foreign key (medical_history_id) references medical_history (id)
+Hibernate: alter table patients_medical_history add constraint FK9cmt9vmfkcw8ex5jk8o3ijuyg foreign key (patient_id) references patients (id)
+Hibernate: alter table tbl_students_courses add constraint FKp6mdn9j3wtw9nhjts2m60b0cd foreign key (course_id) references courses (id)
+Hibernate: alter table tbl_students_courses add constraint FKcilkm4679qy5bl0eau5syi7x4 foreign key (student_id) references students (id)
+Hibernate: alter table tbl_workers_productionstage add constraint FK29wg3gaobdtrg4xitvfm5perp foreign key (productionstage_id) references production_stages (id)
+Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi827no57cfy4nkr foreign key (worker_id) references workers (id)
+```
+
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-:turtle: <b> MY TRAINING : </b><br/> 
-What I'm doing now?   :point_right:(In this section I show what I am learning now or courses that I have not yet finished :sleepy: :sleepy: :sleepy:):point_left:
+:turtle: <b> `MY TRAINING` : </b> What I'm doing now?   :point_right:(In this section I show what I am learning now or courses that I have not yet finished :sleepy: :sleepy: :sleepy:):point_left:
 
+<br>
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS}}$   ${\textsf{\color{#5DADE2}40hrs}}$
-
+<!-- ### ${\textsf{\color{#AF7AC5}Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
+| Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS | `40hrs` |
+| ------- | ------- |
 > :point_right: THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
 :small_orange_diamond: [Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
 :small_blue_diamond: [My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}Universidad Python con Frameworks Django, Flask, etc. +71hrs}}$   ${\textsf{\color{#5DADE2}71hrs}}$
-
+<!-- ### ${\textsf{\color{#AF7AC5}Universidad Python con Frameworks Django, Flask, etc. +71hrs}}$   ${\textsf{\color{#5DADE2}71hrs}}$ -->
+| Universidad Python con Frameworks Django, Flask, etc. +71hrs | `71hrs` |
+| ------- | ------- |
 >:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}Java Avanzado - Aplicaciones Empresariales Para Empleo}}$   ${\textsf{\color{#5DADE2}53hrs}}$
-
+<!-- ### ${\textsf{\color{#AF7AC5}Java Avanzado - Aplicaciones Empresariales Para Empleo}}$   ${\textsf{\color{#5DADE2}53hrs}}$-->
+| Java Avanzado - Aplicaciones Empresariales Para Empleo | `53hrs` |
+| ------- | ------- |
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
 :small_blue_diamond: [My development repository, section 1 to section 7, JSF - PRIMEFACES](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
 :small_blue_diamond: [My development repository, section 8, JPA - HIBERNATE](https://github.com/AxelCCp/Java_avanzado_app_para_empleo_JPA_PROJECT) <br>
@@ -560,12 +656,14 @@ What I'm doing now?   :point_right:(In this section I show what I am learning no
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}Programación en C de Cero a Experto con Estructuras de Datos}}$   ${\textsf{\color{#5DADE2}49hrs}}$
-
+<!-- ### ${\textsf{\color{#AF7AC5}Programación en C de Cero a Experto con Estructuras de Datos}}$   ${\textsf{\color{#5DADE2}49hrs}}$ -->
+| Programación en C de Cero a Experto con Estructuras de Datos | `49hrs` |
+| ------- | ------- |
 >:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
 
 <br>
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
