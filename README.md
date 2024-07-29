@@ -68,7 +68,9 @@ I have two study programs from Coursera :point_right:(ALL COMPLETE-100%):point_l
 
         
  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br> -->
- ### ${\textsf{\color{#AAB7B8}Study program: Grow with Google}}$ 
+ <!-- ### ${\textsf{\color{#AAB7B8}Study program: Grow with Google}}$ -->
+ | Study program: Grow with Google |
+ | ------- |
  
  > :rocket: [GOOGLE IT SUPPORT CERTIFICATE](https://www.coursera.org/professional-certificates/google-it-support) <br/>
    PROGRAM COURSES : <br/>
@@ -84,7 +86,9 @@ I have two study programs from Coursera :point_right:(ALL COMPLETE-100%):point_l
   
    
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zpython.PNG) <br> -->
-### ${\textsf{\color{#AAB7B8}Universidad Austral (Argentina)}}$ 
+<!-- ### ${\textsf{\color{#AAB7B8}Universidad Austral (Argentina)}}$ -->
+| Universidad Austral (Argentina) |
+| ------- |
 
 > :rocket: [LEARN TO DEVELOP WITH PYTHON](https://es.coursera.org/specializations/python-espanol) <br/>
   PROGRAM COURSES : <br/>
@@ -104,7 +108,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
  
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}Microservices with Spring Boot and Spring Cloud Netflix Eureka}}$   ${\textsf{\color{#5DADE2}19hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}Microservices with Spring Boot and Spring Cloud Netflix Eureka}}$   ${\textsf{\color{#5DADE2}19hrs}}$ -->
+| Microservices with Spring Boot and Spring Cloud Netflix Eureka | 19hrs |
+| ------- | ------- |
 
 >Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
@@ -115,7 +121,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br> -->
-### ${\textsf{\color{#AF7AC5}Reactive programming with Spring boot 2 and Spring webFlux}}$   ${\textsf{\color{#5DADE2}11hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}Reactive programming with Spring boot 2 and Spring webFlux}}$   ${\textsf{\color{#5DADE2}11hrs}}$ -->
+| Reactive programming with Spring boot 2 and Spring webFlux | 11hrs |
+| ------- | ------- |
 
 >Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
@@ -126,7 +134,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br> -->
-### ${\textsf{\color{#AF7AC5}Spring Framework 5 and Spring boot 2 zero to expert 2022}}$   ${\textsf{\color{#5DADE2}40hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}Spring Framework 5 and Spring boot 2 zero to expert 2022}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
+| Spring Framework 5 and Spring boot 2 zero to expert 2022 | 40hrs |
+| ------- | ------- |
 
 >Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
@@ -138,7 +148,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
                                                     
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring6-springboot3-course.PNG) <br> -->
-### ${\textsf{\color{#F7DC6F}Update:}}$  ${\textsf{\color{#AF7AC5}Spring Framework 6 and Spring Boot 3 from zero to expert 2024}}$   ${\textsf{\color{#5DADE2}+41hrs}}$
+<!-- ### ${\textsf{\color{#F7DC6F}Update:}}$  ${\textsf{\color{#AF7AC5}Spring Framework 6 and Spring Boot 3 from zero to expert 2024}}$   ${\textsf{\color{#5DADE2}+41hrs}}$ -->
+Update | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | +41hrs |
+| ------- | ------- | ------- |
 
 >Web aplications with Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, RESTful, AWS EC2, Angular, React. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
@@ -149,7 +161,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}Angular and Spring Boot: Creating a web app full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}Angular and Spring Boot: Creating a web app full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$ -->
+| Angular and Spring Boot: Creating a web app full stack | 24hrs |
+| ------- | ------- |
 
 >Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/angular-spring/)  <br>
@@ -164,7 +178,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}Microservices with Spring Cloud Eureka and Angular Full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}Microservices with Spring Cloud Eureka and Angular Full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$ -->
+| Microservices with Spring Cloud Eureka and Angular Full stack | 24hrs |
+| ------- | ------- |
 
 >Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
@@ -178,7 +194,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br> -->
-### ${\textsf{\color{#AF7AC5}Complete java master from zero to expert 2023}}$   ${\textsf{\color{#5DADE2}127hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}Complete java master from zero to expert 2023}}$   ${\textsf{\color{#5DADE2}127hrs}}$ -->
+| Complete java master from zero to expert 2023 | 127hrs |
+| ------- | ------- |
 
 >Java SE and Jakarta EE 9:  Java 17, Servlet/JSP, JDBC, Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, JAAS security, JBoss Wildfly. Full Stack complete with Spring 5 and Angular + JPA + API Restful. JUnit 5 and Mockito. Dependency Injection and Contexts with Weld CDI by Jakarta EE 9.<br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
@@ -199,7 +217,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/docker-aws-kube.PNG)<br> -->
-### ${\textsf{\color{#AF7AC5}Complete Guide to Docker and Kubernetes with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}33hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}Complete Guide to Docker and Kubernetes with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}33hrs}}$ -->
+| Complete Guide to Docker and Kubernetes with Spring Boot 2023 | 33hrs |
+| ------- | ------- |
 
 >Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 :small_orange_diamond: [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
@@ -226,7 +246,9 @@ These are my repositories of courses that I have done on Udemy :point_right:(ALL
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br> -->
-### ${\textsf{\color{#AF7AC5}React: Creating Full Stack Webapp with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}40hrs}}$
+<!-- ### ${\textsf{\color{#AF7AC5}React: Creating Full Stack Webapp with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
+| React: Creating Full Stack Webapp with Spring Boot 2023 | 40hrs |
+| ------- | ------- |
 
 >:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
 :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
