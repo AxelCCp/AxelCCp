@@ -106,7 +106,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
       
 --------------------------------------------------------------------------------------------------------------------------------
   
-🍄 <b> `MY TRAINING` : </b> I have two study programs from `Coursera` :point_right:(ALL COMPLETE-100%):point_left::
+🍄 <b> `MY TRAINING` : </b> I have two study programs from `Coursera` :point_right:`all complete`:point_left::
 
 <br> 
         
@@ -145,7 +145,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-🐰 <b> `MY TRAINING` : </b> These are my repositories of courses that I have done on `Udemy` :point_right:(ALL COMPLETE-100%):point_left: : <br/> <br/>
+🐰 <b> `MY TRAINING` : </b> These are my repositories of courses that I have done on `Udemy` :point_right:`all complete`:point_left: : <br/> <br/>
  
 
  
@@ -556,7 +556,7 @@ Design patterns -----|------- Estructural -------|- Adapter
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-🐌 <b> `MY TRAINING` : </b> Some portfolio projects :point_right:(Little sample projects... in continuous development. Not all of my projects are public):point_left: <br>
+🐌 <b> `MY TRAINING` : </b> Some portfolio projects ... <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
