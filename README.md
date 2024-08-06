@@ -1,6 +1,3 @@
-
-
-
 ----------------------------------------
 👋 Hi, I'm Axel  <br/>
 ----------------------------------------
@@ -46,7 +43,65 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 :point_right:  Within my profile you will find at least one repository where I develop each of these skills. Check the links in this readme that point to different repositories and PDF notes about them. <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/skills.PNG)
+<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/skills.PNG) -->
+
+```
+Programing Languages  ---------> |- Java V. 7, 8, 11, 17.  ---------->  |- Java SE
+                                 |                                      |- Jakarta EE 9 
+                                 |                                      |- (EJB, JAX-RS, JAX-WS, JAAS)
+                                 |
+                                 |- Javascript
+                                 |- Python
+                                 |- TypesScript
+
+Frameworks  ------------------>  |- Backend  ------------------------>  |- Spring boot
+                                 |                                      |- Spring cloud
+                                 |                                      |- Spring cloud kubernetes
+                                 |                                      |- Spring security:
+                                 |                                      |       |- Oauth 2.
+                                 |                                      |	      |- JWT.
+                                 |                                      |	
+                                 |                                      |- Spring webflux
+                                 |                                      |- Spring microservices 
+                                 |                                      |
+                                 |                                      |- Spring batch:
+                                 |                                              |- Upload csv files with:
+                                 |                                          		      |- Tasklet
+                                 |                                          		      |- Chunk
+                                 |                                           		      |- Flow execution
+                                 |   
+                                 |- Front  -------------------------->  |- Angular:
+                                                                        |       |- TypeScript.  
+                                                                        |      	|- JS old version.
+                                                                        |      
+                                                                        |- Java server faces
+                                                                        |- PrimeFaces
+                                                                        |- React
+                                                                        |- Bootstrap
+
+Applications Servers  ------->  |- WildFly
+                                |- Apache Tomcat
+                                |- IBM WebSphere
+
+Tools ----------------------->  |- Maven
+                                |- Docker  -------------------------->  |- Build 
+                                |-                                      |- Compose 
+                                |-                                      |- Volumes 
+                                |-                                      |- DockeHub
+                                |- Kubernetes
+                                |- Postman
+
+DataBases  ------------------>  |- MySql [Workbench]
+                                |- Postgres [PgAdmin4]
+                                |- MongoDB
+                                |- Sql-lite
+
+Cloud  ---------------------->  |- AWS  ----------> [Services EC2, ECS, ECK & Lambda functions]
+
+IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
+
+```
+
 
       
 --------------------------------------------------------------------------------------------------------------------------------
@@ -375,7 +430,16 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 > :point_right:  :small_blue_diamond: [Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) --------->  :eyes: :memo: [commands.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
 > :point_right: :small_blue_diamond: [How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br> 
+<!--![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br> -->
+```                                     
+ ---> Marshalling ------------------------------------->    XML  <-------->  SOAP \
+ |                                                         /                       \
+ |                      <----------------- Unmarshalling  /                         \
+Application / classes                                                                 Web service
+ |                      <----------------- DesSerialization \                       /
+ |                                                           \                     /
+ ---> Serialization  -------------------------------------->  JSON  <------->  REST
+```
 
 > :point_right: :small_blue_diamond: [Master creating REST APIs with Spring Boot.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootRest)  <br>
 > :point_right: :small_blue_diamond: Spring Boot 3, Keycloak, Oauth2 integration: Take security to another level. <br>
@@ -446,37 +510,37 @@ Design patterns ----> Creationals ---->  |- Prototype
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PL4bT56Uw3S4x1_IhP0kQZ1mszuLvoNMJF) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Patrones-de-diseno-Luigi-Code) <br>
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/designPatternsLuigi.PNG)
+<!--![](https://github.com/AxelCCp/images-my-git/blob/master/designPatternsLuigi.PNG)-->
 
 ```
-                     |------- Creational --------|-Factory
-                     |                           |-Factory method
-                     |                           |-Abstract factory
-                     |                           |-Builder
-                     |                           |-Prototype
-                     |                           |-Singleton / singleton with MultiThreads
+                     |------- Creational --------|- Factory
+                     |                           |- Factory method
+                     |                           |- Abstract factory
+                     |                           |- Builder
+                     |                           |- Prototype
+                     |                           |- Singleton / singleton with MultiThreads
                      |
                      |
-Design patterns -----|------- Estructural -------|-Adapter
-                     |                           |-Bridge
-                     |                           |-Composite
-                     |                           |-Decorator
-                     |                           |-Facade
-                     |                           |-Flyweight
-                     |                           |-Proxy
+Design patterns -----|------- Estructural -------|- Adapter
+                     |                           |- Bridge
+                     |                           |- Composite
+                     |                           |- Decorator
+                     |                           |- Facade
+                     |                           |- Flyweight
+                     |                           |- Proxy
                      |
                      |
-                     |------- Behavioral --------|-Chain of responsability
-                                                 |-Command
-                                                 |-Iterator
-                                                 |-Mediator
-                                                 |-Memento
-                                                 |-Observer
-                                                 |-State
-                                                 |-Strategy
-                                                 |-Template method
-                                                 |-Visitor
-                                                 |-Interpreter                    
+                     |------- Behavioral --------|- Chain of responsability
+                                                 |- Command
+                                                 |- Iterator
+                                                 |- Mediator
+                                                 |- Memento
+                                                 |- Observer
+                                                 |- State
+                                                 |- Strategy
+                                                 |- Template method
+                                                 |- Visitor
+                                                 |- Interpreter                    
 ```
 
 <br>
