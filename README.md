@@ -1,9 +1,4 @@
-<!-- 
-cosas para construir el readme:
 
-https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file 
-
--->
 
 
 ----------------------------------------
@@ -415,8 +410,13 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 > :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
 > :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br>
-
+<!--![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br>-->
+```
+                                         |- Singleton
+Design patterns ----> Creationals ---->  |- Prototype      
+                                         |- Builder
+                                         |- Abstract factory                     
+````
 
 <br>
 
@@ -447,6 +447,37 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Patrones-de-diseno-Luigi-Code) <br>
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/designPatternsLuigi.PNG)
+
+```
+                     |------- Creational --------|-Factory
+                     |                           |-Factory method
+                     |                           |-Abstract factory
+                     |                           |-Builder
+                     |                           |-Prototype
+                     |                           |-Singleton / singleton with MultiThreads
+                     |
+                     |
+Design patterns -----|------- Estructural -------|-Adapter
+                     |                           |-Bridge
+                     |                           |-Composite
+                     |                           |-Decorator
+                     |                           |-Facade
+                     |                           |-Flyweight
+                     |                           |-Proxy
+                     |
+                     |
+                     |------- Behavioral --------|-Chain of responsability
+                                                 |-Command
+                                                 |-Iterator
+                                                 |-Mediator
+                                                 |-Memento
+                                                 |-Observer
+                                                 |-State
+                                                 |-Strategy
+                                                 |-Template method
+                                                 |-Visitor
+                                                 |-Interpreter                    
+```
 
 <br>
 
