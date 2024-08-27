@@ -50,9 +50,11 @@ Programing Languages  ---------> |- Java V. 7, 8, 11, 17.  ---------->  |- Java 
                                  |                                      |- Jakarta EE 9 
                                  |                                      |- (EJB, JAX-RS, JAX-WS, JAAS)
                                  |
-                                 |- Javascript
+                                 |- Javascript   ---------------------- |
+                                 |                                      |- NodeJs
+                                 |- TypesScript  ---------------------- |
+                                 |
                                  |- Python
-                                 |- TypesScript
 
 Frameworks  ------------------>  |- Backend  ------------------------>  |- Spring boot
                                  |                                      |- Spring cloud
