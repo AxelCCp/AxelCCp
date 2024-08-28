@@ -719,9 +719,16 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 <!-- ### ${\textsf{\color{#AF7AC5}Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
 | Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS | `40hrs` |
 | ------- | ------- |
-> :point_right: THIS COURSE IS NOT YET COMPLETE. ONLY 50% CORRESPONDS TO JAVASCRIPT LANGUAGE. <br>
+> :point_right: This course is not complete yet, I'm waiting for the course update. <br>
 :small_orange_diamond: [Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
 :small_blue_diamond: [My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
+
+
+
+> [!NOTE]
+> Frontend developed with JQuery, JQueryUI, JQuery validations, bxslider, moment js & css. Includes forms and use of localstorage. implementation of color themes. 
+
+![](https://github.com/AxelCCp/images-my-git/blob/master/jqueryUI_css.jpg)
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br> -->
