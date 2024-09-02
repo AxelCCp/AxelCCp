@@ -73,8 +73,8 @@ Frameworks  ------------------>  |- Backend  ------------------------>  |- Sprin
                                  |                                           		      |- Flow execution
                                  |   
                                  |- Front  -------------------------->  |- Angular:
-                                                                        |       |- TypeScript.  
-                                                                        |      	|- JS old version.
+                                                                        |       |- with TypeScript.  
+                                                                        |      	|- with JS for old version.
                                                                         |      
                                                                         |- Java server faces
                                                                         |- PrimeFaces
@@ -157,8 +157,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | ------- | ------- |
 
 >Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
-:small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/MicroserviciosUdemy3)     <br>
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/MicroserviciosUdemy3)     <br>
 
 <br>
 
@@ -170,8 +172,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | ------- | ------- |
 
 >Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
-:small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux)   <br>  
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux)   <br>  
 
 <br>
 
@@ -183,9 +187,11 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | ------- | ------- |
 
 >Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
-:small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
-:small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/spring-framework-5/)    <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
+> :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
 
 <br>
 
@@ -197,8 +203,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | ------- | ------- | ------- |
 
 >Web aplications with Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, RESTful, AWS EC2, Angular, React. <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/spring-framework-5/)    <br>
-:small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-6-Spring-Boot-3-desde-cero-a-experto-2024)   <br>
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/spring-framework-5/)    <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-6-Spring-Boot-3-desde-cero-a-experto-2024)   <br>
 
 
 <br> 
@@ -210,10 +218,14 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | ------- | ------- |
 
 >Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/angular-spring/)  <br>
-:small_blue_diamond: [My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
-:small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3)          <br>
-:point_right: In the repository you can get the versions V1 and V2, about the frontend and backend <br> 
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/angular-spring/)  <br>
+> :small_blue_diamond: [My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
+> :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3)          <br>
+
+> [!NOTE]
+> :point_right: In the repository you can get the versions V1 and V2, about the frontend and backend. <br> 
 
 
 
@@ -226,10 +238,12 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Microservices with Spring Cloud Eureka and Angular Full stack | `24hrs` |
 | ------- | ------- |
 
->Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
-:small_blue_diamond: [My development repository, backend V1](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1)   <br> 
-:small_blue_diamond: [My development repository, backend V2](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2)            <br> 
+> Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
+
+> [!IMPORTANT] 
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
+> :small_blue_diamond: [My development repository, backend V1](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V1)   <br> 
+> :small_blue_diamond: [My development repository, backend V2](https://github.com/AxelCCp/Microservicios-Spring-Cloud-Eureka-Angular-Full-stack_BACKEND_V2)            <br> 
 
 
 
@@ -242,20 +256,24 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Complete java master from zero to expert 2023 | `127hrs` |
 | ------- | ------- |
 
->Java SE and Jakarta EE 9:  Java 17, Servlet/JSP, JDBC, Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, JAAS security, JBoss Wildfly. Full Stack complete with Spring 5 and Angular + JPA + API Restful. JUnit 5 and Mockito. Dependency Injection and Contexts with Weld CDI by Jakarta EE 9.<br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
-:small_blue_diamond: [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
-:small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
-:memo: <b>[My notes section 41](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_41.png)</b> <br>
-:memo: <b>[My notes section 42](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_42.png)</b> <br>
-:memo: <b>[My notes sections 43-47](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_43_A_47.png)</b> <br>
-:memo: <b>[My notes sections 50-54](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_50_54.png)</b> <br>
-:memo: <b>[My notes sections 63-64](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_63_64_WILDFLY.png)</b> <br>
-:memo: <b>[My notes section 65](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_65_WILDFLY.pdf)</b> <br>
-:memo: <b>[My notes section 66](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_66_WILDFLY.pdf)</b> <br>
-:memo: <b>[My notes section 72](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf)</b> <br>
-:memo: <b>[My notes section 73](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.png)</b> <br>
-:memo: <b>[My notes sections 74-78](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf)</b><br>
+> Java SE and Jakarta EE 9:  Java 17, Servlet/JSP, JDBC, Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, JAAS security, JBoss Wildfly. Full Stack complete with Spring 5 and Angular + JPA + API Restful. JUnit 5 and Mockito. Dependency Injection and Contexts with Weld CDI by Jakarta EE 9.<br>
+
+> [!IMPORTANT] 
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/)   <br>
+> :small_blue_diamond: [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
+> :small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
+
+> [!NOTE]
+> :memo: <b>[My notes section 41](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_41.png)</b> <br>
+> :memo: <b>[My notes section 42](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_42.png)</b> <br>
+> :memo: <b>[My notes sections 43-47](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_43_A_47.png)</b> <br>
+> :memo: <b>[My notes sections 50-54](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_50_54.png)</b> <br>
+> :memo: <b>[My notes sections 63-64](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_63_64_WILDFLY.png)</b> <br>
+> :memo: <b>[My notes section 65](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_65_WILDFLY.pdf)</b> <br>
+> :memo: <b>[My notes section 66](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_66_WILDFLY.pdf)</b> <br>
+> :memo: <b>[My notes section 72](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf)</b> <br>
+> :memo: <b>[My notes section 73](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.png)</b> <br>
+> :memo: <b>[My notes sections 74-78](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf)</b><br>
 <br>
 
 
@@ -265,25 +283,35 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Complete Guide to Docker and Kubernetes with Spring Boot 2023 | `33hrs` |
 | ------- | ------- |
 
->Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
-:small_orange_diamond: [Go to the course](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
-:small_blue_diamond: [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
-:memo: <b>[My notes 1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br> </b>
-:memo: <b>[My notes 2](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS_2.png) <br> </b>
-...................... <br>
-:small_blue_diamond: [Version 1, until section 6](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V1)         <br>
-:small_blue_diamond: [Version 2, from section 6 - docker](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V2)         <br>
-:small_blue_diamond: [Version 3, from section 11 - docker compose, AWS](https://github.com/AxelCCp/-Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V3) <br>
-:small_blue_diamond: [Version 4, from section 13, class 105 - docker compose, AWS, multi-maquina](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V4) <br>
-:small_blue_diamond: [Version 5, from section 14, class 131, Kubernetes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V5) <br>
-:small_blue_diamond: [version 6, from section 15, class 148, Kubernetes - Persistent volumes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V6) <br>
-:small_blue_diamond: [Version 7, from section 17, classes 156 to 170, Spring cloud kubernetes + Api Gateway](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V7/tree/master) <br>
-:small_blue_diamond: Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elastic Kubernetes Service  <br>
-:small_blue_diamond: [Version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br> <br>
-...... <br>
-:memo: :eyes: :eyes: :eyes: :rocket: <b>[I DID MY DEFINITIVE GUIDE TO DOCKER-KUBERNETES-AWS](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b> <br>
-:point_right: I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
-......
+> Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
+
+> [!IMPORTANT]
+> :point_right: Repositories and information from the first time I did the course. <br>
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
+> :small_blue_diamond: [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
+
+> [!NOTE]
+> :memo: <b>[My notes 1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br> </b>
+> :memo: <b>[My notes 2](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS_2.png) <br> </b>
+
+-------- <br>
+
+> [!IMPORTANT]
+> :point_right: Repositories and information from the second time I did the course. <br>
+> :small_blue_diamond: [My repository version 1, until section 6](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V1)         <br>
+> :small_blue_diamond: [My repository version 2, from section 6 - docker](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V2)         <br>
+> :small_blue_diamond: [My repository version 3, from section 11 - docker compose, AWS](https://github.com/AxelCCp/-Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V3) <br>
+> :small_blue_diamond: [My repository version 4, from section 13, class 105 - docker compose, AWS, multi-maquina](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V4) <br>
+> :small_blue_diamond: [My repository version 5, from section 14, class 131, Kubernetes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V5) <br>
+> :small_blue_diamond: [My repository version 6, from section 15, class 148, Kubernetes - Persistent volumes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V6) <br>
+> :small_blue_diamond: [My repository version 7, from section 17, classes 156 to 170, Spring cloud kubernetes + Api Gateway](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V7/tree/master) <br>
+> :small_blue_diamond: Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elastic Kubernetes Service  <br>
+> :small_blue_diamond: [My repository version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br> <br>
+
+> [!NOTE]
+> :memo: :eyes: :eyes: :eyes: :rocket: <b>[I DID MY DEFINITIVE GUIDE TO DOCKER-KUBERNETES-AWS](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b> <br>
+> :point_right: I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
+
 
 
 <br> 
@@ -291,12 +319,15 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}React: Creating Full Stack Webapp with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
-| React: Creating Full Stack Webapp with Spring Boot 2023 | `40hrs` |
+| React: Creating Full Stack Webapp with Spring Boot 2024 | `40hrs` |
 | ------- | ------- |
 
->:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
-:small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
-:small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_BACK_V1)   <br> 
+> Build Fullstack web applications with React 18 Frontend and Spring Boot 3 Backend RESTful, JPA, JWT, Hooks, Redux, AWS
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/react-spring-creando-webapp-full-stack/) <br>
+> :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_BACK_V1)   <br> 
 
 <br>
 
@@ -310,7 +341,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Complete Java fullstack course with Spring (ATL Academy)}}$ -->
 | Complete Java fullstack course with Spring | ATL Academy |
 | ------- | ------- |
-> :small_orange_diamond: [Course](https://youtu.be/7vHzVN0EiQc) <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://youtu.be/7vHzVN0EiQc) <br>
 > :small_blue_diamond: [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
    
    <br>
@@ -321,17 +354,19 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Spring framework and Spring boot | Píldoras Informáticas |
 | ------- | ------- |
 > Complete course about Spring Framework and Spring boot. <br>
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm)  <br>
 > My development repositories:  <br>
-     :small_blue_diamond: [Spring-starting with spring framework, first project.](https://github.com/AxelCCp/1-SPRING)             <br>
-      :small_blue_diamond: [Spring- Annotations.](https://github.com/AxelCCp/2-SPRING-ANNOTATIONS)       <br>
-      :small_blue_diamond: [Spring-MVC.](https://github.com/AxelCCp/3-SPRING-CON-MVC)           <br>
-      :small_blue_diamond: [Spring-MVC-2.](https://github.com/AxelCCp/3-SPRING-MVC-REPETICI-N)          <br>
-      :small_blue_diamond: [Spring-Hibernate.](https://github.com/AxelCCp/4-SPRING-CON-HIBERNATE)          <br>
-      :small_blue_diamond: [Spring-relationships between tables.](https://github.com/AxelCCp/5-HIBERNATE-RELACIONES)          <br>
-      :small_blue_diamond: [Spring-relationships between tables-2.](https://github.com/AxelCCp/6-HIBERNATE-RELACIONES-2)            <br>
-      :small_blue_diamond: [Spring-project, CRUD on database with mySql.](https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-)        <br>
-      :small_blue_diamond: [Spring-review.](https://github.com/AxelCCp/RepasoSpringFramework-)           <br>
+> :small_blue_diamond: [Spring-starting with spring framework, first project.](https://github.com/AxelCCp/1-SPRING)             <br>
+> :small_blue_diamond: [Spring- Annotations.](https://github.com/AxelCCp/2-SPRING-ANNOTATIONS)       <br>
+> :small_blue_diamond: [Spring-MVC.](https://github.com/AxelCCp/3-SPRING-CON-MVC)           <br>
+> :small_blue_diamond: [Spring-MVC-2.](https://github.com/AxelCCp/3-SPRING-MVC-REPETICI-N)          <br>
+> :small_blue_diamond: [Spring-Hibernate.](https://github.com/AxelCCp/4-SPRING-CON-HIBERNATE)          <br>
+> :small_blue_diamond: [Spring-relationships between tables.](https://github.com/AxelCCp/5-HIBERNATE-RELACIONES)          <br>
+> :small_blue_diamond: [Spring-relationships between tables-2.](https://github.com/AxelCCp/6-HIBERNATE-RELACIONES-2)            <br>
+> :small_blue_diamond: [Spring-project, CRUD on database with mySql.](https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-)        <br>
+> :small_blue_diamond: [Spring-review.](https://github.com/AxelCCp/RepasoSpringFramework-)           <br>
   
   
    <br>
@@ -342,20 +377,25 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Java 8 | Píldoras Informáticas |
 | ------- | ------- |
 > Complete course - Java 8  - Standard Edition & Enterprice Edition. <br>
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)     <br>
 > My development repositories:  <br>
-     :small_blue_diamond: [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
-      :small_blue_diamond: [Java-Exception Handling.](https://github.com/AxelCCp/JAVA4-PILDORAS-INFORMATICAS)      <br>
-      :small_blue_diamond: [Java-Streams and file access.](https://github.com/AxelCCp/JAVA5-PILDORAS-INFORMATICAS-STREAMS)      <br>
-      :small_blue_diamond: [Java-Generic Programming.](https://github.com/AxelCCp/JAVA6-PILDORAS-INFORMATICAS)        <br>
-      :small_blue_diamond: [Java-concurrent programming.](https://github.com/AxelCCp/JAVA7-PILDORAS-INFORMATICAS)       <br>
-      :small_blue_diamond: [Java-Collections.](https://github.com/AxelCCp/JAVA8-PILDORAS-INFORMATICAS)       <br>
-      :small_blue_diamond: [Java-Sockets.](https://github.com/AxelCCp/JAVA9-PILDORAS-INFORMATICAS)        <br>
-      :small_blue_diamond: [Java-JDBC.](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS)  ---------->  &nbsp;   :eyes: <b>[README: JDBC Basics](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS/blob/master/REPASO_JDBC_JAVA_PILDORAS_INFORMATICAS.jpg) </b>       <br>
-      :small_blue_diamond: [Java-JSP.](https://github.com/AxelCCp/JAVA11-PILDORAS-INFORMATICAS-JSP)          <br>
-      :small_blue_diamond: [Java-Servlets.](https://github.com/AxelCCp/JAVA-12-PILDORAS-INFORMATICAS-SERVLETS)          <br>
-      :small_blue_diamond: [Java-Annex of the Final part of the course.](https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO)          <br>
-      :small_blue_diamond: [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
+> :small_blue_diamond: [Java-Basic knowledge, OOP, graphics and practices.](https://github.com/AxelCCp/JAVA1-PILDORAS-INFORMATICAS)       <br>
+> :small_blue_diamond: [Java-Exception Handling.](https://github.com/AxelCCp/JAVA4-PILDORAS-INFORMATICAS)      <br>
+> :small_blue_diamond: [Java-Streams and file access.](https://github.com/AxelCCp/JAVA5-PILDORAS-INFORMATICAS-STREAMS)      <br>
+> :small_blue_diamond: [Java-Generic Programming.](https://github.com/AxelCCp/JAVA6-PILDORAS-INFORMATICAS)        <br>
+> :small_blue_diamond: [Java-concurrent programming.](https://github.com/AxelCCp/JAVA7-PILDORAS-INFORMATICAS)       <br>
+> :small_blue_diamond: [Java-Collections.](https://github.com/AxelCCp/JAVA8-PILDORAS-INFORMATICAS)       <br>
+> :small_blue_diamond: [Java-Sockets.](https://github.com/AxelCCp/JAVA9-PILDORAS-INFORMATICAS)        <br>
+> :small_blue_diamond: [Java-JDBC.](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS) <br>
+> :small_blue_diamond: [Java-JSP.](https://github.com/AxelCCp/JAVA11-PILDORAS-INFORMATICAS-JSP)          <br>
+> :small_blue_diamond: [Java-Servlets.](https://github.com/AxelCCp/JAVA-12-PILDORAS-INFORMATICAS-SERVLETS)          <br>
+> :small_blue_diamond: [Java-Annex of the Final part of the course.](https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO)          <br>
+> :small_blue_diamond: [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
+
+> [!NOTE]
+> :eyes: <b>[README: JDBC Basics](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS/blob/master/REPASO_JDBC_JAVA_PILDORAS_INFORMATICAS.jpg) </b>     <br>
       
       
  <br>
@@ -365,7 +405,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}SQL (Píldoras Informáticas)}}$ -->
 | SQL | Píldoras Informáticas |
 | ------- | ------- |
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn) <br> 
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br>
 
 
@@ -376,6 +417,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Java 8 - review | Píldoras Informáticas |
 | ------- | ------- |
 > Java 8 Enterprice Edition <br>
+
+> [!IMPORTANT]  
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 
 
@@ -387,7 +430,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Python | Píldoras Informáticas |
 | ------- | ------- |
 > Complete course of Python. <br>
-> :small_orange_diamond:[Course](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond:[Go to the course information](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)  <br>
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
 
  
@@ -403,7 +448,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
 > :point_right:Chunk --> Loading of massive data in database with csv file and postman. <br>
 > :point_right:Flow Execution  --> Banking transaction application with postman and mysql. <br>
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQmOZ-vJ9ZlcIOtjz4CYzxG)  <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLr23_YfwEbPQmOZ-vJ9ZlcIOtjz4CYzxG)  <br>
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Batch)
 
  
@@ -417,7 +464,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :point_right: Understanding Spring Security. <br>
 > :point_right: Authorization and authentication with JWT. <br>
 > :point_right: Integration of Spring Boot 3, Keycloak and Oauth2.  <br>
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPRCK4IbemQGwYdgSwfd2aZu) <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLr23_YfwEbPRCK4IbemQGwYdgSwfd2aZu) <br>
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Security) <br>
 
 <br>
@@ -428,10 +477,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Spring Framework practices | Un programador nace |
 | ------- | ------- |
 > Spring boot version 3.0.6 / Java 17 <br>
-> [:small_orange_diamond: Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
-> :point_right:  :small_blue_diamond: [Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) --------->  :eyes: :memo: [commands.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
-> :point_right: :small_blue_diamond: [How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> 
 
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
+> :small_blue_diamond: [My repository - Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) <br>
+
+> [!NOTE]
+> :eyes: :memo: [Kafka commands readme](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
+
+> [!IMPORTANT] 
+> :small_blue_diamond: [My repository - How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> 
 <!--![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br> -->
 ```                                     
  ---> Marshalling ------------------------------------->    XML  <-------->  SOAP \
@@ -443,14 +498,20 @@ Application / classes                                                           
  ---> Serialization  -------------------------------------->  JSON  <------->  REST
 ```
 
-> :point_right: :small_blue_diamond: [Master creating REST APIs with Spring Boot.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootRest)  <br>
-> :point_right: :small_blue_diamond: Spring Boot 3, Keycloak, Oauth2 integration: Take security to another level. <br>
-> :point_right: :small_blue_diamond: [How to send emails with Spring Boot #spring #springframework.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootMailSender)  -------->  :eyes: [readme.](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
-> :point_right: :small_blue_diamond: [Mastering Relationships in JPA with Spring Boot: Simplifying your database connections.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringJpaRelation)  <br>
-> :point_right: :small_blue_diamond: [How to create an AWS Lambda function with Spring Boot #aws #spring #lambda.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringAwsLambda) <br>
-> :point_right: :small_blue_diamond: How to consume SOAP services with Spring Boot - Gradle #soap #spring.  <br>
-> :point_right: :small_blue_diamond: [Spring Data JPA: Types of associations.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringDataJpa)  <br>
-> :point_right: :small_blue_diamond: Spring MVC and Google reCAPTCHA: Fight bots and keep your site safe.  <br>
+> [!IMPORTANT]  
+> :small_blue_diamond: [My repository - Master creating REST APIs with Spring Boot.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootRest)  <br>
+> :small_blue_diamond: Spring Boot 3, Keycloak, Oauth2 integration: Take security to another level. <br>
+> :small_blue_diamond: [My repository - How to send emails with Spring Boot #spring #springframework.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootMailSender)   <br>
+
+> [!NOTE]
+> :eyes: [Sending emails with spring boot](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
+
+> [!IMPORTANT] 
+> :small_blue_diamond: [My repository - Mastering Relationships in JPA with Spring Boot: Simplifying your database connections.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringJpaRelation)  <br>
+> :small_blue_diamond: [My repository - How to create an AWS Lambda function with Spring Boot #aws #spring #lambda.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringAwsLambda) <br>
+> :small_blue_diamond: How to consume SOAP services with Spring Boot - Gradle #soap #spring.  <br>
+> :small_blue_diamond: [My repository - Spring Data JPA: Types of associations.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringDataJpa)  <br>
+> :small_blue_diamond: Spring MVC and Google reCAPTCHA: Fight bots and keep your site safe.  <br>
 
 
 <br>
@@ -462,8 +523,12 @@ Application / classes                                                           
 | ------- | ------- |
 >  :point_right: CRUD with graphQL, Spring and MySQL workbench.  <br>
 > Spring boot version 3.0.6 / Java 17 <br>
-> :small_orange_diamond: [Tutorial](https://www.youtube.com/playlist?list=PLr23_YfwEbPTUm-uIAA1DbDqmjtjQtc-O)  <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Tutorial information](https://www.youtube.com/playlist?list=PLr23_YfwEbPTUm-uIAA1DbDqmjtjQtc-O)  <br>
 > :small_blue_diamond: [Respository](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootGraphQL) <br>
+
+> [!NOTE]
 > :eyes: :memo: [My notes](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z1_APUNTE_GRAPHQL_1.png)  <br>
 
 
@@ -473,7 +538,9 @@ Application / classes                                                           
 <!-- ### ${\textsf{\color{#EC7063}Design patterns (Un programador nace)}}$ -->
 | Design patterns | Un programador nace |
 | ------- | ------- |
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the tutorial information](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
 > :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> 
 
 <!--![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br>-->
@@ -490,8 +557,12 @@ Design patterns ----> Creationals ---->  |- Prototype
 <!-- ### ${\textsf{\color{#EC7063}Spring Boot - Jasper Report (Un programador nace)}}$ -->
 | Spring Boot - Jasper Report | Un programador nace |
 | ------- | ------- |
-> :small_orange_diamond: [Tutorial](https://youtu.be/UExwNGhEcZc?si=JikbjmFjAvxK4uDp) <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the tutorial information](https://youtu.be/UExwNGhEcZc?si=JikbjmFjAvxK4uDp) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/JASPER) <br>
+
+> [!NOTE]
 > :eyes: :memo: [My notes](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
 
 <br>
@@ -500,7 +571,9 @@ Design patterns ----> Creationals ---->  |- Prototype
 <!-- ### ${\textsf{\color{#EC7063}Apache POI (Un programador nace)}}$ -->
 | Apache POI | Un programador nace |
 | ------- | ------- |
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLr23_YfwEbPQ6LlBhef5D18YT-IPD1n7y) <br>
+
+> [!IMPORTANT] 
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLr23_YfwEbPQ6LlBhef5D18YT-IPD1n7y) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/apache-poi) <br>
 
 <br>
@@ -509,7 +582,9 @@ Design patterns ----> Creationals ---->  |- Prototype
 <!-- ### ${\textsf{\color{#EC7063}Design patterns (Luigi Code)}}$ -->
 | Design patterns | Luigi Code |
 | ------- | ------- |
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PL4bT56Uw3S4x1_IhP0kQZ1mszuLvoNMJF) <br>
+
+> [!IMPORTANT] 
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PL4bT56Uw3S4x1_IhP0kQZ1mszuLvoNMJF) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Patrones-de-diseno-Luigi-Code) <br>
 
 <!--![](https://github.com/AxelCCp/images-my-git/blob/master/designPatternsLuigi.PNG)-->
@@ -551,7 +626,9 @@ Design patterns -----|------- Estructural -------|- Adapter
 <!-- ### ${\textsf{\color{#EC7063}Learn concurrent programming (Empieza a programar) }}$ -->
 | Learn concurrent programming | Empieza a programar |
 | ------- | ------- |
-> :small_orange_diamond: [Course](https://www.youtube.com/playlist?list=PLw8RQJQ8K1ySGcb3ZP66peK4Za0LKf728) <br>
+
+> [!IMPORTANT] 
+> :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLw8RQJQ8K1ySGcb3ZP66peK4Za0LKf728) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Aprender-programacion-concurrente-en-java) <br>
 
 <br>
@@ -567,10 +644,14 @@ Design patterns -----|------- Estructural -------|- Adapter
   | Facturation system + user registration |
   | ------- |
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
+
+  > [!IMPORTANT] 
   >:small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)</b> <br>
   
+  > [!NOTE]
+  >:eyes: <b>[README](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)</b> <br>
+
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-facturacion-ang.PNG)  <br>
  
   <br>
@@ -580,10 +661,14 @@ Design patterns -----|------- Estructural -------|- Adapter
   | Microservices with Spring Boot, Spring Cloud and Oauth2 |
   | ------- |
   > :point_right: Full microservices where I implemented: Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker.      <br>
+  
+  > [!IMPORTANT] 
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
+
+  > [!NOTE]
   >:eyes: <b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)           </b>  <br> 
-  
+
   ![](https://github.com/AxelCCp/images-my-git/blob/master/micro-docker-containers.PNG) <br>
 
   <br>
@@ -593,8 +678,12 @@ Design patterns -----|------- Estructural -------|- Adapter
   | Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level) |
   | ------- |
   > :point_right: Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
-  >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br>
+
+  > [!IMPORTANT] 
+  > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
+
+  > [!NOTE]
+  > :eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br>
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/diagram-microservices-1.PNG) <br>
   
@@ -606,7 +695,11 @@ Design patterns -----|------- Estructural -------|- Adapter
   | Webflux |
   | ------- |
   > :point_right: I'm working on this (incomplete yet). <br>
+
+  > [!IMPORTANT]
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
+  
+  > [!NOTE]
   >:eyes: <b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
     
  <br>
@@ -615,12 +708,20 @@ Design patterns -----|------- Estructural -------|- Adapter
    <!-- ### ${\textsf{\color{#58D68D}Jakarta EE 9 - Purchasing and user management system}}$ -->
    | Jakarta EE 9 - Purchasing and user management system |
    | ------- |
-   >Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
-   >:point_right: I'm working on this (incomplete yet).   <br>
-   >:small_blue_diamond: [Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
-   >:eyes: <b>[Version 1 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets.png)</b>  <br>
-   >:small_blue_diamond: [Version 2 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets-2)          <br>
-   >:eyes: <b>[Version 2 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png)</b>  <br>
+   > Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
+   
+   > [!IMPORTANT] 
+   > :point_right: I'm working on this (incomplete yet).   <br>
+   > :small_blue_diamond: [Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
+
+   > [!NOTE]
+   > :eyes: <b>[Version 1 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets.png)</b>  <br>
+
+   > [!IMPORTANT] 
+   > :small_blue_diamond: [Version 2 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets-2)          <br>
+   
+   > [!NOTE]
+   > :eyes: <b>[Version 2 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png)</b>  <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-compras-jakarta9.PNG) <br>
     
@@ -632,7 +733,11 @@ Design patterns -----|------- Estructural -------|- Adapter
   | React practices (Only frontend) |
   | ------- |
   > :point_right: Now I'm working on this... <br>
+
+  > [!IMPORTANT] 
   > :small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Rect-practices-only-frontend) <br>
+  
+  > [!NOTE]
   > :eyes: [Readme about react practices](https://github.com/AxelCCp/Rect-practices-only-frontend/blob/master/ReadmePracticesFrontReact.jpg) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
@@ -647,6 +752,8 @@ Design patterns -----|------- Estructural -------|- Adapter
   > :point_right: Developed with Java 17 and Spring boot 3. In this project I developed all the relationships between tables that can exist in a business project. The project is an Api restful which builds the database from the code. 
   > Include: OneToOne, OneToMany, ManyToOne, ManyToMany, unidirecctional and bidirectional, differents cascade options, MySql workbench, relationships with and without intermediate tables, implementations of equals()
   > and hashcode() methods for the update of objects with relationships between tables, api restful, postman, building of complex objects with json. @Query with jpql. <br>
+  
+  > [!IMPORTANT] 
   > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/spring-jpa-portfolio-/tree/master/a1_restful-hibernate) 
 
 ```
@@ -720,10 +827,10 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 | Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS | `40hrs` |
 | ------- | ------- |
 > :point_right: This course is not complete yet, I'm waiting for the course update. <br>
-:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
-:small_blue_diamond: [My development repository,  50% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
 
-
+> [!IMPORTANT] 
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/) <br>
+> :small_blue_diamond: [My development repository, 70% complete](https://github.com/AxelCCp/Master-en-JavaScript-Aprender-JS-jQuery-Angular-NodeJS)  <br>
 
 > [!NOTE]
 > Frontend developed with JQuery, JQueryUI, JQuery validations, bxslider, moment js & css. Includes forms and use of localstorage. implementation of color themes. 
@@ -735,7 +842,9 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 <!-- ### ${\textsf{\color{#AF7AC5}Universidad Python con Frameworks Django, Flask, etc. +71hrs}}$   ${\textsf{\color{#5DADE2}71hrs}}$ -->
 | Universidad Python con Frameworks Django, Flask, etc. +71hrs | `71hrs` |
 | ------- | ------- |
->:small_orange_diamond: [Go to to the course](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
+
+> [!IMPORTANT] 
+>:small_orange_diamond: [Go to the course information](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) <br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
 
@@ -743,21 +852,25 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 <!-- ### ${\textsf{\color{#AF7AC5}Java Avanzado - Aplicaciones Empresariales Para Empleo}}$   ${\textsf{\color{#5DADE2}53hrs}}$-->
 | Java Avanzado - Aplicaciones Empresariales Para Empleo | `53hrs` |
 | ------- | ------- |
->:small_orange_diamond: [Go to the course](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
-:small_blue_diamond: [My development repository, section 1 to section 7, JSF - PRIMEFACES](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
-:small_blue_diamond: [My development repository, section 8, JPA - HIBERNATE](https://github.com/AxelCCp/Java_avanzado_app_para_empleo_JPA_PROJECT) <br>
-:small_blue_diamond: [My development repository, section 9 (classes: 105 - 111), MVN project with Spring configurations](https://github.com/AxelCCp/Spring_Apps-empresariales-para-el-empleo) <br>
-:small_blue_diamond: [My development repository, section 9 (classes: 112 - 119), MVN project with Spring web configurations](https://github.com/AxelCCp/spring-web-apps-empresariales-para-empleo) <br>
-:small_blue_diamond: [My development repository, section 10 (Rest Proyect with MVN and Jersey)](https://github.com/AxelCCp/web-service-Apps-empresariales-para-el-empleo) <br>
-:small_blue_diamond: [My development repository, section 10 (Rest Proyect client with MVN and Jersey)](https://github.com/AxelCCp/-web-service-client-Apps-empresariales-para-el-empleo) <br>
-:small_blue_diamond: [My development repository, section 11 ... (Final project - Music Store)](https://github.com/AxelCCp/tiendamusical) <br>
+
+> [!IMPORTANT] 
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/java-avanzado-aplicaciones-empresariales-para-empleo/)<br>
+> :small_blue_diamond: [My development repository, section 1 to section 7, JSF - PRIMEFACES](https://github.com/AxelCCp/Java-Avanzado_Aplicaciones-Empresariales-Para-Empleo) <br>
+> :small_blue_diamond: [My development repository, section 8, JPA - HIBERNATE](https://github.com/AxelCCp/Java_avanzado_app_para_empleo_JPA_PROJECT) <br>
+> :small_blue_diamond: [My development repository, section 9 (classes: 105 - 111), MVN project with Spring configurations](https://github.com/AxelCCp/Spring_Apps-empresariales-para-el-empleo) <br>
+> :small_blue_diamond: [My development repository, section 9 (classes: 112 - 119), MVN project with Spring web configurations](https://github.com/AxelCCp/spring-web-apps-empresariales-para-empleo) <br>
+> :small_blue_diamond: [My development repository, section 10 (Rest Proyect with MVN and Jersey)](https://github.com/AxelCCp/web-service-Apps-empresariales-para-el-empleo) <br>
+> :small_blue_diamond: [My development repository, section 10 (Rest Proyect client with MVN and Jersey)](https://github.com/AxelCCp/-web-service-client-Apps-empresariales-para-el-empleo) <br>
+> :small_blue_diamond: [My development repository, section 11 ... (Final project - Music Store)](https://github.com/AxelCCp/tiendamusical) <br>
 
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Programación en C de Cero a Experto con Estructuras de Datos}}$   ${\textsf{\color{#5DADE2}49hrs}}$ -->
 | Programación en C de Cero a Experto con Estructuras de Datos | `49hrs` |
 | ------- | ------- |
->:small_orange_diamond: [Go to the course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
+
+> [!IMPORTANT] 
+>:small_orange_diamond: [Go to the course information](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
 
 <br>
