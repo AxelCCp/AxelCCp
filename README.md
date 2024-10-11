@@ -331,6 +331,19 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <br>
 
+
+| NodeJS: from zero to expert | `37hrs` |
+| ------- | ------- |
+
+> Clean Architecture, DDD, WebHooks, WebSockets, automatic task, Despliegues, TypeScript, Edge, Testing, etc.
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/nodejs-de-cero-a-experto/) <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/nodejs-de-cero-a-experto) <br>
+> :small_blue_diamond: [My development repository, backend, webhook](https://github.com/AxelCCp/nodejs-de-cero-a-experto-webhooks) <br>
+
+<br>
+
 --------------------------------------------------------------------------------------------------------------------------------
   
 🐘 <b> `MY TRAINING` : </b> These are my repositories of courses that I have done on `YouTube` :
