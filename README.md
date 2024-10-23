@@ -217,7 +217,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Angular and Spring Boot: Creating a web app full stack | `24hrs` |
 | ------- | ------- |
 
->Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Se curity OAuth2, JWT. Also a chat application with Angular and Socket. <br>
+>Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Security OAuth2, JWT. Also a chat application with Angular and Socket. <br>
 
 > [!IMPORTANT]  
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/angular-spring/)  <br>
@@ -228,6 +228,19 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :point_right: In the repository you can get the versions V1 and V2, about the frontend and backend. <br> 
 
 
+
+<br>
+
+
+
+`Update` | Angular & Spring Boot: Creating a web app full stack - 2024 | `+30hrs` |
+| ------- | ------- | ------- |
+
+> Development frontend with Angular 17 and backend with Spring Boot 3, API REST, JPA, Spring Security OAuth2, JWT. Also a chat application with Angular and Socket. <br>
+
+> [!IMPORTANT]  
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/angular-spring/)  <br>
+> :small_blue_diamond: [My development repository, Angular 17 - only frontend - data in memory](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_ONLY_FRONT)   <br> 
 
 <br>
 
