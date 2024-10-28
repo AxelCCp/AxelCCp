@@ -251,6 +251,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > [!IMPORTANT]  
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/angular-spring/)  <br>
 > :small_blue_diamond: [My development repository, Angular 17 - only frontend - data in memory](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_ONLY_FRONT)   <br>
+>
+> :small_blue_diamond: [My development repositories, frontend and backend integration - (Spring boot 3 and Angular 17. Spring security, JWT and Redux)](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_FRONT-BACK-INTEGRATION)  <br>
+
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/angular17imgs.png)
 
