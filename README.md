@@ -217,15 +217,25 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Angular and Spring Boot: Creating a web app full stack | `24hrs` |
 | ------- | ------- |
 
->Development frontend with Angular and backend with Spring Boot 3, API REST, JPA, Spring Security OAuth2, JWT. Also a chat application with Angular and Socket. <br>
+>Development frontend with `Angular 13` and backend with `Spring Boot 3`, API REST, JPA, Spring Security OAuth2, JWT. Also a chat application  with Angular and Socket. <br>
 
 > [!IMPORTANT]  
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/angular-spring/)  <br>
-> :small_blue_diamond: [My development repository, backend ](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
-> :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3)          <br>
+>
+> :small_blue_diamond: [My development repository, backend, version 1](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND) <br>
+> :small_blue_diamond: [My development repository, frontend, version 1](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND) <br>
+>
+> :small_blue_diamond: [My development repository, backend, version 2](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V2) <br>
+> :small_blue_diamond: [My development repository, frontend, version 2](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V2) <br>
+>
+> :small_blue_diamond: [My development repository, backend, version 3](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3)   <br> 
+> :small_blue_diamond: [My development repository, frontend, version 3](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONTEND_V3)    <br>
+>
+> :small_blue_diamond: [My development repository, backend, spring-chat webSocket](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_BACKEND_V3) <br>
+> :small_blue_diamond: [My development repository, frontend, spring-chat webSocket](https://github.com/AxelCCp/Angular-Spring-Boot-Creando-web-app-full-stack_FRONT_CHAT_APP) <br>
 
 > [!NOTE]
-> :point_right: In the repository you can get the versions V1 and V2, about the frontend and backend. <br> 
+> :point_right: In the repositories you can get the versions `V1`, `V2` and `V3`, about the frontend and backend application. Also I have the frontend and backend repositories about `WebSocket application`.<br> 
 
 
 
