@@ -254,8 +254,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, Angular 17 - only frontend - data in memory](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_ONLY_FRONT)   <br>
 > :small_blue_diamond: [My development repositories, frontend and backend integration - (Spring boot 3 and Angular 17. Spring security, JWT and Redux)](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_FRONT-BACK-INTEGRATION)  <br>
 >
-> :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/9jug20icgef1srnf0m7n9/ANGULAR_18_SPRING_3_DESARROLLO.pdf?rlkey=7khqg1powvhupwf2an2wjmabg&st=6lpaogy1&dl=0)
+> :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/9jug20icgef1srnf0m7n9/ANGULAR_18_SPRING_3_DESARROLLO.pdf?rlkey=7khqg1powvhupwf2an2wjmabg&st=6lpaogy1&dl=0)  <br>
 
+> [!NOTE]
+> :point_right: Developed applications and their different versions.
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/angular17imgs.png)
 
@@ -341,7 +343,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > [!NOTE]
 > :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f) <br>
 > 
-> :point_right: I did my definitive guide about `DOCKER-KUBERNETES-AWS`. I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
+> :point_right: I did my definitive guide about `DOCKER-KUBERNETES-AWS`. I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.   <br>
 
 
 
