@@ -251,8 +251,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > [!IMPORTANT]  
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/angular-spring/)  <br>
 > :small_blue_diamond: [My development repository, Angular 17 - only frontend - data in memory](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_ONLY_FRONT)   <br>
->
 > :small_blue_diamond: [My development repositories, frontend and backend integration - (Spring boot 3 and Angular 17. Spring security, JWT and Redux)](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_FRONT-BACK-INTEGRATION)  <br>
+>
+> :rocket: [MY DROPBOX FILE](https://www.dropbox.com/scl/fi/9jug20icgef1srnf0m7n9/ANGULAR_18_SPRING_3_DESARROLLO.pdf?rlkey=7khqg1powvhupwf2an2wjmabg&st=6lpaogy1&dl=0)
 
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/angular17imgs.png)
@@ -292,16 +293,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
 
 > [!NOTE]
-> :memo: <b>[My notes section 41](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_41.png)</b> <br>
-> :memo: <b>[My notes section 42](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_42.png)</b> <br>
-> :memo: <b>[My notes sections 43-47](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_43_A_47.png)</b> <br>
-> :memo: <b>[My notes sections 50-54](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_50_54.png)</b> <br>
-> :memo: <b>[My notes sections 63-64](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_63_64_WILDFLY.png)</b> <br>
-> :memo: <b>[My notes section 65](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_65_WILDFLY.pdf)</b> <br>
-> :memo: <b>[My notes section 66](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_66_WILDFLY.pdf)</b> <br>
-> :memo: <b>[My notes section 72](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf)</b> <br>
-> :memo: <b>[My notes section 73](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.png)</b> <br>
-> :memo: <b>[My notes sections 74-78](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf)</b><br>
+> :rocket: :memo: [MY DROPBOX FILE - section 41](https://www.dropbox.com/scl/fi/1laoz601gpx0k3pshfgsd/Z_NOTES_SECCIONES_41.pdf?rlkey=6vvttsj4vaemzr8bb4t0rc1d7&st=roykt2n2&dl=0) <br>
+> :rocket: :memo: [MY DROPBOX FILE - section 42](https://www.dropbox.com/scl/fi/als1w21qqmycr1egjin3g/Z_NOTES_SECCIONES_42.pdf?rlkey=9hcyvdqh7pekn0bjlxoq9auje&st=paibxhhe&dl=0)  <br>
+> :rocket: :memo: [MY DROPBOX FILE - sections 43-47](https://www.dropbox.com/scl/fi/hlw5djqjjd6r12dh49de4/Z_NOTES_SECCIONES_43_A_47.pdf?rlkey=x8t8nk3tu83soohm7xm76ue6z&st=gtm4d4pn&dl=0)  <br>
+> :rocket: :memo: [MY DROPBOX FILE - sections 50-54](https://www.dropbox.com/scl/fi/6cstz5xm98sr6u2ehi489/Z_NOTES_SECCIONES_50_54.pdf?rlkey=ss8yst6clwxvgzagva8y9ss3d&st=v6vta0tk&dl=0) <br>
+> :rocket: :memo: [MY DROPBOX FILE - sections 63-64](https://www.dropbox.com/scl/fi/rajsvser337z1o13xp9t0/Z_NOTES_SECCIONES_63_64_WILDFLY.pdf?rlkey=ltz7wor5u2ra0okigyjg5i2if&st=f12dqi12&dl=0) <br>
+> :rocket: :memo: [MY DROPBOX FILE - section 65](https://www.dropbox.com/scl/fi/x5wznr5yhf0in3izpkm58/Z_NOTES_SECCIONES_65_WILDFLY.pdf?rlkey=jv94i1n4vlg4qb9t008mkyzxp&st=gt96x43q&dl=0) <br>
+> :rocket: :memo: [MY DROPBOX FILE - section 66](https://www.dropbox.com/scl/fi/j139wct8teh8ugf986dyz/Z_NOTES_SECCIONES_66_WILDFLY.pdf?rlkey=ed2o83g5n0jvfjnlzzurjokwo&st=lkg85usf&dl=0) <br>
+> :rocket: :memo: [MY DROPBOX FILE - section 72](https://www.dropbox.com/scl/fi/zyzi4kbgmvmwi2z5y8b7b/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf?rlkey=eva86gw474s2hj4xekssx8ff4&st=7t0ffkt3&dl=0) <br>
+> :rocket: :memo: [MY DROPBOX FILE - section 73](https://www.dropbox.com/scl/fi/2krmgin35yn313xx9indt/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.pdf?rlkey=a9ki9vhgvcfeufr9rr30mxwlt&st=egtrnppj&dl=0) <br>
+> :rocket: :memo: [MY DROPBOX FILE - sections 74-78](https://www.dropbox.com/scl/fi/4z1kdsuwm2h8d4fe5e18r/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf?rlkey=eojc67jjhocwa3le5j1wrbh7n&st=caze8t0b&dl=0) <br>
 <br>
 
 
@@ -337,8 +338,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My repository version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br> <br>
 
 > [!NOTE]
-> :memo: :eyes: :eyes: :eyes: :rocket: <b>[I DID MY DEFINITIVE GUIDE TO DOCKER-KUBERNETES-AWS](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b> <br>
-> :point_right: I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
+> :rocket: :memo: :eyes: <b>[MY DROPBOX FILE](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b> <br>
+> :point_right: I did my definitive guide about DOCKER-KUBERNETES-AWS. I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
 
 
 
