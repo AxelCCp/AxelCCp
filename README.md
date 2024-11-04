@@ -10,13 +10,14 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 
 | SYMBOL  | CONTENT |
 | ------------- | ------------- |
-| :small_orange_diamond:  | LINK THAT REDIRECTS TO THE COURSE OF THE REPOSITORY. HERE YOU CAN REVIEW THE CONTENT OF EACH COURSE. |
-| :small_blue_diamond: | LINK OF MY REPOSITORIES.  |
-| :memo: | MY NOTES AND/OR MY DOCUMENTATION. |
-| :eyes: | README.  |
-| :rocket: | LINK TO OTHER WEBSITE. |
-| :point_right: | COMMENTS. |
-| hrs | NUMBER OF HOURS OF VIDEO OF EACH COURSE. |
+| :small_orange_diamond:  | `LINK THAT REDIRECTS TO THE COURSE OF THE REPOSITORY. HERE YOU CAN REVIEW THE CONTENT OF EACH COURSE`. |
+| :small_blue_diamond: | `LINK OF MY REPOSITORIES`. |
+| :cloud: | `MY NOTES AND/OR MY DOCUMENTATION ON MY DROPBOX`. |
+| :open_file_folder: | `MY NOTES AND/OR MY DOCUMENTATION ON MY GITHUB`. |
+| :eyes: | `README`.  |
+| :rocket: | `LINK TO OTHER WEBSITE`. |
+| :point_right: | `COMMENTS`. |
+| `hrs` | `NUMBER OF HOURS OF VIDEO OF EACH COURSE`. |
 
 
 <br>
@@ -35,7 +36,7 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 ------------------------------------------------------------------------------------------------------------------------------------- -->
 
   🐳 <b>`LINKS` :</b> <br><br>
-  :rocket: [My dockerhub profile](https://hub.docker.com/u/4xe1)
+  :cloud: [My dockerhub profile](https://hub.docker.com/u/4xe1)
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -253,7 +254,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, Angular 17 - only frontend - data in memory](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_ONLY_FRONT)   <br>
 > :small_blue_diamond: [My development repositories, frontend and backend integration - (Spring boot 3 and Angular 17. Spring security, JWT and Redux)](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_FRONT-BACK-INTEGRATION)  <br>
 >
-> :rocket: [MY DROPBOX FILE](https://www.dropbox.com/scl/fi/9jug20icgef1srnf0m7n9/ANGULAR_18_SPRING_3_DESARROLLO.pdf?rlkey=7khqg1powvhupwf2an2wjmabg&st=6lpaogy1&dl=0)
+> :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/9jug20icgef1srnf0m7n9/ANGULAR_18_SPRING_3_DESARROLLO.pdf?rlkey=7khqg1powvhupwf2an2wjmabg&st=6lpaogy1&dl=0)
 
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/angular17imgs.png)
@@ -293,16 +294,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
 
 > [!NOTE]
-> :rocket: :memo: [MY DROPBOX FILE - section 41](https://www.dropbox.com/scl/fi/1laoz601gpx0k3pshfgsd/Z_NOTES_SECCIONES_41.pdf?rlkey=6vvttsj4vaemzr8bb4t0rc1d7&st=roykt2n2&dl=0) <br>
-> :rocket: :memo: [MY DROPBOX FILE - section 42](https://www.dropbox.com/scl/fi/als1w21qqmycr1egjin3g/Z_NOTES_SECCIONES_42.pdf?rlkey=9hcyvdqh7pekn0bjlxoq9auje&st=paibxhhe&dl=0)  <br>
-> :rocket: :memo: [MY DROPBOX FILE - sections 43-47](https://www.dropbox.com/scl/fi/hlw5djqjjd6r12dh49de4/Z_NOTES_SECCIONES_43_A_47.pdf?rlkey=x8t8nk3tu83soohm7xm76ue6z&st=gtm4d4pn&dl=0)  <br>
-> :rocket: :memo: [MY DROPBOX FILE - sections 50-54](https://www.dropbox.com/scl/fi/6cstz5xm98sr6u2ehi489/Z_NOTES_SECCIONES_50_54.pdf?rlkey=ss8yst6clwxvgzagva8y9ss3d&st=v6vta0tk&dl=0) <br>
-> :rocket: :memo: [MY DROPBOX FILE - sections 63-64](https://www.dropbox.com/scl/fi/rajsvser337z1o13xp9t0/Z_NOTES_SECCIONES_63_64_WILDFLY.pdf?rlkey=ltz7wor5u2ra0okigyjg5i2if&st=f12dqi12&dl=0) <br>
-> :rocket: :memo: [MY DROPBOX FILE - section 65](https://www.dropbox.com/scl/fi/x5wznr5yhf0in3izpkm58/Z_NOTES_SECCIONES_65_WILDFLY.pdf?rlkey=jv94i1n4vlg4qb9t008mkyzxp&st=gt96x43q&dl=0) <br>
-> :rocket: :memo: [MY DROPBOX FILE - section 66](https://www.dropbox.com/scl/fi/j139wct8teh8ugf986dyz/Z_NOTES_SECCIONES_66_WILDFLY.pdf?rlkey=ed2o83g5n0jvfjnlzzurjokwo&st=lkg85usf&dl=0) <br>
-> :rocket: :memo: [MY DROPBOX FILE - section 72](https://www.dropbox.com/scl/fi/zyzi4kbgmvmwi2z5y8b7b/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf?rlkey=eva86gw474s2hj4xekssx8ff4&st=7t0ffkt3&dl=0) <br>
-> :rocket: :memo: [MY DROPBOX FILE - section 73](https://www.dropbox.com/scl/fi/2krmgin35yn313xx9indt/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.pdf?rlkey=a9ki9vhgvcfeufr9rr30mxwlt&st=egtrnppj&dl=0) <br>
-> :rocket: :memo: [MY DROPBOX FILE - sections 74-78](https://www.dropbox.com/scl/fi/4z1kdsuwm2h8d4fe5e18r/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf?rlkey=eojc67jjhocwa3le5j1wrbh7n&st=caze8t0b&dl=0) <br>
+> :cloud: [my dropbox file - section 41](https://www.dropbox.com/scl/fi/1laoz601gpx0k3pshfgsd/Z_NOTES_SECCIONES_41.pdf?rlkey=6vvttsj4vaemzr8bb4t0rc1d7&st=roykt2n2&dl=0) <br>
+> :cloud: [my dropbox file - section 42](https://www.dropbox.com/scl/fi/als1w21qqmycr1egjin3g/Z_NOTES_SECCIONES_42.pdf?rlkey=9hcyvdqh7pekn0bjlxoq9auje&st=paibxhhe&dl=0)  <br>
+> :cloud: [my dropbox file - sections 43-47](https://www.dropbox.com/scl/fi/hlw5djqjjd6r12dh49de4/Z_NOTES_SECCIONES_43_A_47.pdf?rlkey=x8t8nk3tu83soohm7xm76ue6z&st=gtm4d4pn&dl=0)  <br>
+> :cloud: [my dropbox file - sections 50-54](https://www.dropbox.com/scl/fi/6cstz5xm98sr6u2ehi489/Z_NOTES_SECCIONES_50_54.pdf?rlkey=ss8yst6clwxvgzagva8y9ss3d&st=v6vta0tk&dl=0) <br>
+> :cloud: [my dropbox file - sections 63-64](https://www.dropbox.com/scl/fi/rajsvser337z1o13xp9t0/Z_NOTES_SECCIONES_63_64_WILDFLY.pdf?rlkey=ltz7wor5u2ra0okigyjg5i2if&st=f12dqi12&dl=0) <br>
+> :cloud: [my dropbox file - section 65](https://www.dropbox.com/scl/fi/x5wznr5yhf0in3izpkm58/Z_NOTES_SECCIONES_65_WILDFLY.pdf?rlkey=jv94i1n4vlg4qb9t008mkyzxp&st=gt96x43q&dl=0) <br>
+> :cloud: [my dropbox file - section 66](https://www.dropbox.com/scl/fi/j139wct8teh8ugf986dyz/Z_NOTES_SECCIONES_66_WILDFLY.pdf?rlkey=ed2o83g5n0jvfjnlzzurjokwo&st=lkg85usf&dl=0) <br>
+> :cloud: [my dropbox file - section 72](https://www.dropbox.com/scl/fi/zyzi4kbgmvmwi2z5y8b7b/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf?rlkey=eva86gw474s2hj4xekssx8ff4&st=7t0ffkt3&dl=0) <br>
+> :cloud: [my dropbox file - section 73](https://www.dropbox.com/scl/fi/2krmgin35yn313xx9indt/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.pdf?rlkey=a9ki9vhgvcfeufr9rr30mxwlt&st=egtrnppj&dl=0) <br>
+> :cloud: [my dropbox file - sections 74-78](https://www.dropbox.com/scl/fi/4z1kdsuwm2h8d4fe5e18r/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf?rlkey=eojc67jjhocwa3le5j1wrbh7n&st=caze8t0b&dl=0) <br>
 <br>
 
 
@@ -320,10 +321,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
 
 > [!NOTE]
-> :memo: <b>[My notes 1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br> </b>
-> :memo: <b>[My notes 2](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS_2.png) <br> </b>
+> :open_file_folder: [my github file - docker](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br> 
+> :open_file_folder: [my github file - kubernetes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS_2.png) <br> 
 
--------- <br>
+> -------- <br>
 
 > [!IMPORTANT]
 > :point_right: Repositories and information from the second time I did the course. <br>
@@ -338,8 +339,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My repository version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br> <br>
 
 > [!NOTE]
-> :rocket: :memo: :eyes: <b>[MY DROPBOX FILE](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f)</b> <br>
-> :point_right: I did my definitive guide about DOCKER-KUBERNETES-AWS. I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
+> :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f) <br>
+> 
+> :point_right: I did my definitive guide about `DOCKER-KUBERNETES-AWS`. I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.:face_with_spiral_eyes:  <br>
 
 
 
@@ -437,7 +439,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
 
 > [!NOTE]
-> :eyes: <b>[README: JDBC Basics](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS/blob/master/REPASO_JDBC_JAVA_PILDORAS_INFORMATICAS.jpg) </b>     <br>
+> :open_file_folder: [my github file - jdbc - swing - etc](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS/blob/master/REPASO_JDBC_JAVA_PILDORAS_INFORMATICAS.jpg)    <br>
       
       
  <br>
@@ -525,7 +527,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My repository - Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) <br>
 
 > [!NOTE]
-> :eyes: :memo: [Kafka commands readme](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
+> :open_file_folder: [my github file - Kafka commands](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
 
 > [!IMPORTANT] 
 > :small_blue_diamond: [My repository - How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> 
@@ -546,7 +548,7 @@ Application / classes                                                           
 > :small_blue_diamond: [My repository - How to send emails with Spring Boot #spring #springframework.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootMailSender)   <br>
 
 > [!NOTE]
-> :eyes: [Sending emails with spring boot](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
+> :open_file_folder: [my github file - Sending emails with spring boot](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
 
 > [!IMPORTANT] 
 > :small_blue_diamond: [My repository - Mastering Relationships in JPA with Spring Boot: Simplifying your database connections.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringJpaRelation)  <br>
@@ -571,7 +573,7 @@ Application / classes                                                           
 > :small_blue_diamond: [Respository](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootGraphQL) <br>
 
 > [!NOTE]
-> :eyes: :memo: [My notes](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z1_APUNTE_GRAPHQL_1.png)  <br>
+> :open_file_folder: [my github file - GraphQL](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z1_APUNTE_GRAPHQL_1.png)  <br>
 
 
 <br>
@@ -605,7 +607,7 @@ Design patterns ----> Creationals ---->  |- Prototype
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/JASPER) <br>
 
 > [!NOTE]
-> :eyes: :memo: [My notes](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
+> :open_file_folder: [my github file - Jasper](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
 
 <br>
 
@@ -692,7 +694,7 @@ Design patterns -----|------- Estructural -------|- Adapter
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
   
   > [!NOTE]
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png)</b> <br>
+  >:open_file_folder: [my github file](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png) <br>
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-facturacion-ang.PNG)  <br>
  
@@ -709,7 +711,7 @@ Design patterns -----|------- Estructural -------|- Adapter
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
 
   > [!NOTE]
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)           </b>  <br> 
+  > :open_file_folder: [my github file](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)       <br> 
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/micro-docker-containers.PNG) <br>
 
@@ -725,7 +727,7 @@ Design patterns -----|------- Estructural -------|- Adapter
   > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
 
   > [!NOTE]
-  > :eyes: <b>[README](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)        </b>  <br>
+  > :open_file_folder: [my github file](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)    <br>
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/diagram-microservices-1.PNG) <br>
   
@@ -742,7 +744,7 @@ Design patterns -----|------- Estructural -------|- Adapter
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
   
   > [!NOTE]
-  >:eyes: <b>[README](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
+  > :open_file_folder: [my github file](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
     
  <br>
  
@@ -757,13 +759,13 @@ Design patterns -----|------- Estructural -------|- Adapter
    > :small_blue_diamond: [Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
 
    > [!NOTE]
-   > :eyes: <b>[Version 1 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets.png)</b>  <br>
+   > :open_file_folder: [my github file - version 1](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets.png)  <br>
 
    > [!IMPORTANT] 
    > :small_blue_diamond: [Version 2 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets-2)          <br>
    
    > [!NOTE]
-   > :eyes: <b>[Version 2 README](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png)</b>  <br>
+   > :open_file_folder: [my github file - version 2](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-compras-jakarta9.PNG) <br>
     
@@ -780,7 +782,7 @@ Design patterns -----|------- Estructural -------|- Adapter
   > :small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Rect-practices-only-frontend) <br>
   
   > [!NOTE]
-  > :eyes: [Readme about react practices](https://github.com/AxelCCp/Rect-practices-only-frontend/blob/master/ReadmePracticesFrontReact.jpg) <br>
+  > :open_file_folder: [my github file - react practices](https://github.com/AxelCCp/Rect-practices-only-frontend/blob/master/ReadmePracticesFrontReact.jpg) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
 
