@@ -157,7 +157,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Microservices with Spring Boot and Spring Cloud Netflix Eureka | `19hrs` |
 | ------- | ------- |
 
->Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
+> Java 11 and Java 17, Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
 
 > [!IMPORTANT]
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
