@@ -270,7 +270,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Microservices with Spring Cloud Eureka and Angular Full stack | `24hrs` |
 | ------- | ------- |
 
-> Development of microservices with spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
+> Development of microservices with Java 11, Spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
 
 > [!IMPORTANT] 
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/microservicios-spring-cloud-y-angular-9/)         <br>
