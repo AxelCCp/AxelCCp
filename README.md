@@ -1,7 +1,7 @@
 ----------------------------------------
 👋 Hi, I'm Axel  <br/>
 ----------------------------------------
-I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️ 🌮🌮🌮 and I built this profile so you can review my main skills and knowledge about programming. Also, here you will find documentation files and images about the code and project deployments ✨.
+I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️🌮 and I built this profile so you can review my main skills and knowledge about programming. Here you will find documentation files, images about the code and project deployments, and I try to show most of my repositories in an orderly manner. 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 :mage_man: `SYMBOLOGY OF MY REPOSITORY` ✨ <br>
