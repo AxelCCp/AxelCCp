@@ -882,8 +882,8 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   > :point_right: :wrench: UNDER CONSTRUCTION! :hammer: :warning: :warning: :warning: <br>
 
   > [!IMPORTANT] 
-  > :small_blue_diamond: [React repository]([https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025](https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025/tree/master/app-react))
-  > :small_blue_diamond: [Spring repository]([https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025](https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025/tree/master/app)) <br>
+  > :small_blue_diamond: [React repository](https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025/tree/master/app-react) <br>
+  > :small_blue_diamond: [Spring repository](https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025/tree/master/app) <br>
   
   > [!NOTE]
   > Pending :warning:  <br>
