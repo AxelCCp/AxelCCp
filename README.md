@@ -872,6 +872,29 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 ```
 
 
+
+<br>
+
+  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br> -->
+  <!-- ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$ -->
+  | React - Spring - MySQL - Spring security - Oauth2 : FullStack project DEMO 2025 |
+  | ------- |
+  > :point_right: :wrench: UNDER CONSTRUCTION! :hammer: :warning: :warning: :warning: <br>
+
+  > [!IMPORTANT] 
+  > :small_blue_diamond: [React repository]([https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025](https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025/tree/master/app-react))
+  > :small_blue_diamond: [Spring repository]([https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025](https://github.com/AxelCCp/PortFolio_project_react_spring_mySql_2025/tree/master/app)) <br>
+  
+  > [!NOTE]
+  > Pending :warning:  <br>
+  
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/react_spring_2025.JPG) <br>
+
+
+<br> 
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------
   
 :turtle: <b> `MY TRAINING` : </b> What I'm doing now?   :point_right:(In this section I show what I am learning now or courses that I have not yet finished :sleepy: :sleepy: :sleepy:):point_left:
