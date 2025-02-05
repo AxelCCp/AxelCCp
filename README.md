@@ -877,7 +877,7 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br> -->
   <!-- ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$ -->
-  | React - Spring - MySQL - Spring security - Oauth2 : FullStack project DEMO 2025 |
+  | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 |
   | ------- |
   > :point_right: :wrench: UNDER CONSTRUCTION! :hammer: :warning: :warning: :warning: <br>
 
