@@ -891,20 +891,39 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 <br>
 
-  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br> -->
-  <!-- ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$ -->
-  | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 |
-  | ------- |
-  > :point_right: :wrench: UNDER CONSTRUCTION! :hammer: :warning: :warning: :warning: <br>
+  | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 1 |
+  | ------- | ------- |
+  > :point_right: Developed with:   <br>
+  > Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFull, React, react-bootstrap, bootstrap and css. <br>
+  > :point_right: About React:  <br>
+  > the project contains different layers and components, The components and layers used were: useEffect, useState, reducers, hooks, Router, Navlink, Context, Provider, Services, Axios and Interceptors. <br>
 
   > [!IMPORTANT] 
   > :small_blue_diamond: [React repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app-react) <br>
   > :small_blue_diamond: [Spring repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app) <br>
-  
+
   > [!NOTE]
   > Pending :warning:  <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/react_spring_2025.JPG) <br>
+
+
+
+<br>
+
+
+  | React - Redux - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 2 - REDUX |
+  | ------- | ------ |
+  > :point_right: :wrench: UNDER CONSTRUCTION! :hammer: :warning: :warning: :warning: <br>
+
+  > [!IMPORTANT] 
+  > :small_blue_diamond: [React repository]() <br>
+  > :small_blue_diamond: [Spring repository]() <br>
+  
+  > [!NOTE]
+  > Pending :warning:  <br>
+  
+   <!-- ![]() <br>  -->
 
 
 <br> 
