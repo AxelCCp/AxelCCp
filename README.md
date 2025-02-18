@@ -893,10 +893,19 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
   | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 1 |
   | ------- | ------- |
+  
   > :point_right: Developed with:   <br>
-  > Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFull, React, react-bootstrap, bootstrap and css. <br>
+  > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFull, React, react-bootstrap, bootstrap and css. <br>
+  
   > :point_right: About React:  <br>
-  > the project contains different layers and components, The components and layers used were: useEffect, useState, reducers, hooks, Router, Navlink, Context, Provider, Services, Axios and Interceptors. <br>
+  > * The project contains different layers, components, technologies, here I used useEffect, useState, reducers, hooks, Router, Navlink, Context, Provider, Services, Axios and Interceptors. <br>
+
+  > :point_right: Features:   <br>
+  > * User role system.  <br>
+  > * Page restriction based on user role.  <br>
+  > * API consumption restriction based on user role.  <br>
+  > * Use of jwt token in http headers in each request from the frontend to the backend using interceptors.  <br>
+  > * Use of bootstrap and custom styles with css.  <br>
 
   > [!IMPORTANT] 
   > :small_blue_diamond: [React repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app-react) <br>
