@@ -891,11 +891,11 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 <br>
 
-  | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 1 |
+  | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 1 - CONTEXT/PROVIDER |
   | ------- | ------- |
   
   > :point_right: Developed with:   <br>
-  > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFull, React, react-bootstrap, bootstrap and css. <br>
+  > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFul, React, react-bootstrap, bootstrap and css. <br>
   
   > :point_right: About React:  <br>
   > * The project contains different layers, components, technologies, here I used useEffect, useState, reducers, hooks, Router, Navlink, Context, Provider, Services, Axios and Interceptors. <br>
@@ -923,14 +923,26 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
   | React - Redux - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 2 - REDUX |
   | ------- | ------ |
-  > :point_right: :wrench: UNDER CONSTRUCTION! :hammer: :warning: :warning: :warning: <br>
+
+  > :point_right: Developed with:   <br>
+  > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFul, React, REDUX,  react-bootstrap, bootstrap and css. <br>
+  
+  > :point_right: About React:  <br>
+  > * The project contains different layers, components, technologies, here I used useEffect, useState, reducers, hooks, Router, Navlink, Context, Provider, Services, Axios and Interceptors. <br>
+
+  > :point_right: Features:   <br>
+  > * User role system.  <br>
+  > * Page restriction based on user role.  <br>
+  > * API consumption restriction based on user role.  <br>
+  > * Use of jwt token in http headers in each request from the frontend to the backend using interceptors.  <br>
+  > * Use of bootstrap and custom styles with css.  <br>
 
   > [!IMPORTANT] 
   > :small_blue_diamond: [React repository]() <br>
   > :small_blue_diamond: [Spring repository]() <br>
   
   > [!NOTE]
-  > Pending :warning:  <br>
+  > :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/0z3dzend5d23mrgbc9yj8/NOTES_REACT_SPRING_REDUX_2025.pdf?rlkey=92k9dd3vyx8uwqmnipkv531uz&st=sm5s2ikn&dl=0) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/react-spring-2025-redux.JPG) <br>  
 
