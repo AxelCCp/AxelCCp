@@ -912,7 +912,7 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   > :small_blue_diamond: [Spring repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app) <br>
 
   > [!NOTE]
-  > Pending :warning:  <br>
+  > :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/4pz92onrui3ez383bi50u/NOTES_REACT_SPRING_CONTEXT_2025.pdf?rlkey=hov14l1dm25yhjxvgo1o2gwbi&st=a9k1vjyq&dl=0) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/react_spring_2025.JPG) <br>
 
@@ -938,8 +938,8 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   > * Use of bootstrap and custom styles with css.  <br>
 
   > [!IMPORTANT] 
-  > :small_blue_diamond: [React repository]() <br>
-  > :small_blue_diamond: [Spring repository]() <br>
+  > :small_blue_diamond: [React repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app-react-v2) <br>
+  > :small_blue_diamond: [Spring repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app-v2) <br>
   
   > [!NOTE]
   > :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/0z3dzend5d23mrgbc9yj8/NOTES_REACT_SPRING_REDUX_2025.pdf?rlkey=92k9dd3vyx8uwqmnipkv531uz&st=sm5s2ikn&dl=0) <br>
