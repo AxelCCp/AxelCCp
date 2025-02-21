@@ -175,6 +175,20 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 
 
+| `Update` | Microservices with Spring Boot and Spring Cloud Netflix Eureka 2025 | `+28.5hrs` |  
+| ------- | ------- | ------- |
+
+> Java 21. UPDATING <br>
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
+> :small_blue_diamond: [My development repository, backend - Miicroservices](https://github.com/AxelCCp/Microservices_springboot_2025)     <br>
+> :small_blue_diamond: [My development repository, backend - Spring cloud config](https://github.com/AxelCCp/spring-cloud-config_ms-items)     <br>
+
+<br>
+
+
+
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}Reactive programming with Spring boot 2 and Spring webFlux}}$   ${\textsf{\color{#5DADE2}11hrs}}$ -->
 | Reactive programming with Spring boot 2 and Spring webFlux | `11hrs` |
