@@ -113,7 +113,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <br> 
   
-🍄 <b> `MY TRAINING` : </b> I have two study programs from `Coursera` :point_right:`all complete`:point_left::
+🍄 **`MY TRAINING` :**  :diamonds: :diamonds: :diamonds: **I HAVE COMPLETED TWO STUDY PROGRAMS FROM `Coursera`** :diamonds: :diamonds: :diamonds:
+
 
 <br> 
         
@@ -971,6 +972,7 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   | ------- | ------- |
 
   > :sparkles: **DESCRIPTION:** <br>
+  >
   > :point_right: Developed with:   <br>
   > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFul, React, react-bootstrap, bootstrap and css. <br>
   >
@@ -1003,6 +1005,7 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   | ------- | ------ |
 
   > :sparkles: **DESCRIPTION:** <br>
+  >
   > :point_right: Developed with:   <br>
   > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFul, React, REDUX,  react-bootstrap, bootstrap and css. <br>
   >
