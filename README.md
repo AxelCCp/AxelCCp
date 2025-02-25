@@ -156,7 +156,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <br> 
   
-🐰 <b> `MY TRAINING` : </b> These are my repositories of courses that I have done on `Udemy` :point_right:`all complete`:point_left: : <br/> <br/>
+🐰  **`MY TRAINING`** :  :diamonds: :diamonds: :diamonds: **THESE ARE MY REPOSITORIES OF COURSES THAT I HAVE DONE ON `Udemy`** :diamonds: :diamonds: :diamonds:  <br/> <br/>
  
 
  
@@ -165,6 +165,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Microservices with Spring Boot and Spring Cloud Netflix Eureka | `19hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Java 11 and Java 17, Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker. <br>
 
 > [!IMPORTANT]
@@ -178,6 +179,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | `Update` | Microservices with Spring Boot and Spring Cloud Netflix Eureka 2025 | `+28.5hrs` |  
 | ------- | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Java 21. UPDATING <br>
 
 > [!IMPORTANT]
@@ -194,6 +196,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Reactive programming with Spring boot 2 and Spring webFlux | `11hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 >Reactor API. Introduction to Spring webFlux. CRUD with reactive Thymeleaf. API RESTFUL using RestController. API RESTFUL using functional endpoints (CRUD with RouterFunction and Handler). Junit with WebTestClient. Microservice webClient. Spring Cloud Eureka Server. <br>
 
 > [!IMPORTANT]  
@@ -209,6 +212,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Spring Framework 5 and Spring boot 2 zero to expert 2022 | `40hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 >Spring MVC. Dependency Injection. Thymeleaf form and Data Binding. Interceptors HTTP. Error handling, MVC, JPA y Jquery. Upload files. MVC + JPA + JQuery. Invoice system. Spring security. JDBC Database authentication. Integration between Angular and Spring. <br>
 
 > [!IMPORTANT]
@@ -225,6 +229,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 `Update` | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | `+41hrs` |
 | ------- | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 >Web aplications with Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, RESTful, AWS EC2, Angular, React. <br>
 
 > [!IMPORTANT]
@@ -240,6 +245,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Angular and Spring Boot: Creating a web app full stack | `24hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 >Development frontend with `Angular 13` and backend with `Spring Boot 3`, API REST, JPA, Spring Security OAuth2, JWT. Also a chat application  with Angular and Socket. <br>
 
 > [!IMPORTANT]  
@@ -269,14 +275,19 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 `Update` | Angular & Spring Boot: Creating a web app full stack - 2024 | `+30hrs` |
 | ------- | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Development frontend with Angular 17 and backend with Spring Boot 3, API REST, JPA, Spring Security OAuth2, JWT. Also a chat application with Angular and Socket. <br>
 
 > [!IMPORTANT]  
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/angular-spring/)  <br>
 > :small_blue_diamond: [My development repository, Angular 17 - only frontend - data in memory](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_ONLY_FRONT)   <br>
 > :small_blue_diamond: [My development repositories, frontend and backend integration - (Spring boot 3 and Angular 17. Spring security, JWT and Redux)](https://github.com/AxelCCp/angular-creando-webapp-full-stack-de-cero-a-experto-2024_FRONT-BACK-INTEGRATION)  <br>
->
-> :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/9jug20icgef1srnf0m7n9/ANGULAR_18_SPRING_3_DESARROLLO.pdf?rlkey=7khqg1powvhupwf2an2wjmabg&st=6lpaogy1&dl=0)  <br>
+
+
+> [!CAUTION]
+> :ghost: **`MY EXTERNAL DOCUMENTATION`** :space_invader: &rarr;
+>  :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/9jug20icgef1srnf0m7n9/ANGULAR_18_SPRING_3_DESARROLLO.pdf?rlkey=7khqg1powvhupwf2an2wjmabg&st=6lpaogy1&dl=0)  <br>
+
 
 > [!NOTE]
 > :point_right: Developed applications and their different versions.
@@ -292,6 +303,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Microservices with Spring Cloud Eureka and Angular Full stack | `24hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Development of microservices with Java 11, Spring boot, Eureka, RESTful, Feign, Zuul gateway, Spring cloud gateway, ribbon, Spring cloud load balancer. The back end has 2 versions. In version 1, microservices use a shared MySQL database. In version 2, microservices work with distributed databases, using MongoDB, PostgreSQL, and MySQL. <br>
 
 > [!IMPORTANT] 
@@ -310,6 +322,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Complete java master from zero to expert 2023 | `127hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Java SE and Jakarta EE 9:  Java 17, Servlet/JSP, JDBC, Enterprise JavaBeans (EJB 4), JPA, API RESTful (JAX-RS), Web Services SOAP (JAX-WS), JSF, PrimeFaces, JAAS security, JBoss Wildfly. Full Stack complete with Spring 5 and Angular + JPA + API Restful. JUnit 5 and Mockito. Dependency Injection and Contexts with Weld CDI by Jakarta EE 9.<br>
 
 > [!IMPORTANT] 
@@ -317,7 +330,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend, Java Standard Edition](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs-)  <br> 
 > :small_blue_diamond: [My development repository, backend, Java Jakarta EE9](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9)  <br> 
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`EXTERNAL DOCUMENTATION`** :space_invader: &darr;  <br>
 > :cloud: [my dropbox file - section 41](https://www.dropbox.com/scl/fi/1laoz601gpx0k3pshfgsd/Z_NOTES_SECCIONES_41.pdf?rlkey=6vvttsj4vaemzr8bb4t0rc1d7&st=roykt2n2&dl=0) <br>
 > :cloud: [my dropbox file - section 42](https://www.dropbox.com/scl/fi/als1w21qqmycr1egjin3g/Z_NOTES_SECCIONES_42.pdf?rlkey=9hcyvdqh7pekn0bjlxoq9auje&st=paibxhhe&dl=0)  <br>
 > :cloud: [my dropbox file - sections 43-47](https://www.dropbox.com/scl/fi/hlw5djqjjd6r12dh49de4/Z_NOTES_SECCIONES_43_A_47.pdf?rlkey=x8t8nk3tu83soohm7xm76ue6z&st=gtm4d4pn&dl=0)  <br>
@@ -337,6 +351,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Complete Guide to Docker and Kubernetes with Spring Boot 2023 | `33hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
 
 > [!IMPORTANT]
@@ -344,7 +359,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/guia-completa-de-docker-kubernetes-con-spring-boot/) <br>
 > :small_blue_diamond: [My development repository, backend, 75%](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022)    <br>
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &darr; <br>
 > :open_file_folder: [my github file - docker](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS.png) <br> 
 > :open_file_folder: [my github file - kubernetes](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2022/blob/master/DOCKER_COMANDOS_2.png) <br> 
 
@@ -362,7 +378,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: Version 8, no version 8 corresponding to section 19. Deployment with AWS  - Elastic Kubernetes Service  <br>
 > :small_blue_diamond: [My repository version 9, from section 20, class 180 to end, Security JWT with Oauth 2.1](https://github.com/AxelCCp/Guia-Completa-de-Docker-Kubernetes-con-Spring-Boot-2023_V9) <br> <br>
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`MY EXTERNAL DOCUMENTATION`** :space_invader: &rarr; 
 > :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/s3tt7bre9xt87p62wa9eb/GUIA_COMPLETA_DOCKER_Y_KUBERNETES.pdf?dl=0&rlkey=jrud9bsycrif8uxab4daz1h5f) <br>
 > 
 > :point_right: I did my definitive guide about `DOCKER-KUBERNETES-AWS`. I wrote down all the commands to deploy containers with all possible ways. This document refers to repositories from version 1 to version 9.   <br>
@@ -377,6 +394,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | React: Creating Full Stack Webapp with Spring Boot 2024 | `40hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Build Fullstack web applications with React 18 Frontend and Spring Boot 3 Backend RESTful, JPA, JWT, Hooks, Redux, AWS
 
 > [!IMPORTANT]  
@@ -390,6 +408,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | NodeJS: from zero to expert | `37hrs` |
 | ------- | ------- |
 
+> :sparkles: **DESCRIPTION:** <br>
 > Clean Architecture, DDD, WebHooks, WebSockets, automatic task, Despliegues, TypeScript, Edge, Testing, etc.
 
 > [!IMPORTANT]
@@ -415,7 +434,9 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <br> 
   
-🐘 <b> `MY TRAINING` : </b> These are my repositories of courses that I have done on `YouTube` :
+🐘 **`MY TRAINING`** : :diamonds: :diamonds: :diamonds: **THESE ARE MY REPOSITORIES OF COURSES THAT I HAVE DONE ON `YouTube`** :diamonds: :diamonds: :diamonds:
+
+
 
 <br>
   
@@ -435,6 +456,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Spring framework and Spring boot (Píldoras Informáticas)}}$ -->
 | Spring framework and Spring boot | Píldoras Informáticas |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > Complete course about Spring Framework and Spring boot. <br>
 
 > [!IMPORTANT]  
@@ -458,6 +481,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Java 8 (Píldoras Informáticas)}}$ -->
 | Java 8 | Píldoras Informáticas |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > Complete course - Java 8  - Standard Edition & Enterprice Edition. <br>
 
 > [!IMPORTANT]  
@@ -476,7 +501,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [Java-Annex of the Final part of the course.](https://github.com/AxelCCp/JAVA-13-PILDORAS-INFORMATICAS-ANEXO)          <br>
 > :small_blue_diamond: [Java-Products web app.](https://github.com/AxelCCp/JAVA-14-PILDORAS-INFORMATICAS)          <br>
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr; 
 > :open_file_folder: [my github file - jdbc - swing - etc](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS/blob/master/REPASO_JDBC_JAVA_PILDORAS_INFORMATICAS.jpg)    <br>
       
       
@@ -498,6 +524,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Java 8 - review (Píldoras Informáticas)}}$ -->
 | Java 8 - review | Píldoras Informáticas |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > Java 8 Enterprice Edition <br>
 
 > [!IMPORTANT]  
@@ -511,6 +539,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Python (Píldoras Informáticas)}}$ -->
 | Python | Píldoras Informáticas |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > Complete course of Python. <br>
 
 > [!IMPORTANT]  
@@ -525,6 +555,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Spring Batch (Un programador nace)}}$ -->
 | Spring Batch | Un programador nace |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > Development of 3 applications with Spring batch. <br>
 > Spring boot version 2.7.14 / Java 17 <br>
 > :point_right:Tasklet --> Loading of massive data in database with csv file and postman. <br>
@@ -542,6 +574,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Spring Security (Un programador nace)}}$ -->
 | Spring Security | Un programador nace |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > Spring boot version 3.0.6 / Java 17 <br>
 > :point_right: Understanding Spring Security. <br>
 > :point_right: Authorization and authentication with JWT. <br>
@@ -558,13 +592,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <!-- ### ${\textsf{\color{#EC7063}Spring Framework practices (Un programador nace)}}$ -->
 | Spring Framework practices | Un programador nace |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > Spring boot version 3.0.6 / Java 17 <br>
 
 > [!IMPORTANT]  
 > :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLr23_YfwEbPTWw4-3h5Wqs_PIzbtBSQMM)  <br>
 > :small_blue_diamond: [My repository - Spring Boot with Apache Kafka.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringForKafka) <br>
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr; 
 > :open_file_folder: [my github file - Kafka commands](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/comados%20kafka.txt)<br>
 
 > [!IMPORTANT] 
@@ -585,7 +622,8 @@ Application / classes                                                           
 > :small_blue_diamond: Spring Boot 3, Keycloak, Oauth2 integration: Take security to another level. <br>
 > :small_blue_diamond: [My repository - How to send emails with Spring Boot #spring #springframework.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootMailSender)   <br>
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr; 
 > :open_file_folder: [my github file - Sending emails with spring boot](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z0_EMAIL_SENDER.jpg)<br>
 
 > [!IMPORTANT] 
@@ -603,6 +641,8 @@ Application / classes                                                           
 <!-- ### ${\textsf{\color{#EC7063}Spring for GraphQL (Un programador nace)}}$ -->
 | Spring for GraphQL | Un programador nace |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 >  :point_right: CRUD with graphQL, Spring and MySQL workbench.  <br>
 > Spring boot version 3.0.6 / Java 17 <br>
 
@@ -610,7 +650,8 @@ Application / classes                                                           
 > :small_orange_diamond: [Tutorial information](https://www.youtube.com/playlist?list=PLr23_YfwEbPTUm-uIAA1DbDqmjtjQtc-O)  <br>
 > :small_blue_diamond: [Respository](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootGraphQL) <br>
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
 > :open_file_folder: [my github file - GraphQL](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z1_APUNTE_GRAPHQL_1.png)  <br>
 
 
@@ -644,7 +685,8 @@ Design patterns ----> Creationals ---->  |- Prototype
 > :small_orange_diamond: [Go to the tutorial information](https://youtu.be/UExwNGhEcZc?si=JikbjmFjAvxK4uDp) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/JASPER) <br>
 
-> [!NOTE]
+> [!CAUTION]
+> :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
 > :open_file_folder: [my github file - Jasper](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
 
 <br>
@@ -721,7 +763,7 @@ Design patterns -----|------- Estructural -------|- Adapter
 
 <br> 
   
-🐌 <b> `MY TRAINING` : </b> Some portfolio projects ... <br>
+🐌 **`MY TRAINING`** :  :diamonds: :diamonds: :diamonds:**SOME PORTFOLIO PROJECTS AND EXAMPLES ...** :diamonds: :diamonds: :diamonds: <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
@@ -729,13 +771,16 @@ Design patterns -----|------- Estructural -------|- Adapter
   <!-- ### ${\textsf{\color{#58D68D}Facturation system + user registration}}$ -->
   | Facturation system + user registration |
   | ------- |
+
+  > :sparkles: **DESCRIPTION:** <br>
   >Full stack web app developed with Angular, Spring Boot y MySql.         <br>
 
   > [!IMPORTANT] 
   >:small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR)              <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-BACKEND)             <br>
   
-  > [!NOTE]
+  > [!CAUTION]
+  > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr; 
   >:open_file_folder: [my github file](https://github.com/AxelCCp/Za1_REGISTRO_USUARIOS-FRONTEND-ANGULAR/blob/master/RESULTADO_FINAL.png) <br>
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-facturacion-ang.PNG)  <br>
@@ -746,13 +791,16 @@ Design patterns -----|------- Estructural -------|- Adapter
   <!-- ### ${\textsf{\color{#58D68D}Microservices with Spring Boot, Spring Cloud and Oauth2}}$ -->
   | Microservices with Spring Boot, Spring Cloud and Oauth2 |
   | ------- |
+
+  > :sparkles: **DESCRIPTION:** <br>
   > :point_right: Full microservices where I implemented: Spring boot, spring IoC, spring data JPA and Hibernate, API REST, spring cloud, Eureka, Rest template, feign, ribbon, hystrix , gateway zuul, spring cloud server config, commons service, spring security oauth2, jwt, Resilience4J, MySql WorkBench, PostgreSql, SpringCloud Sleuth y Zipkin. RabbitMQ. Docker.      <br>
   
   > [!IMPORTANT] 
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_MICROSERVICIOS)            <br>
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za2_SPRING_CLOUD-CONFIG-SERVER)           <br>
 
-  > [!NOTE]
+  > [!CAUTION]
+  > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr; 
   > :open_file_folder: [my github file](https://github.com/AxelCCp/Za2_MICROSERVICIOS/blob/master/RESULTADO%20FINAL.png)       <br> 
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/micro-docker-containers.PNG) <br>
@@ -763,12 +811,15 @@ Design patterns -----|------- Estructural -------|- Adapter
   <!-- ### ${\textsf{\color{#58D68D}Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level)}}$ -->
   | Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level) |
   | ------- |
+
+  > :sparkles: **DESCRIPTION:** <br>
   > :point_right: Student system. Microservices that use a shared MySQL database. Common library projects and a common project with the DAO, Service and Controller layers are used,  with generic programming, so that all microservices can use this common microservice. The communication is done mainly using relations between tables and minority with feign.   <br>
 
   > [!IMPORTANT] 
   > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK)        <br>
 
-  > [!NOTE]
+  > [!CAUTION]
+  > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
   > :open_file_folder: [my github file](https://github.com/AxelCCp/Za3_MICROSERVICIOS_ANGULAR_BACK/blob/master/RESULTADO_FINAL.jpg)    <br>
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/diagram-microservices-1.PNG) <br>
@@ -780,12 +831,15 @@ Design patterns -----|------- Estructural -------|- Adapter
   <!-- ### ${\textsf{\color{#58D68D}Webflux}}$ -->
   | Webflux |
   | ------- |
+
+  > :sparkles: **DESCRIPTION:** <br>
   > :point_right: I'm working on this (incomplete yet). <br>
 
   > [!IMPORTANT]
   >:small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Za5.-WEBFLUX)          <br>
   
-  > [!NOTE]
+  > [!CAUTION]
+  > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
   > :open_file_folder: [my github file](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
     
  <br>
@@ -794,19 +848,23 @@ Design patterns -----|------- Estructural -------|- Adapter
    <!-- ### ${\textsf{\color{#58D68D}Jakarta EE 9 - Purchasing and user management system}}$ -->
    | Jakarta EE 9 - Purchasing and user management system |
    | ------- |
+
+   > :sparkles: **DESCRIPTION:** <br>
    > Developed with Java 17 and Jakarta EE9. This project is built with:  jsp - servlets - http session - filters - listeners - jstl - crud with mySql - jdbc auth - mvc - bootstrap. <br>
    
    > [!IMPORTANT] 
    > :point_right: I'm working on this (incomplete yet).   <br>
    > :small_blue_diamond: [Version 1 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets)          <br>
 
-   > [!NOTE]
+   > [!CAUTION]
+   > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
    > :open_file_folder: [my github file - version 1](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets.png)  <br>
 
    > [!IMPORTANT] 
    > :small_blue_diamond: [Version 2 Backend repository](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/tree/master/my-jsp-servlets-2)          <br>
    
-   > [!NOTE]
+   > [!CAUTION]
+   > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
    > :open_file_folder: [my github file - version 2](https://github.com/AxelCCp/Master-Completo-en-Java-de-cero-a-experto-2022-127-hrs_JAKARTA_EE9/blob/master/README_PROYECT_my-jsp-servlets-2.png) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-compras-jakarta9.PNG) <br>
@@ -818,12 +876,15 @@ Design patterns -----|------- Estructural -------|- Adapter
   <!-- ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$ -->
   | React practices (Only frontend) |
   | ------- |
-  > :point_right: Now I'm working on this... <br>
+
+  > :sparkles: **DESCRIPTION:** <br>
+  > :point_right: Frontend aplications developed with react 2024. <br>
 
   > [!IMPORTANT] 
   > :small_blue_diamond: [Frontend repository](https://github.com/AxelCCp/Rect-practices-only-frontend) <br>
   
-  > [!NOTE]
+  > [!CAUTION]
+  > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
   > :open_file_folder: [my github file - react practices](https://github.com/AxelCCp/Rect-practices-only-frontend/blob/master/ReadmePracticesFrontReact.jpg) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
@@ -835,6 +896,7 @@ Design patterns -----|------- Estructural -------|- Adapter
   | Spring data jpa: mastering table relationships |
   | ------- |
 
+  > :sparkles: **DESCRIPTION:** <br>
   > :point_right: Developed with Java 17 and Spring boot 3. In this project I developed all the relationships between tables that can exist in a business project. The project is an Api restful which builds the database from the code. 
   > Include: OneToOne, OneToMany, ManyToOne, ManyToMany, unidirecctional and bidirectional, differents cascade options, MySql workbench, relationships with and without intermediate tables, implementations of equals()
   > and hashcode() methods for the update of objects with relationships between tables, api restful, postman, building of complex objects with json. @Query with jpql. <br>
@@ -907,13 +969,14 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
   | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 1 - CONTEXT/PROVIDER |
   | ------- | ------- |
-  
+
+  > :sparkles: **DESCRIPTION:** <br>
   > :point_right: Developed with:   <br>
   > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFul, React, react-bootstrap, bootstrap and css. <br>
-  
+  >
   > :point_right: About React:  <br>
   > * The project contains different layers, components, technologies, here I used useEffect, useState, reducers, hooks, Router, Navlink, Context, Provider, Services, Axios and Interceptors. <br>
-
+  >
   > :point_right: Features:   <br>
   > * User role system.  <br>
   > * Page restriction based on user role.  <br>
@@ -925,7 +988,8 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   > :small_blue_diamond: [React repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app-react) <br>
   > :small_blue_diamond: [Spring repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app) <br>
 
-  > [!NOTE]
+  > [!CAUTION]
+  > :ghost: **`MY EXTERNAL DOCUMENTATION`** :space_invader: &rarr;
   > :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/4pz92onrui3ez383bi50u/NOTES_REACT_SPRING_CONTEXT_2025.pdf?rlkey=hov14l1dm25yhjxvgo1o2gwbi&st=a9k1vjyq&dl=0) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/react_spring_2025.JPG) <br>
@@ -938,12 +1002,13 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   | React - Redux - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 2 - REDUX |
   | ------- | ------ |
 
+  > :sparkles: **DESCRIPTION:** <br>
   > :point_right: Developed with:   <br>
   > * Spring boot 3, Java 21, MySQL, Spring security, JWT, Backend validations, Api RestFul, React, REDUX,  react-bootstrap, bootstrap and css. <br>
-  
+  >
   > :point_right: About React:  <br>
   > * The project contains different layers, components, technologies, here I used useEffect, useState, reducers, hooks, Router, Navlink, Context, Provider, Services, Axios and Interceptors. <br>
-
+  >
   > :point_right: Features:   <br>
   > * User role system.  <br>
   > * Page restriction based on user role.  <br>
@@ -955,7 +1020,8 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   > :small_blue_diamond: [React repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app-react-v2) <br>
   > :small_blue_diamond: [Spring repository](https://github.com/AxelCCp/REACT_SPRING_MYSQL_2025/tree/master/app-v2) <br>
   
-  > [!NOTE]
+  > [!CAUTION]
+  > :ghost: **`MY EXTERNAL DOCUMENTATION`** :space_invader: &rarr;
   > :cloud: [my dropbox file](https://www.dropbox.com/scl/fi/0z3dzend5d23mrgbc9yj8/NOTES_REACT_SPRING_REDUX_2025.pdf?rlkey=92k9dd3vyx8uwqmnipkv531uz&st=sm5s2ikn&dl=0) <br>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/react-spring-2025-redux.JPG) <br>  
@@ -979,6 +1045,8 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 <!-- ### ${\textsf{\color{#AF7AC5}Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
 | Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS | `40hrs` |
 | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
 > :point_right: This course is not complete yet, I'm waiting for the course update. <br>
 
 > [!IMPORTANT] 
