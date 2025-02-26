@@ -1040,7 +1040,7 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 <br> 
   
-:turtle: <b> `MY TRAINING` : </b> What I'm doing now?   :point_right:(In this section I show what I am learning now or courses that I have not yet finished :sleepy: :sleepy: :sleepy:):point_left:
+:turtle: **`MY TRAINING` :**  :diamonds: :diamonds: :diamonds: **In this section I show courses that I never finish** :sleepy: :sleepy: :sleepy: :diamonds: :diamonds: :diamonds:
 
 <br>
 
