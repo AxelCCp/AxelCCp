@@ -1034,6 +1034,26 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 
 
+
+
+  | **`NASA open APIs`**  | Angular - Spring - MySQL - Spring security - jwt : FullStack DEMO project 2025 | VERSION 1 |
+  | ------- | ------ | ------ |
+
+  > :sparkles: **DESCRIPTION:** <br>
+  > Here I work with the NASA open APIs.  With Asteroids - NeoWs [Near Earth Object Web Service]. <br>
+  > [NASA open APIs](https://api.nasa.gov/)
+
+  > [!WARNING]
+  > UNDER CONSTRUCTION :construction: :construction: :construction: :construction: :construction:
+
+  > [!IMPORTANT] 
+  > :small_blue_diamond: [Repository](https://github.com/AxelCCp/My_Asteroids-NeoWs_NASA) <br>
+
+<br>
+  
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------
