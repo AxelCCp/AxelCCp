@@ -968,7 +968,7 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 <br>
 
-  | React - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 1 - CONTEXT/PROVIDER |
+  | React - Spring - MySQL - Spring security - Jwt : FullStack DEMO project 2025 | VERSION 1 - CONTEXT/PROVIDER |
   | ------- | ------- |
 
   > :sparkles: **DESCRIPTION:** <br>
@@ -1001,7 +1001,7 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 <br>
 
 
-  | React - Redux - Spring - MySQL - Spring security - Oauth2 : FullStack DEMO project 2025 | VERSION 2 - REDUX |
+  | React - Redux - Spring - MySQL - Spring security - Jwt : FullStack DEMO project 2025 | VERSION 2 - REDUX |
   | ------- | ------ |
 
   > :sparkles: **DESCRIPTION:** <br>
@@ -1048,6 +1048,8 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
   > [!IMPORTANT] 
   > :small_blue_diamond: [Repository](https://github.com/AxelCCp/My_Asteroids-NeoWs_NASA) <br>
+
+  ![](https://github.com/AxelCCp/images-my-git/blob/master/angular-spring-portfolio-2025.png) <br>
 
 <br>
   
