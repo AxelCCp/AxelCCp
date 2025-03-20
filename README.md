@@ -181,7 +181,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | ------- | ------- | ------- |
 
 > :sparkles: **DESCRIPTION:** <br>
-> Java 21. UPDATING <br>
+> Java 21. Spring boot 3, Eureka, Gateway, LoadBalancer, Resilience4J, Rest, OAuth 2.1, Docker and AWS EC2, Feign, WebClient, etc. <br>
 
 > [!IMPORTANT]
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
