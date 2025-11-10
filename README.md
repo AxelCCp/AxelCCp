@@ -389,6 +389,17 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <br> 
 
+`Update` | Complete Guide to Docker and Kubernetes with Spring Boot - 2025 | `+33hrs` |
+| ------- | ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
+> Build microservices with Spring Boot, Docker, Kubernetes, Spring Cloud, LoadBalancer, Security JWT, Amazon AWS ECS y EKS. <br>
+
+> [!IMPORTANT]
+> :small_blue_diamond: [My development repository, backend, completed](https://github.com/AxelCCp/docker_and_kubernetes_2025)    <br>
+
+<br>
+
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br> -->
 <!-- ### ${\textsf{\color{#AF7AC5}React: Creating Full Stack Webapp with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
