@@ -112,9 +112,24 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 --------------------------------------------------------------------------------------------------------------------------------
 
 <br> 
-  
-🍄 **`MY TRAINING` :**  :diamonds: :diamonds: :diamonds: **I HAVE COMPLETED TWO STUDY PROGRAMS FROM `Coursera`** :diamonds: :diamonds: :diamonds:
 
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
+
+<div align="center">
+  🍄 MY TRAINING: 
+  <br>
+  I have completed two study programs from coursera
+</div>
+
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
 
 <br> 
         
@@ -156,9 +171,24 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 --------------------------------------------------------------------------------------------------------------------------------
 
 <br> 
-  
-🐰  **`MY TRAINING`** :  :diamonds: :diamonds: :diamonds: **THESE ARE MY REPOSITORIES OF COURSES THAT I HAVE DONE ON `Udemy`** :diamonds: :diamonds: :diamonds:  <br/> <br/>
- 
+
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
+<div align="center">
+  🐰 MY TRAINING: 
+  <br>
+  These are my repositories of courses that I have done on Udemy
+</div>
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
+
+<br>
 
  
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br> -->
@@ -459,8 +489,24 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 --------------------------------------------------------------------------------------------------------------------------------
 
 <br> 
-  
-🐘 **`MY TRAINING`** : :diamonds: :diamonds: :diamonds: **THESE ARE MY REPOSITORIES OF COURSES THAT I HAVE DONE ON `YouTube`** :diamonds: :diamonds: :diamonds:
+
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
+
+<div align="center">
+  🐘 MY TRAINING: 
+  <br>
+  These are my repositories of courses that I have done in YouTube
+</div>
+
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
 
 
 
@@ -789,7 +835,23 @@ Design patterns -----|------- Estructural -------|- Adapter
 
 <br> 
   
-🐌 **`MY TRAINING`** :  :diamonds: :diamonds: :diamonds:**SOME PORTFOLIO PROJECTS AND EXAMPLES ...** :diamonds: :diamonds: :diamonds: <br>
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
+
+<div align="center">
+  🐌 MY TRAINING: 
+  <br>
+  Some portfolio projects
+</div>
+
+<div align="center" width="50" height="50">
+<br>
+<img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+<br>
+</div>
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
@@ -1086,8 +1148,24 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 --------------------------------------------------------------------------------------------------------------------------------
 
 <br> 
-  
-:turtle: **`MY TRAINING` :**  :diamonds: :diamonds: :diamonds: **In this section I show courses that I never finish** :sleepy: :sleepy: :sleepy: :diamonds: :diamonds: :diamonds:
+
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
+
+<div align="center">
+  :turtle: MY TRAINING: 
+  <br>
+  In this section I show courses that I never finish :sleepy: :sleepy: :sleepy:
+</div>
+
+<div align="center" width="50" height="50">
+  <br>
+  <img src="https://github.com/AxelCCp/images-my-git/blob/master/arrow_18183590.png" alt="Texto alternativo" width="130" height="130">
+  <br>
+</div>
 
 <br>
 
