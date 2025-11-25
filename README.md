@@ -195,8 +195,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <br>  
 
  
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Microservices with Spring Boot and Spring Cloud Netflix Eureka}}$   ${\textsf{\color{#5DADE2}19hrs}}$ -->
+|Udemy|
+|----|
+
+
 | Microservices with Spring Boot and Spring Cloud Netflix Eureka | `19hrs` |
 | ------- | ------- |
 
@@ -207,11 +209,15 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/)     <br>
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/MicroserviciosUdemy3)     <br>
 
+
+
 <br>
 <br>  
 <br>  
 
 
+|Udemy|
+|----|
 
 | `Update` | Microservices with Spring Boot and Spring Cloud Netflix Eureka 2025 | `+28.5hrs` |  
 | ------- | ------- | ------- |
@@ -224,14 +230,15 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend - Miicroservices](https://github.com/AxelCCp/Microservices_springboot_2025)     <br>
 > :small_blue_diamond: [My development repository, backend - Spring cloud config](https://github.com/AxelCCp/spring-cloud-config_ms-items)     <br>
 
+
 <br>
 <br>  
 <br>  
 
 
+|Udemy|
+|----|
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux.PNG)  <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Reactive programming with Spring boot 2 and Spring webFlux}}$   ${\textsf{\color{#5DADE2}11hrs}}$ -->
 | Reactive programming with Spring boot 2 and Spring webFlux | `11hrs` |
 | ------- | ------- |
 
@@ -242,12 +249,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_orange_diamond: [Go to the course information](https://www.udemy.com/course/programacion-reactiva-con-spring-webflux-reactor/)    <br>
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Programaci-nReactiva_SpringBoot2_Spring-WebFlux)   <br>  
 
+
+
 <br>
+<br>  
+<br>  
 
 
+|Udemy|
+|----|
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-angular.PNG)<br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Spring Framework 5 and Spring boot 2 zero to expert 2022}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
 | Spring Framework 5 and Spring boot 2 zero to expert 2022 | `40hrs` |
 | ------- | ------- |
 
@@ -259,12 +270,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
 > :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/ANGULAR_Spring-Framework-5-Spring-Boot-2-desde-cero-a-experto-2022)   <br> 
 
+
+
 <br>
+<br>  
+<br>  
 
                                                     
+|Udemy|
+|----|
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring6-springboot3-course.PNG) <br> -->
-<!-- ### ${\textsf{\color{#F7DC6F}Update:}}$  ${\textsf{\color{#AF7AC5}Spring Framework 6 and Spring Boot 3 from zero to expert 2024}}$   ${\textsf{\color{#5DADE2}+41hrs}}$ -->
 `Update` | Spring Framework 6 and Spring Boot 3 from zero to expert 2024 | `+41hrs` |
 | ------- | ------- | ------- |
 
@@ -276,11 +291,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Spring-Framework-6-Spring-Boot-3-desde-cero-a-experto-2024)   <br>
 
 
+
 <br> 
+<br>  
+<br>  
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/appweb-spring-ang.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Angular and Spring Boot: Creating a web app full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$ -->
+
+|Udemy|
+|----|
+
 | Angular and Spring Boot: Creating a web app full stack | `24hrs` |
 | ------- | ------- |
 
@@ -308,8 +328,12 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 
 <br>
+<br>  
+<br>  
 
 
+|Udemy|
+|----|
 
 `Update` | Angular & Spring Boot: Creating a web app full stack - 2024 | `+30hrs` |
 | ------- | ------- | ------- |
@@ -333,12 +357,18 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 ![](https://github.com/AxelCCp/images-my-git/blob/master/angular17imgs.png)
 
+
+
+
 <br>
+<br>  
+<br>  
 
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-2.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Microservices with Spring Cloud Eureka and Angular Full stack}}$   ${\textsf{\color{#5DADE2}24hrs}}$ -->
+|Udemy|
+|----|
+
 | Microservices with Spring Cloud Eureka and Angular Full stack | `24hrs` |
 | ------- | ------- |
 
@@ -353,11 +383,14 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 
 <br>
+<br>  
+<br>  
 
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-master.PNG)<br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Complete java master from zero to expert 2023}}$   ${\textsf{\color{#5DADE2}127hrs}}$ -->
+|Udemy|
+|----|
+
 | Complete java master from zero to expert 2023 | `127hrs` |
 | ------- | ------- |
 
@@ -381,12 +414,18 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :cloud: [my dropbox file - section 72](https://www.dropbox.com/scl/fi/zyzi4kbgmvmwi2z5y8b7b/Z_NOTES_SECCIONES_72_WILDFLY_SOAP.pdf?rlkey=eva86gw474s2hj4xekssx8ff4&st=7t0ffkt3&dl=0) <br>
 > :cloud: [my dropbox file - section 73](https://www.dropbox.com/scl/fi/2krmgin35yn313xx9indt/Z_NOTES_SECCIONES_73_WILDFLY_JAXRS.pdf?rlkey=a9ki9vhgvcfeufr9rr30mxwlt&st=egtrnppj&dl=0) <br>
 > :cloud: [my dropbox file - sections 74-78](https://www.dropbox.com/scl/fi/4z1kdsuwm2h8d4fe5e18r/Z_NOTES_SECCIONES_74-75-76-77-78_JAAS.pdf?rlkey=eojc67jjhocwa3le5j1wrbh7n&st=caze8t0b&dl=0) <br>
+
+
+
+
 <br>
+<br>  
+<br>  
 
 
+|Udemy|
+|----|
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/docker-aws-kube.PNG)<br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Complete Guide to Docker and Kubernetes with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}33hrs}}$ -->
 | Complete Guide to Docker and Kubernetes with Spring Boot 2023 | `33hrs` |
 | ------- | ------- |
 
@@ -426,6 +465,13 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 
 <br> 
+<br>  
+<br> 
+
+
+
+|Udemy|
+|----|
 
 `Update` | Complete Guide to Docker and Kubernetes with Spring Boot - 2025 | `+33hrs` |
 | ------- | ------- | ------- |
@@ -436,11 +482,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > [!IMPORTANT]
 > :small_blue_diamond: [My development repository, backend, completed](https://github.com/AxelCCp/docker_and_kubernetes_2025)    <br>
 
+
 <br>
+<br>  
+<br>  
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactSpring.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}React: Creating Full Stack Webapp with Spring Boot 2023}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
+
+|Udemy|
+|----|
+
 | React: Creating Full Stack Webapp with Spring Boot 2024 | `40hrs` |
 | ------- | ------- |
 
@@ -452,8 +503,15 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, frontend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_V1) <br>
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/React-Creando-webapp-Full-Stack-con-Spring-Boot-2023_BACK_V1)   <br> 
 
-<br>
 
+
+<br>
+<br>  
+<br>  
+
+
+|Udemy|
+|----|
 
 | NodeJS: from zero to expert | `37hrs` |
 | ------- | ------- |
@@ -466,8 +524,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/nodejs-de-cero-a-experto) <br>
 > :small_blue_diamond: [My development repository, backend, webhook](https://github.com/AxelCCp/nodejs-de-cero-a-experto-webhooks) <br>
 
-<br>
 
+
+<br>
+<br>  
+<br>  
+
+
+
+|Udemy|
+|----|
 
 | Complete Guide of JUnit & Mockito - include Spring Boot Test | `15hrs` |
 | ------- | ------- |
@@ -476,7 +542,15 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/?couponCode=BFCPSALE24) <br>
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/junit5_y_mockito) <br>
 
+
+
 <br>
+<br>  
+<br>  
+
+
+|Udemy|
+|----|
 
 | Java Spring boot Microservices eCommerce project masterclass | `76hrs` |
 | ------- | ------- |
@@ -491,6 +565,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 :construction: :construction: :construction: :construction:
 
 <br>
+<br>  
+<br>  
 
 --------------------------------------------------------------------------------------------------------------------------------
 
