@@ -132,6 +132,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 </div>
 
 <br> 
+<br>  
         
  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br> -->
  <!-- ### ${\textsf{\color{#AAB7B8}Study program: Grow with Google}}$ -->
@@ -147,7 +148,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
    5.-IT Security: Defense against the digital dark arts.
 
 
-<br>   
+<br>  
+<br>  
   
   
    
@@ -189,6 +191,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 </div>
 
 <br>
+<br>  
+<br>  
 
  
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microservicios-1.PNG) <br> -->
@@ -204,6 +208,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/MicroserviciosUdemy3)     <br>
 
 <br>
+<br>  
+<br>  
 
 
 
@@ -219,6 +225,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My development repository, backend - Spring cloud config](https://github.com/AxelCCp/spring-cloud-config_ms-items)     <br>
 
 <br>
+<br>  
+<br>  
 
 
 
