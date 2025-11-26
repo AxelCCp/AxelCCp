@@ -598,6 +598,25 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <br>  
 <br>  
 
+
+|Udemy|
+|----|
+
+| Complete Linux Training Course to Get Your Dream IT Job 2025 | `42hrs` |
+| ------- | ------- |
+
+:construction: :construction: :construction:
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=CP251118G4) <br>
+> :small_blue_diamond: [My linux notes](https://github.com/AxelCCp/Complete-linux-training-course-2025) <br>
+
+
+:construction: :construction: :construction: :construction:
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------
