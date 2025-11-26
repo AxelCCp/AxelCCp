@@ -590,7 +590,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > [!IMPORTANT]
 > :small_orange_diamond: [Go to to the course information](www.udemy.com/course/java-spring-boot-microservices-with-spring-cloud-k8s-docker/) <br>
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/java-spring-microservices-masterclass) <br>
-> :small_blue_diamond: [Spring cloud config - configurations](https://github.com/AxelCCp/spring-cloud-config-configurations) <br>
+> :small_blue_diamond: [Spring cloud config - configurations - PRIVATE ](https://github.com/AxelCCp/spring-cloud-config-configurations) <br>
 
 :construction: :construction: :construction: :construction:
 
