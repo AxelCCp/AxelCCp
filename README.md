@@ -3,9 +3,15 @@
 ----------------------------------------
 I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈️🌵🌴🌶️🌮 and I built this profile so you can review my main skills and knowledge about programming. Here you will find documentation files, images about the code and project deployments, and I try to show most of my repositories in an orderly manner. 
 
--------------------------------------------------------------------------------------------------------------------------------------
-:mage_man: `SYMBOLOGY OF MY REPOSITORY` ✨ <br>
+<br>
+<br>
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+<br>
+<br>
+
+:mage_man: `SYMBOLOGY OF MY REPOSITORY` ✨ <br>
 
 
 | SYMBOL  | CONTENT |
@@ -19,35 +25,44 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 | :point_right: | `COMMENTS`. |
 | `hrs` | `NUMBER OF HOURS OF VIDEO OF EACH COURSE`. |
 
-
+<br>
 <br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+<br>
+<br>
+
+
 ![](https://github.com/AxelCCp/images-my-git/blob/master/my2image.jpeg)
+
+<br>
+<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
   
-  <!--
-  🐇 <b>CONTACT INFORMATION: </b><br/>
-  whatsapp: +569 371 65 626 (Chile) <br>
-  whatsapp: +52 55 5192 9370 (México) <br>
 
-------------------------------------------------------------------------------------------------------------------------------------- -->
+<br>
+<br>
 
   🐳 <b>`LINKS` :</b> <br><br>
   :cloud: [My dockerhub profile](https://hub.docker.com/u/4xe1)
+
+
+<br>
+<br>
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
-:octocat: <b>`SKILLS` :</b> <br>
+<br>
+<br>
 
-:point_right:  Within my profile you will find at least one repository where I develop each of these skills. Check the links in this readme that point to different repositories and PDF notes about them. <br>
+:octocat: <b>`SKILLS RESUME` :</b> <br>
 
 <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/skills.PNG) -->
 
 ```
-Programing Languages  ---------> |- Java V. 7, 8, 11, 17.  ---------->  |- Java SE
+Programing Languages  ---------> |- Java V. 7, 8, 11, 17, 21  ---------->  |- Java SE
                                  |                                      |- Jakarta EE 9 
                                  |                                      |- (EJB, JAX-RS, JAX-WS, JAAS)
                                  |
@@ -105,13 +120,15 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 ```
 
-
+<br>
+<br>
       
 --------------------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<br> 
+<br>
+<br>
 
 <div align="center" width="50" height="50">
   <br>
@@ -133,9 +150,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <br> 
 <br>  
+
+|Coursera|
+|----|
         
- <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zgoogle.PNG)  <br> -->
- <!-- ### ${\textsf{\color{#AAB7B8}Study program: Grow with Google}}$ -->
  | Study program: Grow with Google |
  | ------- |
  
@@ -150,11 +168,12 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 <br>  
 <br>  
+<br>
   
   
-   
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/zpython.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AAB7B8}Universidad Austral (Argentina)}}$ -->
+|Coursera|
+|----|   
+
 | Universidad Austral (Argentina) |
 | ------- |
 
@@ -166,6 +185,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
   4.-Management of databases with Python<br/>
   &nbsp;&nbsp;<i>#with Visual Studio Code.</i>
               
+<br> 
 <br> 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -572,7 +592,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<br> 
+<br>
+<br>
 
 <div align="center" width="50" height="50">
   <br>
@@ -595,9 +616,13 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 
 <br>
-  
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-lucas-moy.PNG) <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Complete Java fullstack course with Spring (ATL Academy)}}$ -->
+<br>
+<br>
+
+
+|YouTube|
+|----|
+
 | Complete Java fullstack course with Spring | ATL Academy |
 | ------- | ------- |
 
@@ -605,11 +630,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_orange_diamond: [Go to the course information](https://youtu.be/7vHzVN0EiQc) <br>
 > :small_blue_diamond: [My development repository](https://github.com/AxelCCp/Curso_Java_Fullstack_Completo-SpringBoot-Hibernate-JWT-API-Rest)    
    
-   <br>
+
+
+<br>
+<br>
+<br>
    
-   
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-pildoras.PNG) <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Spring framework and Spring boot (Píldoras Informáticas)}}$ -->
+
+|YouTube|
+|----|
+
 | Spring framework and Spring boot | Píldoras Informáticas |
 | ------- | ------- |
 
@@ -629,12 +659,17 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [Spring-project, CRUD on database with mySql.](https://github.com/AxelCCp/7-PROYECTO-GESTI-N-CRUD-SPRING-HIBERNATE-)        <br>
 > :small_blue_diamond: [Spring-review.](https://github.com/AxelCCp/RepasoSpringFramework-)           <br>
   
+
   
-   <br>
+<br>
+<br>
+<br>
   
-  
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras.PNG) <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Java 8 (Píldoras Informáticas)}}$ -->
+
+
+|YouTube|
+|----|
+
 | Java 8 | Píldoras Informáticas |
 | ------- | ------- |
 
@@ -661,12 +696,17 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr; 
 > :open_file_folder: [my github file - jdbc - swing - etc](https://github.com/AxelCCp/JAVA10-PILDORAS-INFORMATICAS/blob/master/REPASO_JDBC_JAVA_PILDORAS_INFORMATICAS.jpg)    <br>
       
+
       
- <br>
+<br>
+<br>
+<br>
+
       
-      
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/sql-pildoras.PNG)  <br> -->
-<!-- ### ${\textsf{\color{#EC7063}SQL (Píldoras Informáticas)}}$ -->
+
+|YouTube|
+|----|
+
 | SQL | Píldoras Informáticas |
 | ------- | ------- |
 > [!IMPORTANT]  
@@ -674,10 +714,17 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/SQL-CursoSQL-Pildoras-Informaticas/blob/master/CursoSqlPildorasInformaticas.txt)<br>
 
 
+
+
 <br>
-  
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java-pildoras-repa.PNG)<br> -->
-<!-- ### ${\textsf{\color{#EC7063}Java 8 - review (Píldoras Informáticas)}}$ -->
+<br>
+<br>
+
+
+
+|YouTube|
+|----|
+
 | Java 8 - review | Píldoras Informáticas |
 | ------- | ------- |
 
@@ -688,11 +735,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [My repository](https://github.com/AxelCCp/Respaso-Java-8-EE)
 
 
+
+<br>
+<br>
 <br>
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/python-pildoras.PNG)  <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Python (Píldoras Informáticas)}}$ -->
+
+|YouTube|
+|----|
+
 | Python | Píldoras Informáticas |
 | ------- | ------- |
 
@@ -704,11 +756,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/PYTHON)
 
  
+
+<br>
+<br>
 <br>
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-batch.PNG)  <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Spring Batch (Un programador nace)}}$ -->
+
+|YouTube|
+|----|
+
 | Spring Batch | Un programador nace |
 | ------- | ------- |
 
@@ -724,10 +781,17 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Batch)
 
  
+
+<br>
+<br>
 <br>
 
-<!-- ![Spring Security](https://github.com/AxelCCp/images-my-git/blob/master/spring-security.PNG)<br> -->
-<!-- ### ${\textsf{\color{#EC7063}Spring Security (Un programador nace)}}$ -->
+
+
+
+|YouTube|
+|----|
+
 | Spring Security | Un programador nace |
 | ------- | ------- |
 
@@ -741,11 +805,16 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLr23_YfwEbPRCK4IbemQGwYdgSwfd2aZu) <br>
 > :small_blue_diamond: [Backend repository](https://github.com/AxelCCp/Spring-Security) <br>
 
+
+
+<br>
+<br>
 <br>
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-framework-practices.PNG)  <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Spring Framework practices (Un programador nace)}}$ -->
+|YouTube|
+|----|
+
 | Spring Framework practices | Un programador nace |
 | ------- | ------- |
 
@@ -762,7 +831,8 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 > [!IMPORTANT] 
 > :small_blue_diamond: [My repository - How to consume SOAP services with Spring Boot - Maven #soap #spring.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootSoap) <br> 
-<!--![](https://github.com/AxelCCp/images-my-git/blob/master/soap_y_rest.PNG) <br> -->
+
+
 ```                                     
  ---> Marshalling ------------------------------------->    XML  <-------->  SOAP \
  |                                                         /                       \
@@ -772,6 +842,7 @@ Application / classes                                                           
  |                                                           \                     /
  ---> Serialization  -------------------------------------->  JSON  <------->  REST
 ```
+
 
 > [!IMPORTANT]  
 > :small_blue_diamond: [My repository - Master creating REST APIs with Spring Boot.](https://github.com/AxelCCp/Practicas-Spring-Framework/tree/master/SpringBootRest)  <br>
@@ -790,11 +861,16 @@ Application / classes                                                           
 > :small_blue_diamond: Spring MVC and Google reCAPTCHA: Fight bots and keep your site safe.  <br>
 
 
+
+<br>
+<br>
 <br>
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/spring-graphql-1.PNG) <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Spring for GraphQL (Un programador nace)}}$ -->
+
+|YouTube|
+|----|
+
 | Spring for GraphQL | Un programador nace |
 | ------- | ------- |
 
@@ -811,10 +887,17 @@ Application / classes                                                           
 > :open_file_folder: [my github file - GraphQL](https://github.com/AxelCCp/Practicas-Spring-Framework/blob/master/Z1_APUNTE_GRAPHQL_1.png)  <br>
 
 
+
+<br>
+<br>
 <br>
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/patrones-diseño.PNG) <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Design patterns (Un programador nace)}}$ -->
+
+
+
+|YouTube|
+|----|
+
 | Design patterns | Un programador nace |
 | ------- | ------- |
 
@@ -822,7 +905,7 @@ Application / classes                                                           
 > :small_orange_diamond: [Go to the tutorial information](https://www.youtube.com/playlist?list=PLr23_YfwEbPT6T8RaDDUli-n1TrN51hz1)  <br>
 > :small_blue_diamond: [Design patterns repositories](https://github.com/AxelCCp/patrones-de-diseno) <br> 
 
-<!--![](https://github.com/AxelCCp/images-my-git/blob/master/patrones_esquema.PNG) <br>-->
+
 ```
                                          |- Singleton
 Design patterns ----> Creationals ---->  |- Prototype      
@@ -830,10 +913,17 @@ Design patterns ----> Creationals ---->  |- Prototype
                                          |- Abstract factory                     
 ````
 
+
+
+<br>
+<br>
 <br>
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/JASPER.PNG) <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Spring Boot - Jasper Report (Un programador nace)}}$ -->
+
+
+|YouTube|
+|----|
+
 | Spring Boot - Jasper Report | Un programador nace |
 | ------- | ------- |
 
@@ -845,10 +935,17 @@ Design patterns ----> Creationals ---->  |- Prototype
 > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
 > :open_file_folder: [my github file - Jasper](https://github.com/AxelCCp/JASPER/blob/master/JASPER-README.png) <br>
 
+
+
+<br>
+<br>
 <br>
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/apache-poi.PNG) <br> -->
-<!-- ### ${\textsf{\color{#EC7063}Apache POI (Un programador nace)}}$ -->
+
+
+|YouTube|
+|----|
+
 | Apache POI | Un programador nace |
 | ------- | ------- |
 
@@ -856,10 +953,16 @@ Design patterns ----> Creationals ---->  |- Prototype
 > :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLr23_YfwEbPQ6LlBhef5D18YT-IPD1n7y) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/apache-poi) <br>
 
+
+
+<br>
+<br>
 <br>
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/labelPattersDesignLuigi.PNG) -->
-<!-- ### ${\textsf{\color{#EC7063}Design patterns (Luigi Code)}}$ -->
+
+|YouTube|
+|----|
+
 | Design patterns | Luigi Code |
 | ------- | ------- |
 
@@ -867,7 +970,8 @@ Design patterns ----> Creationals ---->  |- Prototype
 > :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PL4bT56Uw3S4x1_IhP0kQZ1mszuLvoNMJF) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Patrones-de-diseno-Luigi-Code) <br>
 
-<!--![](https://github.com/AxelCCp/images-my-git/blob/master/designPatternsLuigi.PNG)-->
+
+
 
 ```
                      |------- Creational --------|- Factory
@@ -900,10 +1004,16 @@ Design patterns -----|------- Estructural -------|- Adapter
                                                  |- Interpreter                    
 ```
 
+
+
+<br>
+<br>
 <br>
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/prog-concurrente.PNG) -->
-<!-- ### ${\textsf{\color{#EC7063}Learn concurrent programming (Empieza a programar) }}$ -->
+
+|YouTube|
+|----|
+
 | Learn concurrent programming | Empieza a programar |
 | ------- | ------- |
 
@@ -911,13 +1021,24 @@ Design patterns -----|------- Estructural -------|- Adapter
 > :small_orange_diamond: [Go to the course information](https://www.youtube.com/playlist?list=PLw8RQJQ8K1ySGcb3ZP66peK4Za0LKf728) <br>
 > :small_blue_diamond: [Repository](https://github.com/AxelCCp/Aprender-programacion-concurrente-en-java) <br>
 
+
+
+<br>
+<br>
 <br>
 
---------------------------------------------------------------------------------------------------------------------------------
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<br> 
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+<br>
+<br>
+<br>
+
+
   
 <div align="center" width="50" height="50">
   <br>
@@ -939,8 +1060,17 @@ Design patterns -----|------- Estructural -------|- Adapter
   
   ![](https://github.com/AxelCCp/images-my-git/blob/master/cod.PNG) <br>
  
-  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/fact-sist.PNG) <br> -->
-  <!-- ### ${\textsf{\color{#58D68D}Facturation system + user registration}}$ -->
+
+
+<br>
+<br>
+<br>
+
+
+
+|Portfolio|
+|----|
+
   | Facturation system + user registration |
   | ------- |
 
@@ -957,10 +1087,17 @@ Design patterns -----|------- Estructural -------|- Adapter
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-facturacion-ang.PNG)  <br>
  
-  <br>
+
+
+<br>
+<br>
+<br>
+
+
+
+  |Portfolio|
+  |----|
   
-  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv1.PNG) <br> -->
-  <!-- ### ${\textsf{\color{#58D68D}Microservices with Spring Boot, Spring Cloud and Oauth2}}$ -->
   | Microservices with Spring Boot, Spring Cloud and Oauth2 |
   | ------- |
 
@@ -977,10 +1114,17 @@ Design patterns -----|------- Estructural -------|- Adapter
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/micro-docker-containers.PNG) <br>
 
-  <br>
 
-  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/microserv2.PNG) <br> -->
-  <!-- ### ${\textsf{\color{#58D68D}Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level)}}$ -->
+
+<br>
+<br>
+<br>
+
+
+
+|Portfolio|
+|----|
+  
   | Microservices with Spring Boot and Spring Cloud (relationships between microservices and tables, pro level) |
   | ------- |
 
@@ -996,11 +1140,17 @@ Design patterns -----|------- Estructural -------|- Adapter
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/diagram-microservices-1.PNG) <br>
   
+
    
-   <br>
+<br>
+<br>
+<br>
    
-  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/webflux-portf.PNG) <br> -->
-  <!-- ### ${\textsf{\color{#58D68D}Webflux}}$ -->
+
+
+|Portfolio|
+|----|
+  
   | Webflux |
   | ------- |
 
@@ -1014,10 +1164,19 @@ Design patterns -----|------- Estructural -------|- Adapter
   > :ghost: **`MY GITHUB DOCUMENTATION`** :space_invader: &rarr;
   > :open_file_folder: [my github file](https://github.com/AxelCCp/Za5.-WEBFLUX/blob/master/A_ms-webflux-users-server/1.-RESULTADO_FINAL_CONTRAPRESION.png)</b>  <br>
     
+
+
+
  <br>
- 
-   <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/jakartaportf.PNG) <br> -->
-   <!-- ### ${\textsf{\color{#58D68D}Jakarta EE 9 - Purchasing and user management system}}$ -->
+<br>
+<br>
+
+
+
+
+|Portfolio|
+|----| 
+
    | Jakarta EE 9 - Purchasing and user management system |
    | ------- |
 
@@ -1042,10 +1201,18 @@ Design patterns -----|------- Estructural -------|- Adapter
   ![](https://github.com/AxelCCp/images-my-git/blob/master/sistema-compras-jakarta9.PNG) <br>
     
 
+
+
+<br>
+<br>
 <br>
 
-  <!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFront.PNG) <br> -->
-  <!-- ### ${\textsf{\color{#58D68D}React practices (Only frontend)}}$ -->
+
+
+|Portfolio|
+|----|
+
+ 
   | React practices (Only frontend) |
   | ------- |
 
@@ -1062,8 +1229,16 @@ Design patterns -----|------- Estructural -------|- Adapter
   ![](https://github.com/AxelCCp/images-my-git/blob/master/reactPracticesFrontFoto.PNG) <br>
 
 
-<br> 
 
+
+<br>
+<br>
+<br>
+
+
+
+|Portfolio|
+|----|
 
   | Spring data jpa: mastering table relationships |
   | ------- |
@@ -1138,6 +1313,13 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 
 <br>
+<br>
+<br>
+
+
+
+|Portfolio|
+|----|
 
   | React - Spring - MySQL - Spring security - Jwt : FullStack DEMO project 2025 | VERSION 1 - CONTEXT/PROVIDER |
   | ------- | ------- |
@@ -1169,8 +1351,15 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 
 
+
+
+<br>
+<br>
 <br>
 
+
+|Portfolio|
+|----|
 
   | React - Redux - Spring - MySQL - Spring security - Jwt : FullStack DEMO project 2025 | VERSION 2 - REDUX |
   | ------- | ------ |
@@ -1201,11 +1390,17 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   ![](https://github.com/AxelCCp/images-my-git/blob/master/react-spring-2025-redux.JPG) <br>  
 
 
-<br> 
 
 
 
+<br>
+<br>
+<br>
 
+
+
+|Portfolio|
+|----|
 
   | **`NASA open APIs`**  | Angular - Spring - MySQL - Spring security - jwt : FullStack DEMO project 2025 | VERSION 1 |
   | ------- | ------ | ------ |
@@ -1222,6 +1417,11 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
   ![](https://github.com/AxelCCp/images-my-git/blob/master/angular-spring-portfolio-2025.png) <br>
 
+
+
+
+<br>
+<br>
 <br>
   
 
@@ -1231,7 +1431,10 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<br> 
+<br>
+<br>
+<br>
+
 
 <div align="center" width="50" height="50">
   <br>
@@ -1251,10 +1454,16 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
   <br>
 </div>
 
+
+
+<br>
+<br>
 <br>
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/javascript.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS}}$   ${\textsf{\color{#5DADE2}40hrs}}$ -->
+
+|Udemy|
+|----|
+
 | Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS | `40hrs` |
 | ------- | ------- |
 
@@ -1271,8 +1480,15 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 ![](https://github.com/AxelCCp/images-my-git/blob/master/jqueryUI_css.jpg)
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/pythonUni.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Universidad Python con Frameworks Django, Flask, etc. +71hrs}}$   ${\textsf{\color{#5DADE2}71hrs}}$ -->
+
+<br>
+<br>
+<br>
+
+
+|Udemy|
+|----|
+
 | Universidad Python con Frameworks Django, Flask, etc. +71hrs | `71hrs` |
 | ------- | ------- |
 
@@ -1281,8 +1497,16 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Universidad-Python-con-Frameworks-Django-Flask-etc.-71hrs) <br>
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/java.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Java Avanzado - Aplicaciones Empresariales Para Empleo}}$   ${\textsf{\color{#5DADE2}53hrs}}$-->
+
+<br>
+<br>
+<br>
+
+
+
+|Udemy|
+|----|
+
 | Java Avanzado - Aplicaciones Empresariales Para Empleo | `53hrs` |
 | ------- | ------- |
 
@@ -1297,8 +1521,16 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 > :small_blue_diamond: [My development repository, section 11 ... (Final project - Music Store)](https://github.com/AxelCCp/tiendamusical) <br>
 
 
-<!-- ![](https://github.com/AxelCCp/images-my-git/blob/master/c.PNG) <br> -->
-<!-- ### ${\textsf{\color{#AF7AC5}Programación en C de Cero a Experto con Estructuras de Datos}}$   ${\textsf{\color{#5DADE2}49hrs}}$ -->
+
+<br>
+<br>
+<br>
+
+
+
+|Udemy|
+|----|
+
 | Programación en C de Cero a Experto con Estructuras de Datos | `49hrs` |
 | ------- | ------- |
 
@@ -1306,6 +1538,9 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 >:small_orange_diamond: [Go to the course information](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/)<br>
 :small_blue_diamond: [My development repository, NOT COMPLETE YET](https://github.com/AxelCCp/Programacion-en-C-de-Cero-a-Experto-con-Estructuras-de-Datos) <br>
 
+
+<br>
+<br>
 <br>
 
 
@@ -1314,7 +1549,11 @@ Hibernate: alter table tbl_workers_productionstage add constraint FKdi4wcfgeeqi8
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<br> 
+
+<br>
+<br>
+<br>
+
       
 😄BYE!!!👋
 
