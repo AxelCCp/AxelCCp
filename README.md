@@ -11,8 +11,17 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 <br>
 <br>
 
-:mage_man: `SYMBOLOGY OF MY REPOSITORY` ✨ <br>
+![](https://github.com/AxelCCp/images-my-git/blob/master/0c881f15-dd85-4577-83be-2d14ef11d348.jpg)
 
+<br>
+<br>
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+<br>
+<br>
+
+:mage_man: `SYMBOLOGY OF MY REPOSITORY` ✨ <br>
 
 | SYMBOL  | CONTENT |
 | ------------- | ------------- |
@@ -24,17 +33,6 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 | :rocket: | `LINK TO OTHER WEBSITE`. |
 | :point_right: | `COMMENTS`. |
 | `hrs` | `NUMBER OF HOURS OF VIDEO OF EACH COURSE`. |
-
-<br>
-<br>
-
--------------------------------------------------------------------------------------------------------------------------------------
-
-<br>
-<br>
-
-
-![](https://github.com/AxelCCp/images-my-git/blob/master/0c881f15-dd85-4577-83be-2d14ef11d348.jpg)
 
 <br>
 <br>
