@@ -34,7 +34,7 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 <br>
 
 
-![](https://github.com/AxelCCp/images-my-git/blob/master/my2image.jpeg)
+![](https://github.com/AxelCCp/images-my-git/blob/master/0c881f15-dd85-4577-83be-2d14ef11d348.jpg)
 
 <br>
 <br>
