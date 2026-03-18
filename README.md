@@ -611,8 +611,27 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 
 :construction: :construction: :construction: :construction:
 
+<br>
+<br>  
+<br>  
 
 
+|Udemy|
+|----|
+
+| MCP Course for AI Agents: Claude, VSCode and Copilot | `8.5hrs` |
+| ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
+> Learn MCP, Create Servers, Artificial Intelligence Assistants, Claude LLM, Github Copilot, JS, TS, Node
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/curso-de-mcp-para-agentes-de-ia-claude-vscode-y-github-copilot/) <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/MCP_para_Agentes_de_IA) <br>
+
+<br>
+<br>  
+<br>  
 
 --------------------------------------------------------------------------------------------------------------------------------
 
