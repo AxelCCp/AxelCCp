@@ -13,7 +13,6 @@ I'm a Java Developer 😊, I'm from Chile🐧🏔️❄️, I live in Mexico ✈
 ![](https://github.com/AxelCCp/images-my-git/blob/master/0c881f15-dd85-4577-83be-2d14ef11d348.jpg)
 
 <br>
-<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -632,6 +631,27 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <br>
 <br>  
 <br>  
+
+
+|Udemy|
+|----|
+
+| SQL from scratch: Your practical guide to PostgreSQL | `13hrs` |
+| ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
+> postgreSql.
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/sql-de-cero) <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/postgresql_udemy) <br>
+
+<br>
+<br>  
+<br>  
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
