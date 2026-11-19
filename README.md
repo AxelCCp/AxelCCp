@@ -601,14 +601,10 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 | Complete Linux Training Course to Get Your Dream IT Job 2025 | `42hrs` |
 | ------- | ------- |
 
-:construction: :construction: :construction:
-
 > [!IMPORTANT]
 > :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=CP251118G4) <br>
 > :small_blue_diamond: [My linux notes](https://github.com/AxelCCp/Complete-linux-training-course-2025) <br>
 
-
-:construction: :construction: :construction: :construction:
 
 <br>
 <br>  
@@ -649,6 +645,45 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 <br>
 <br>  
 <br>  
+
+
+
+|Udemy|
+|----|
+
+|  Microservicios con Spring Cloud y Apache Kafka | `6.5hrs` |
+| ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
+> Kafka.
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/microservicios-con-spring-cloud-y-apache-kafka/?couponCode=KEEPLEARNING ) <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/Kafka-Andres-Guzman) <br>
+
+<br>
+<br>  
+<br>  
+
+
+|Udemy|
+|----|
+
+|  Curso completo de Devops-SRE desde cero  | `109.5hrs` |
+| ------- | ------- |
+
+> :sparkles: **DESCRIPTION:** <br>
+> DEVOPS.
+
+> [!IMPORTANT]
+> :small_orange_diamond: [Go to to the course information](https://github.com/AxelCCp/parte-kubernetes-curso-devops-) <br>
+> :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/parte-kubernetes-curso-devops-) <br>
+
+<br>
+<br>  
+<br>  
+
+
 
 
 
