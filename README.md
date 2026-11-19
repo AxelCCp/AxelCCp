@@ -676,7 +676,7 @@ IDE's  ---------------------->  |- [Eclipse - Intellij - VS Code]
 > DEVOPS.
 
 > [!IMPORTANT]
-> :small_orange_diamond: [Go to to the course information](https://github.com/AxelCCp/parte-kubernetes-curso-devops-) <br>
+> :small_orange_diamond: [Go to to the course information](https://www.udemy.com/course/curso-completo-de-devops-sre-desde-cero/) <br>
 > :small_blue_diamond: [My development repository, backend](https://github.com/AxelCCp/parte-kubernetes-curso-devops-) <br>
 
 <br>
